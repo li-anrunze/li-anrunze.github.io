@@ -21,9 +21,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 
 # Site Author
 author:
-  name             : "Anrunze LI 
-                      黎安润泽
-                      (Leanne)"
+  name             : "Anrunze LI\n黎安润泽\n(Leanne23)"
   avatar           : "images/Avatar.png"
   bio              : "(Leanne)"
   location         : "Beijing, China"
