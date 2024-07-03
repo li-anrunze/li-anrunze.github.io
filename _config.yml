@@ -23,9 +23,10 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Anrunze LI"
   avatar           : "images/Avatar.png"
-  bio              : "黎安润泽"
+  bio              :
   location         : "Beijing, China"
   employer         :
+  dribbble         : "Information Resource Management"
   pubmed           : 
   googlescholar    :
   email            : "li-anrunze@ruc.edu.cn"
@@ -33,7 +34,7 @@ author:
   uri              :
   bitbucket        :
   codepen          :
-  dribbble         :
+
   flickr           :
   facebook         :
   foursquare       :
