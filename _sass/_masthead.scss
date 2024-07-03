@@ -46,10 +46,10 @@
 .masthead__menu-home-item {
   @include breakpoint($medium) {
     display: block !important;
-    margin-right: 50px;
+    margin-right: 40px;
   }
   display: none !important;
-  margin-right: 50px;
+  margin-right: 40px;
 }
 
 .masthead__menu-item {
