@@ -4,9 +4,27 @@
       <nav id="site-nav" class="greedy-nav">
         <button><div class="navicon"></div></button>
         <ul class="visible-links">
-          <li class="masthead__menu-item masthead__menu-item--lg masthead__menu-home-item"><a href="#about-me">Homepage</a></li>
+          <li class="masthead__menu-item masthead__menu-item--lg masthead__menu-home-item"><a href="#about-me"><div style="margin-right: 20px;">Homepage</div></a></li>
           {% for link in site.data.navigation.main %}
-            <li class="masthead__menu-item"><div style="margin-right: 50px;"><a href="{{ domain }}{{ link.url }}">{{ link.title }}</a></div></li>
+            <li class="masthead__menu-item">
+              <div style="margin-right: 10px;">
+                <a href="../_pages/aboutMe.html">About Me</a>
+              </div>
+              <div style="margin-right: 10px;">
+                <a href="../_pages/aboutMe.html">News</a>
+              </div>
+              <div style="margin-right: 10px;">
+                <a href="../_pages/aboutMe.html">Publications</a>
+              </div>
+              <div style="margin-right: 10px;">
+                <a href="../_pages/projects.html">Projects</a>
+              </div>
+              <div style="margin-right: 10px;">
+                <a href="../_pages/aboutMe.html">Honors and Awards</a>
+              </div>
+
+
+            </li>
           {% endfor %}
         </ul>
         <ul class="hidden-links hidden"></ul>
