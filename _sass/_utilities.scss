@@ -191,8 +191,7 @@ body:hover .visually-hidden button {
     color: $behance-color;
   }
 
-  .fa-dribbble,
-  .fa-codepen{
+  .fa-dribbble {
     color: $dribbble-color;
   }
 
@@ -252,6 +251,10 @@ body:hover .visually-hidden button {
   .fa-stack-exchange,
   .fa-stack-overflow {
     color: $stackoverflow-color;
+  }
+
+  .fa-codepen {
+    color: mix(#fff, $gray, 25%);
   }
 
   .fa-tumblr,
