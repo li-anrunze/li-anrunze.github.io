@@ -130,6 +130,40 @@
   }
 }
 
+.author__name1 {
+  margin: 0;
+  text-align: center;
+
+  @include breakpoint($large) {
+    margin-top: 10px;
+    margin-bottom: 10px;
+    text-align: center;
+  }
+}
+
+.author__name2 {
+  margin: 0;
+  text-align: center;
+
+  @include breakpoint($large) {
+    margin-top: 10px;
+    margin-bottom: 10px;
+    text-align: center;
+  }
+}
+
+.author__name3 {
+  margin: 0;
+  text-align: center;
+
+  @include breakpoint($large) {
+    margin-top: 10px;
+    margin-bottom: 10px;
+    text-align: center;
+  }
+}
+
+
 .sidebar .author__name {
   @include breakpoint($medium) {
     font-size: $type-size-3;

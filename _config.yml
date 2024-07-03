@@ -21,11 +21,11 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 
 # Site Author
 author:
-  name1             : "Anrunze LI"
-  name3             : "黎安润泽"
-  name2             : "(Leanne)"
+  name1            : "Anrunze LI"
+  name3            : "黎安润泽"
+  name2            : "(Leanne)"
   avatar           : "images/Avatar.png"
-  bio              : "(Leanne)"
+  bio              : "beijing "
   location         : "Beijing, China"
   employer         :
   pubmed           : 
