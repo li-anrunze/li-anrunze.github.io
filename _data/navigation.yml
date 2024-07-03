@@ -1,7 +1,8 @@
 # main links links
 main:
   - title: "About Me"
-    url: "aboutMe.html"
+    url: "/li-anrunze.github.io/_pages/aboutMe.html"
+
   - title: "News"
     url: "/#-news"
 
