@@ -10,6 +10,7 @@
 
   <div class="author__content">
     <h3 class="author__name">{{ author.name }}</h3>
+    <h3 class="author__name" style="margin-top: 3px">{{ author.name }}</h3>
     <h3 class="author__name" style="margin-top: 3px">黎安润泽</h3>
     <h3 class="author__name" style="font-size: 16px;margin-top: 3px;margin-bottom: 3px;">(Leanne)</h3>
     {% if author.bio %}<p class="author__bio">{{ author.bio }}</p>{% endif %}
@@ -19,10 +20,7 @@
     <!-- <button class="btn btn--inverse">More Info & Contact</button> -->
     <ul class="author__urls social-icons">
       {% if site.description %}
-        <li><div style="white-space: normal; margin-bottom: 1em; text-align: center;">Ph.D. Student</div></li>
-        <li><div style="white-space: normal; margin-bottom: 1em; text-align: center;">of</div></li>
-        <li><div style="white-space: normal; margin-bottom: 1em; text-align: center;">Information Resource Management</div></li>
-      <li><div style="white-space: normal; margin-bottom: 1em; text-align: center;">Renmin University of China</div></li>
+        <li><div style="white-space: normal; margin-bottom: 1em; text-align: center;">{{ site.description }}</div></li>
       {% endif %}
       {% if author.location %}
         <li><i class="fa fa-fw fa-map-marker" aria-hidden="true"></i> {{ author.location }}</li>
