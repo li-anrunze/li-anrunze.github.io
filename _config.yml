@@ -23,13 +23,13 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Anrunze LI"
   avatar           : "images/Avatar.png"
-  bio              : "beijing "
+  bio              : "A Ph.D. Student in Information Resource Management"
   location         : "Beijing, China"
-  employer         :
+  employer         : "Renmin University of China"
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=YOUR_GOOGLE_SCHOLAR_ID"
-  email            : "Lorem@ipsum.com"
-  researchgate     :  # e.g., "https://www.researchgate.net/profile/yourprofile"
+  email            : "li-anrunze@ruc.edu.cn"
+  researchgate     : "https://www.researchgate.net/profile/Anrunze-Li"
   uri              :
   bitbucket        :
   codepen          :
