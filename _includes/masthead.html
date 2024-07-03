@@ -6,21 +6,7 @@
         <ul class="visible-links">
           <li class="masthead__menu-item masthead__menu-item--lg masthead__menu-home-item" style="margin-right: 20px;"><a href="#about-me"><div>Homepage</div></a></li>
           {% for link in site.data.navigation.main %}
-          <div style="margin-left: 2px;margin-right: 2px;">
-            <a href="../_pages/aboutMe.html">About Me</a>
-          </div>
-          <div style="margin-left: 2px;margin-right: 2px;">
-            <a href="../_pages/aboutMe.html">News</a>
-          </div>
-          <div style="margin-left: 2px;margin-right: 2px;">
-            <a href="../_pages/aboutMe.html">Publications</a>
-          </div>
-          <div style="margin-left: 2px;margin-right: 2px;">
-            <a href="../_pages/projects.html">Projects</a>
-          </div>
-          <div style="margin-left: 2px;margin-right: 2px;">
-            <a href="../_pages/aboutMe.html">Honors and Awards</a>
-          </div>
+          <li class="masthead__menu-item" style="margin-left: 2px; margin-right: 2px;"><a href="{{ domain }}{{ link.url }}">{{ link.title }}</a></li>
           {% endfor %}
         </ul>
         <ul class="hidden-links hidden"></ul>
