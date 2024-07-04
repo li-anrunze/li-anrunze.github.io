@@ -72,6 +72,8 @@ Lately, I am particularly interested in **how generative AI can enable data to t
 <h1><i class="fa fa-fw fa-bell" aria-hidden="true"></i>  News</h1>
 </section>
 
+<h3>DH2024, IDEC2024 Continuing……</h3>
+
 <!-- 2024.04 会议 -->
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge" style="color: white; background-color: #743481;">iConference 2024</div><img src='images/news/iConference2024.png' alt="sym" width="100%"></div></div>
@@ -80,7 +82,7 @@ Lately, I am particularly interested in **how generative AI can enable data to t
 <mark style="background-color: #74aed4; color: #fff">&nbsp;&nbsp;Conference&nbsp;&nbsp; </mark> <br />
 **2024.04 | Jilin University, China** <br />
 *iConference 2024*
-- A paper **co-authored** by me titled "Research on museum digital cultural services based on user information needs: A Case Study of National Level Museums on the Social Q&A Platform 'Zhihu'" was presented.
+- A paper **Co-authored** by me titled "Research on museum digital cultural services based on user information needs: A Case Study of National Level Museums on the Social Q&A Platform 'Zhihu'" was presented.
 </div>
 </div>
 
@@ -103,8 +105,8 @@ Lately, I am particularly interested in **how generative AI can enable data to t
 
 <mark style="background-color: #d3e2b7; color: #fff">&nbsp;&nbsp;Voluntary&nbsp;&nbsp; </mark> <br />
 **2023.10 | Renmin University of China, China** <br />
-*The 20th China Information Resources Management Forum *
-- **Liaised** with experts, **organized** the agenda and accommodation, **coordinated** the Digital Humanities sub-forum, and **wrote** the press release.
+* The 20th China Information Resources Management Forum *
+- **Liaised** with experts, **Organized** the agenda and accommodation, **Coordinated** the Digital Humanities sub-forum, and **Wrote** the press release.
 
 </div>
 </div>
@@ -116,7 +118,7 @@ Lately, I am particularly interested in **how generative AI can enable data to t
 
 <mark style="background-color: #74aed4; color: #fff">&nbsp;&nbsp;Conference&nbsp;&nbsp; </mark> <br />
 **2023.10 | ICA Abu Dhabi Congress 2023, United Arab Emirates** <br />
-*International Council on Archives(ICA) Congress AbuDhabi 2023*
+*International Council on Archives (ICA) Congress AbuDhabi 2023*
 - Had a **Poster** presentation titled "Awakening Vernacular Memory: A Study of Deconstruction and Living Heritage for Chinese Local Gazetteers".
 - Attended the conference opening ceremony, keynote speeches, and dinner event. And was fortunate to have the opportunity to converse and take a photo with Josée Kirps, President of the International Council on Archives and Director of the National Archives of Luxembourg.
 </div>
@@ -154,7 +156,7 @@ Lately, I am particularly interested in **how generative AI can enable data to t
 <mark style="background-color: #d3e2b7; color: #fff">&nbsp;&nbsp;Voluntary&nbsp;&nbsp; </mark> <br />
 **2022.08 | Renmin University of China, China** <br />
 *China Information Science Annual Meeting & Information Science and Service Development Forum(2022) and the 12th National Information Science Doctoral Academic Forum*
-- **Coordinated** with session chairs, presenters and review experts, **organized** the conference agenda, and **documented**.
+- **Coordinated** with session chairs, presenters and review experts, and **Organized** the conference agenda.
 
 </div>
 </div>
