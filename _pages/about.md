@@ -10,8 +10,7 @@ redirect_from:
 
 <head>
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css">
-</head>
-<style>
+    <style>
         .column {
             padding: 1em;
             margin: 0.5em;
@@ -22,7 +21,9 @@ redirect_from:
         .column:last-child {
             flex: 2; /* 第二个栏目的宽度比例为 2 */
         }
-</style>
+    </style>
+</head>
+
 {% if site.google_scholar_stats_use_cdn %}
 {% assign gsDataBaseUrl = "https://cdn.jsdelivr.net/gh/" | append: site.repository | append: "@" %}
 {% else %}
@@ -40,9 +41,9 @@ Lately, I am particularly interested in **how generative AI can enable data to t
 
 
 
-# <div class="container" style="display: flex;justify-content: space-between;">
+<div class="container" style="display: flex;justify-content: space-between;">
 
-# <div class="column">
+<div class="column">
 
 # <i class="fa fa-fw fa-lightbulb" aria-hidden="true"></i> Interests
 - **Digital humanities**
@@ -50,9 +51,9 @@ Lately, I am particularly interested in **how generative AI can enable data to t
 - **Cultural Heritage**
 - **Knowledge organization**
 
-# </div>
+</div>
 
-# <div class="column" style="margin-left: 30px;">
+<div class="column" style="margin-left: 30px;">
 
 # <i class="fa fa-fw fa-mortar-board" aria-hidden="true"></i> Educations
 - ***2023.09 - now***, Ph.D. Student in Information Resource Management, Integrated Master’s-PhD Program, School of Information Resource Management, Renmin University of China
