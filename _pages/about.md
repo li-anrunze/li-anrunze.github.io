@@ -74,10 +74,23 @@ Lately, I am particularly interested in **how generative AI can enable data to t
 
 <!-- 2022.08 参会 -->
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge" style="color: white; background-color: #743481;">Bachelor's Degree</div><img src='images/news/Bachelor2021.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge" style="color: white; background-color: #743481;">Annual Meeting</div><img src='images/news/AnnualMeeting2022.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-<mark style="background-color: #d3e2b7; color: #fff">&nbsp;&nbsp;ELSE&nbsp;&nbsp; </mark> <br />
+<mark style="background-color: #d3e2b7; color: #fff">&nbsp;&nbsp;Voluntary&nbsp;&nbsp; </mark> <br />
+**2022.08 | Renmin University of China, China** <br />
+*China Information Science Annual Meeting & Information Science and Service Development Forum(2022) and the 12th National Information Science Doctoral Academic Forum*
+- As a **conference volunteer** Coordinated with session chairs, presenters, and review experts, organized the conference agenda, and documented the entire conference proceedings.
+
+</div>
+</div>
+
+<!-- 2022.08 参会 -->
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge" style="color: white; background-color: #743481;">Annual Meeting</div><img src='images/news/AnnualMeeting2022.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+<mark style="background-color: #d3e2b7; color: #fff">&nbsp;&nbsp;Voluntary&nbsp;&nbsp; </mark> <br />
 **2022.08 | Renmin University of China, China** <br />
 *China Information Science Annual Meeting & Information Science and Service Development Forum(2022) and the 12th National Information Science Doctoral Academic Forum*
 - As a **conference volunteer** Coordinated with session chairs, presenters, and review experts, organized the conference agenda, and documented the entire conference proceedings.
