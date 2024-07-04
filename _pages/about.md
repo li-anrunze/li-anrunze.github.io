@@ -80,12 +80,9 @@ Lately, I am particularly interested in **how generative AI can enable data to t
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Bachelor's Degree</div><img src='images/news/Bachelor2021.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-<mark style="background-color: #f7c97e">&nbsp;&nbsp;Graduation&nbsp;&nbsp; </mark> \
-**2021.06 | Beijing Normal University, China**
-<li>
-Get a bachelor's degree in management.
-</li>
-
+<mark style="background-color: #f7c97e">&nbsp;&nbsp;Graduation&nbsp;&nbsp; </mark> <br />
+**2021.06 | Beijing Normal University, China** <br />
+- Get a **Bachelor's Degree** in Management.
 
 </div>
 </div>
@@ -95,12 +92,25 @@ Get a bachelor's degree in management.
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">SLOC 2020</div><img src='images/news/SLOC2020.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-<mark style="background-color: #eca8a9">&nbsp;&nbsp;Contest&nbsp;&nbsp; </mark> \
-**2020.10 | Shanghai Library, China** \
+<mark style="background-color: #eca8a9">&nbsp;&nbsp;Contest&nbsp;&nbsp; </mark> <br />
+**2020.10 | Shanghai Library, China** <br />
 *Shanghai Library Open Data Contest 2020*
-<li>
-Participated in developing the "沪动 RunningAboveSH" applet, which won first place in 2020 (with a prize of 100,000 RMB).</p>
-</li>
+- Participated in developing the "沪动 RunningAboveSH" applet, which won **First Place** in 2020 (with prize money of 100,000 RMB).
+
+
+
+</div>
+</div>
+
+<!-- 2020.09 会议 -->
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Salon 2020</div><img src='images/news/Salon2020.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+<mark style="background-color: #74aed4">&nbsp;&nbsp;Conference&nbsp;&nbsp; </mark> <br />
+**2020.09 | University of Chinese Academy of Sciences, China** <br />
+*Beijing-Tianjin-Hebei map file graduate students (online) academic salon 2020 （首届京津冀图情档研究生（线上）学术沙龙）*
+- Had a **Long Paper** presentation titled "A Study of the Literature of Artificial Intelligence Ethics in Library and Information from 2015-2019".
 
 
 </div>
@@ -111,12 +121,10 @@ Participated in developing the "沪动 RunningAboveSH" applet, which won first p
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">JCDL 2020</div><img src='images/news/JCDL2020.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-<mark style="background-color: #74aed4">&nbsp;&nbsp;Conference&nbsp;&nbsp; </mark> \
-**2020.08 | Wuhan University (online), China**
-*Joint Conference on Digital Libraries in 2020*
-
-**[Summary]**
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.
+<mark style="background-color: #74aed4">&nbsp;&nbsp;Conference&nbsp;&nbsp; </mark> <br />
+**2020.08 | Wuhan University, China** <br />
+*Joint Conference on Digital Libraries in 2020* 
+- Had a **Poster** presentation titled "Comparison of Linguistic Characteristics of Different Disciplines' Questions on Academic Social Q&A Sites".
 </div>
 </div>
 
@@ -125,12 +133,11 @@ Participated in developing the "沪动 RunningAboveSH" applet, which won first p
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">RAILS 2019</div><img src='images/news/RAILS2019.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-<mark style="background-color: #74aed4">&nbsp;&nbsp;Conference&nbsp;&nbsp; </mark> \
-**2019.09 | Charles Sturt University, Australia**
+<mark style="background-color: #74aed4">&nbsp;&nbsp;Conference&nbsp;&nbsp; </mark> <br />
+**2019.09 | Charles Sturt University, Australia** <br />
 *Research Applications in Information and Library Studies 2019 conference*
-
-**[Summary]**
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.
+- Had a **Long Paper** presentation titled "Characterizing Response Rate on Academic Social Q&A Sites: A Multidiscipline Comparison
+  from Questions’ Linguistic Characteristics".
 </div>
 </div>
 
