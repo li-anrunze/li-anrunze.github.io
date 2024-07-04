@@ -231,7 +231,12 @@ Lately, I am particularly interested in **how generative AI can enable data to t
 <section id="projects">
 <h1><i class="fa fa-fw fa-flask" aria-hidden="true"></i>  Projects</h1>
 </section>
-11111
+
+<!-- ①问答平台项目 -->
+<div style="border-width: 1em;">123</div>
+
+
+
 
 <section id="publications">
 <h1><i class="fa fa-fw fa-pencil-square" aria-hidden="true"></i>  Publications</h1>
