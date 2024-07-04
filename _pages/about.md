@@ -74,10 +74,14 @@ Lately, I am particularly interested in **how generative AI can enable data to t
 - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 
-# <i class="fa fa-fw fa-flask" aria-hidden="true"></i>  Projects
+<section id="projects">
+<h1><i class="fa fa-fw fa-flask" aria-hidden="true"></i>  Projects</h1>
+</section>
+11111
 
-
-# <i class="fa fa-fw fa-pencil-square" aria-hidden="true"></i>  Publications 
+<section id="projects">
+<h1><i class="fa fa-fw fa-pencil-square" aria-hidden="true"></i>  Publications</h1>
+</section>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -93,6 +97,9 @@ Lately, I am particularly interested in **how generative AI can enable data to t
 
 - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
 
-# <i class="fa fa-fw fa-trophy" aria-hidden="true"></i> Honors and Awards
+<section id="projects">
+<h1><i class="fa fa-fw fa-trophy" aria-hidden="true"></i> Honors and Awards</h1>
+</section>
+ 
 - *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 - *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.
