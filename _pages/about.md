@@ -196,7 +196,7 @@ Lately, I am particularly interested in **how generative AI can enable data to t
 <mark style="background-color: #74aed4; color: #fff">&nbsp;&nbsp;Conference&nbsp;&nbsp; </mark> <br />
 **2020.09 | University of Chinese Academy of Sciences, China** <br />
 *首届京津冀图情档研究生（线上）学术沙龙*
-- Had a **Long Paper** presentation titled "A Study of the Literature of Artificial Intelligence Ethics in Library and Information from 2015-2019".
+- Had a **Long Paper** presentation titled "A Study of the Literature of Artificial Intelligence Ethics in Library and Information from 2015-2019" and **Received Excellent Paper Award**.
 
 
 </div>
@@ -256,6 +256,23 @@ Lately, I am particularly interested in **how generative AI can enable data to t
 <section id="honors-and-awards">
 <h1><i class="fa fa-fw fa-trophy" aria-hidden="true"></i> Honors and Awards</h1>
 </section>
- 
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.
+
+- 2024, **DH2024 Travel Bursary Award**, DH 2024
+- 2023, **Second-class Scholarship**, Renmin University of China 
+- 2023, **First-class Scholarship in Academics**, Renmin University of China
+- 2023, **Outstanding Graduate**, School of Information Resource Management, Renmin University of China
+- 2022, **Excellent Project Award** _(Leader)_, CDH 2022
+- 2022, **Outstanding Student**, Renmin University of China	2022
+- 2022, **First-class Scholarship in Academics**, Renmin University of China
+- 2021, **Second-class Scholarship**, Renmin University of China 
+- 2021, Undergraduate thesis recognized as **Outstanding**, Beijing Normal University
+- 2020, **School-level Excellent Innovation and Entrepreneurship Program** _(Leader)_, Beijing Normal University
+- 2020, **First place**, 2020 Shanghai Library Open Data Contest
+- 2020, **First-class Scholarship in Academics**, Beijing Normal University
+- 2020, **First-class Scholarship in Competition**, Beijing Normal University
+- 2019, **National Outstanding Teaching Team Award** for the "Knowing and Doing Program" _(Leader)_, China Education Support Project
+- 2019, **Outstanding Student**, Beijing Normal University
+- 2019, **First-class Scholarship in Competition**, Beijing Normal University
+- 2019, **Volunteer Service Award**, Beijing Normal University
+- 2019, **Meritorious Winner**, 2019 Interdisciplinary Contest in Modeling
+- 2018, **Social Work Award**, Beijing Normal University
