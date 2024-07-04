@@ -4,13 +4,13 @@ main:
     url: "/#about-me"
 
   - title: "News"
-    url: "/#news"
+    url: "#-news"
 
   - title: "Projects"
-    url: "/#projects"
+    url: "/#-projects"
 
   - title: "Publications"
-    url: "/#publications"
+    url: "/#-publications"
 
 
   - title: "Honors and Awards"
