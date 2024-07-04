@@ -34,6 +34,10 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
+<section id="about-me">
+<h1><i class="fa fa-fw fa-star" aria-hidden="true"></i> About Me</h1>
+</section>
+
 Hello, I am Anrunze LI! 🥰 \
 Currently, I  am a second-year PhD student in **Information Resources Management** at School of Information Resource Management, Renmin University of China(中国人民大学信息资源管理学院).\
 I am adept at thinking and solving problems, which come from classic books and everything around me. As an old Chinese proverb goes, “Traveling a thousand miles is better than reading a thousand books,” I actively participate in overseas exchange programs and international academic conferences, and have joined various competitions with my peers, connecting with like-minded academic friends.\
