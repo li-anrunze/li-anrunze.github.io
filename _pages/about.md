@@ -10,8 +10,19 @@ redirect_from:
 
 <head>
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css">
-    scroll-behavior: smooth;
 </head>
+<style>
+        .column {
+            padding: 1em;
+            margin: 0.5em;
+        }
+        .column:first-child {
+            flex: 1; /* 第一个栏目的宽度比例为 1 */
+        }
+        .column:last-child {
+            flex: 2; /* 第二个栏目的宽度比例为 2 */
+        }
+</style>
 {% if site.google_scholar_stats_use_cdn %}
 {% assign gsDataBaseUrl = "https://cdn.jsdelivr.net/gh/" | append: site.repository | append: "@" %}
 {% else %}
@@ -27,22 +38,11 @@ I am adept at **thinking and solving problems**, which come from classic books a
 I consistently uphold **a sincere and curious heart towards the world**, enjoying the exploration of diverse subjects. This is why I chose Digital Humanities as my core research direction. Beyond my major courses, I have taken electives in Computer Science, Sociology, Psychology, Education, and Film Arts. And I have experimented with developing websites and mini-programs to enrich my knowledge base and daily life.\
 Lately, I am particularly interested in **how generative AI can enable data to tell its own stories**. Welcome discussions on this topic! ❤️
 
-<style>
-        .column {
-            padding: 1em;
-            margin: 0.5em;
-        }
-        .column:first-child {
-            flex: 1; /* 第一个栏目的宽度比例为 1 */
-        }
-        .column:last-child {
-            flex: 2; /* 第二个栏目的宽度比例为 2 */
-        }
-</style>
 
-<div class="container" style="display: flex;justify-content: space-between;">
 
-<div class="column">
+# <div class="container" style="display: flex;justify-content: space-between;">
+
+# <div class="column">
 
 # <i class="fa fa-fw fa-lightbulb" aria-hidden="true"></i> Interests
 - **Digital humanities**
@@ -50,9 +50,9 @@ Lately, I am particularly interested in **how generative AI can enable data to t
 - **Cultural Heritage**
 - **Knowledge organization**
 
-</div>
+# </div>
 
-<div class="column" style="margin-left: 30px;">
+# <div class="column" style="margin-left: 30px;">
 
 # <i class="fa fa-fw fa-mortar-board" aria-hidden="true"></i> Educations
 - ***2023.09 - now***, Ph.D. Student in Information Resource Management, Integrated Master’s-PhD Program, School of Information Resource Management, Renmin University of China
@@ -60,8 +60,8 @@ Lately, I am particularly interested in **how generative AI can enable data to t
 - ***2017.09 - 2021.06***, B.S. in Information Management and Information System, School of Government, Beijing Normal University
 - ***2019.07***, Summer Exchange program for Global Business Leadership, Stanford University & U.C. Berkeley
 - ***2019.02***, Winter Training program on AI & Future Technologies, The University of Hong Kong
-</div>
-</div>
+# </div>
+# </div>
 
 # <i class="fa fa-fw fa-bell" aria-hidden="true"></i>  News
 - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
