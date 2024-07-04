@@ -17,9 +17,8 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Hello, I am Li Anrunze :) \
-Currently, I am a second-year PhD student in the integrated Master’s-PhD program at Renmin University of China.\
-From my undergraduate studies in **Information Resources Management**, I have diligently worked to solidify my professional knowledge and innovative abilities through reading, practice, and interaction. I am adept at critical thinking, discovering, solving and summarizing problems, which come from classic books and everything around me. As an old Chinese proverb goes, “Traveling a thousand miles is better than reading a thousand books,” I actively participate in overseas exchange programs and international academic conferences, and have joined various competitions with my peers, connecting with like-minded academic friends.\
+Hello, I am Li Anrunze :) \ a second-year PhD student in **Information Resources Management**.\
+I am adept at **thinking and solving problems**, which come from classic books and everything around me. As an old Chinese proverb goes, “Traveling a thousand miles is better than reading a thousand books,” I actively participate in overseas exchange programs and international academic conferences, and have joined various competitions with my peers, connecting with like-minded academic friends.\
 I consistently uphold **a sincere and curious heart towards the world**, enjoying the exploration of diverse subjects. This is why I chose Digital Humanities as my core research direction. Beyond my major courses, I have taken electives in Computer Science, Sociology, Psychology, Education, and Film Arts. And I have experimented with developing websites and mini-programs to enrich my knowledge base and daily life.\
 Lately, I am particularly interested in **how generative AI can enable data to tell its own stories**. Welcome discussions on this topic!
 
