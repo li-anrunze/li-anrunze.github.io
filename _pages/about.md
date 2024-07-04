@@ -75,12 +75,27 @@ Lately, I am particularly interested in **how generative AI can enable data to t
 <h1><i class="fa fa-fw fa-bell" aria-hidden="true"></i>  News</h1>
 </section>
 
+<!-- 2021.06 本科 -->
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Bachelor's Degree</div><img src='images/news/Bachelor2021.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+<mark style="background-color: #f7c97e">&nbsp;&nbsp;Graduation&nbsp;&nbsp; </mark> \
+**2021.06 | Beijing Normal University, China**
+<li>
+Get a bachelor's degree in management.
+</li>
+
+
+</div>
+</div>
+
 <!-- 2020.10 竞赛 -->
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">SLOC 2020</div><img src='images/news/SLOC2020.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-<mark style="background-color: #a390a2">&nbsp; Contest &nbsp; </mark> \
+<mark style="background-color: #eca8a9">&nbsp;&nbsp;Contest&nbsp;&nbsp; </mark> \
 **2020.10 | Shanghai Library, China** \
 *Shanghai Library Open Data Contest 2020*
 <li>
@@ -96,6 +111,7 @@ Participated in developing the "沪动 RunningAboveSH" applet, which won first p
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">JCDL 2020</div><img src='images/news/JCDL2020.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
+<mark style="background-color: #74aed4">&nbsp;&nbsp;Conference&nbsp;&nbsp; </mark> \
 **2020.08 | Wuhan University (online), China**
 *Joint Conference on Digital Libraries in 2020*
 
@@ -109,6 +125,7 @@ Participated in developing the "沪动 RunningAboveSH" applet, which won first p
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">RAILS 2019</div><img src='images/news/RAILS2019.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
+<mark style="background-color: #74aed4">&nbsp;&nbsp;Conference&nbsp;&nbsp; </mark> \
 **2019.09 | Charles Sturt University, Australia**
 *Research Applications in Information and Library Studies 2019 conference*
 
