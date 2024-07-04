@@ -207,8 +207,8 @@ Lately, I am particularly interested in **how generative AI can enable data to t
 <div class='paper-box'>
 
 <div class='paper-box-image'>
-
-
+<div><div class="badge" style="color: white; background-color: #743481;">JCDL 2020</div><img src='images/news/JCDL2020.png' alt="sym" width="100%"></div>
+</div>
 
 <div class='paper-box-text' markdown="1">
 <mark style="background-color: #74aed4; color: #fff">&nbsp;&nbsp;Conference&nbsp;&nbsp; </mark> <br />
@@ -216,12 +216,6 @@ Lately, I am particularly interested in **how generative AI can enable data to t
 *Joint Conference on Digital Libraries in 2020* 
 - Had a **Poster** presentation titled "Comparison of Linguistic Characteristics of Different Disciplines' Questions on Academic Social Q&A Sites".
 </div>
-
-<div>
-<div class="badge" style="color: white; background-color: #743481;">JCDL 2020</div>
-<img src='images/news/JCDL2020.png' alt="sym" width="100%"></div>
-</div>
-
 </div>
 
 <!-- 2019.10 会议 -->
@@ -243,9 +237,12 @@ Lately, I am particularly interested in **how generative AI can enable data to t
 </section>
 
 <!-- ①问答平台项目 -->
+
+<h2><i class="fa fa-fw fa-map-pin" aria-hidden="true"></i><Research on Academic Social Q&A Behavior Based on Computational Linguistics&nbsp;&nbsp;&nbsp;_2019-2021_</h2>
+
 <div  style="border: 0.05em solid #d3d3d3; padding: 10px; box-shadow: 3px 3px 5px rgba(0,0,0,0.3);">
 
-123456
+
 
 
 
