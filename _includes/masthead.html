@@ -4,9 +4,9 @@
       <nav id="site-nav" class="greedy-nav" style="background-color: #c9c0d3; color: #363636;">
         <button><div class="navicon"></div></button>
         <ul class="visible-links">
-          <li class="masthead__menu-item masthead__menu-item--lg masthead__menu-home-item" style="margin-right: 50px; color: #363636"><a href="#about-me"><div style="color: black;font-size: 17px;font-weight: bolder">Homepage</div></a></li>
+          <li class="masthead__menu-item masthead__menu-item--lg masthead__menu-home-item" style="margin-right: 50px; "><a href="#about-me"><div style="color: #363636; font-size: 17px;font-weight: bolder">Homepage</div></a></li>
           {% for link in site.data.navigation.main %}
-          <li class="masthead__menu-item"><a href="{{ domain }}{{ link.url }}" style="margin-right: 40px; color: black; font-weight: bold">{{ link.title }}</a></li>
+          <li class="masthead__menu-item"><a href="{{ domain }}{{ link.url }}" style="margin-right: 40px; color: #363636; font-weight: bold">{{ link.title }}</a></li>
           {% endfor %}
         </ul>
         <ul class="hidden-links hidden"></ul>
