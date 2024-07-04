@@ -17,9 +17,11 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. Suspendisse condimentum, libero vel tempus mattis, risus risus vulputate libero, elementum fermentum mi neque vel nisl. Maecenas facilisis maximus dignissim. Curabitur mattis vulputate dui, tincidunt varius libero luctus eu. Mauris mauris nulla, scelerisque eget massa id, tincidunt congue felis. Sed convallis tempor ipsum rhoncus viverra. Pellentesque nulla orci, accumsan volutpat fringilla vitae, maximus sit amet tortor. Aliquam ultricies odio ut volutpat scelerisque. Donec nisl nisl, porttitor vitae pharetra quis, fringilla sed mi. Fusce pretium dolor ut aliquam consequat. Cras volutpat, tellus accumsan mattis molestie, nisl lacus tempus massa, nec malesuada tortor leo vel quam. Aliquam vel ex consectetur, vehicula leo nec, efficitur eros. Donec convallis non urna quis feugiat.
-
-My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
+Hello, I am Li Anrunze :) \
+Currently, I am a second-year PhD student in the integrated Master’s-PhD program at Renmin University of China.\
+From my undergraduate studies in **Information Resources Management**, I have diligently worked to solidify my professional knowledge and innovative abilities through reading, practice, and interaction. I am adept at critical thinking, discovering, solving and summarizing problems, which come from classic books and everything around me. As an old Chinese proverb goes, “Traveling a thousand miles is better than reading a thousand books,” I actively participate in overseas exchange programs and international academic conferences, and have joined various competitions with my peers, connecting with like-minded academic friends.\
+I consistently uphold **a sincere and curious heart towards the world**, enjoying the exploration of diverse subjects. This is why I chose Digital Humanities as my core research direction. Beyond my major courses, I have taken electives in Computer Science, Sociology, Psychology, Education, and Film Arts. And I have experimented with developing websites and mini-programs to enrich my knowledge base and daily life.\
+Lately, I am particularly interested in **how generative AI can enable data to tell its own stories**. Welcome discussions on this topic!
 
 
 # 🔥 News啊啊啊
