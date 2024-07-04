@@ -238,11 +238,11 @@ Lately, I am particularly interested in **how generative AI can enable data to t
 
 <!-- ①问答平台项目 -->
 
-<h2><i class="fa fa-fw fa-map-pin" aria-hidden="true"></i><Research on Academic Social Q&A Behavior Based on Computational Linguistics&nbsp;&nbsp;&nbsp;_2019-2021_</h2>
+<h2><div style="margin-right:20px;"><i class="fa fa-fw fa-map-pin" aria-hidden="true" style="float: left;"></i></div><div>Research on Academic Social Q&A Behavior Based on Computational Linguistics&nbsp;&nbsp;&nbsp;<em>2019-2021</em><div></h2>
 
 <div  style="border: 0.05em solid #d3d3d3; padding: 10px; box-shadow: 3px 3px 5px rgba(0,0,0,0.3);">
 
-
+1234
 
 
 
