@@ -72,15 +72,28 @@ Lately, I am particularly interested in **how generative AI can enable data to t
 <h1><i class="fa fa-fw fa-bell" aria-hidden="true"></i>  News</h1>
 </section>
 
-<!-- 2022.08 参会 -->
+<!-- 2023.10 会议 -->
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge" style="color: white; background-color: #743481;">Annual Meeting</div><img src='images/news/AnnualMeeting2022.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge" style="color: white; background-color: #743481;">ICA 2023</div><img src='images/news/ICA202301.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+<div class='paper-box'><div class='paper-box-image'><div><img src='images/news/ICA202302.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-<mark style="background-color: #d3e2b7; color: #fff">&nbsp;&nbsp;Voluntary&nbsp;&nbsp; </mark> <br />
-**2022.08 | Renmin University of China, China** <br />
-*China Information Science Annual Meeting & Information Science and Service Development Forum(2022) and the 12th National Information Science Doctoral Academic Forum*
-- As a **conference volunteer** Coordinated with session chairs, presenters, and review experts, organized the conference agenda, and documented the entire conference proceedings.
+<mark style="background-color: #74aed4; color: #fff">&nbsp;&nbsp;Conference&nbsp;&nbsp; </mark> <br />
+**2023.10 | ICA Abu Dhabi Congress 2023, United Arab Emirates** <br />
+*International Council on Archives(ICA) Congress AbuDhabi 2023*
+- Had a **Poster** presentation titled "Awakening Vernacular Memory: A Study of Deconstruction and Living Heritage for Chinese Local Gazetteers".
+</div>
+</div>
+
+<!-- 2023.06 硕士 -->
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge" style="color: white; background-color: #743481;">Master's Degree</div><img src='images/news/Master2023.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+<mark style="background-color: #f7c97e; color: #fff">&nbsp;&nbsp;Graduation&nbsp;&nbsp; </mark> <br />
+**2023.06 | Renmin University of China, China** <br />
+- Pursue a **Master's Degree** in Management.
 
 </div>
 </div>
@@ -93,7 +106,7 @@ Lately, I am particularly interested in **how generative AI can enable data to t
 <mark style="background-color: #d3e2b7; color: #fff">&nbsp;&nbsp;Voluntary&nbsp;&nbsp; </mark> <br />
 **2022.08 | Renmin University of China, China** <br />
 *China Information Science Annual Meeting & Information Science and Service Development Forum(2022) and the 12th National Information Science Doctoral Academic Forum*
-- As a **conference volunteer** Coordinated with session chairs, presenters, and review experts, organized the conference agenda, and documented the entire conference proceedings.
+- **Coordinated** with session chairs, presenters and review experts, **organized** the conference agenda, and **documented**.
 
 </div>
 </div>
@@ -105,7 +118,7 @@ Lately, I am particularly interested in **how generative AI can enable data to t
 
 <mark style="background-color: #f7c97e; color: #fff">&nbsp;&nbsp;Graduation&nbsp;&nbsp; </mark> <br />
 **2021.06 | Beijing Normal University, China** <br />
-- Get a **Bachelor's Degree** in Management.
+- Got a **Bachelor's Degree** in Management.
 
 </div>
 </div>
