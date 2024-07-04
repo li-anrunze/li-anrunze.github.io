@@ -19,6 +19,9 @@ redirect_from:
         .column:last-child {
             flex: 2; /* 第二个栏目的宽度比例为 2 */
         }
+        html {
+            scroll-behavior: smooth; /* 添加平滑滚动效果 */
+        }
     </style>
 </head>
 
@@ -64,7 +67,10 @@ Lately, I am particularly interested in **how generative AI can enable data to t
 
 </div>
 
-# <i class="fa fa-fw fa-bell" aria-hidden="true"></i>  News
+<section id="news">
+<h1><i class="fa fa-fw fa-bell" aria-hidden="true"></i>  News</h1>
+</section>
+
 - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 
