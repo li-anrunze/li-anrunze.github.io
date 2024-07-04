@@ -8,6 +8,9 @@ redirect_from:
   - /about.html
 ---
 
+<head>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css">
+</head>
 {% if site.google_scholar_stats_use_cdn %}
 {% assign gsDataBaseUrl = "https://cdn.jsdelivr.net/gh/" | append: site.repository | append: "@" %}
 {% else %}
@@ -17,13 +20,13 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Hello, I am Li Anrunze!:) A second-year PhD student in **Information Resources Management**.\
+Hello, I am Li Anrunze!:)  A second-year PhD student in **Information Resources Management**.\
 I am adept at **thinking and solving problems**, which come from classic books and everything around me. As an old Chinese proverb goes, “Traveling a thousand miles is better than reading a thousand books,” I actively participate in overseas exchange programs and international academic conferences, and have joined various competitions with my peers, connecting with like-minded academic friends.\
 I consistently uphold **a sincere and curious heart towards the world**, enjoying the exploration of diverse subjects. This is why I chose Digital Humanities as my core research direction. Beyond my major courses, I have taken electives in Computer Science, Sociology, Psychology, Education, and Film Arts. And I have experimented with developing websites and mini-programs to enrich my knowledge base and daily life.\
-Lately, I am particularly interested in **how generative AI can enable data to tell its own stories**. Welcome discussions on this topic!
+Lately, I am particularly interested in **how generative AI can enable data to tell its own stories**. Welcome discussions on this topic! 🥰
 
 
-# 🔥 News啊啊啊
+# <i class="fa fa-fw fa-bell" aria-hidden="true"></i>  News
 - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 
