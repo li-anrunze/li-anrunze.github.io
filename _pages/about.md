@@ -240,9 +240,9 @@ Lately, I am particularly interested in **how generative AI can enable data to t
 
 <!-- ①问答平台项目 -->
 
-<li style="margin-left: 0.5em;"><h2><i class="fa-li fa fa-fw fa-map-pin" aria-hidden="true" style="float: left;"></i>Research on Academic Social Q&A Behavior Based on Computational Linguistics&nbsp;&nbsp;&nbsp;<em>2019-2021</em></h2></li>
+<li style="margin-left: -0.5em;"><h2><i class="fa-li fa fa-fw fa-map-pin" aria-hidden="true" style="float: left;"></i>Research on Academic Social Q&A Behavior Based on Computational Linguistics&nbsp;&nbsp;&nbsp;<em>2019-2021</em></h2></li>
 
-<div  style="border: 0.05em solid #d3d3d3; padding: 10px; box-shadow: 3px 3px 5px rgba(0,0,0,0.3);">
+<div  style="border: 0.05em solid #d3d3d3; margin-left:-0.5em; padding: 10px; box-shadow: 3px 3px 5px rgba(0,0,0,0.3);">
 
 1234
 
