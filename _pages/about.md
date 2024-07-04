@@ -72,15 +72,53 @@ Lately, I am particularly interested in **how generative AI can enable data to t
 <h1><i class="fa fa-fw fa-bell" aria-hidden="true"></i>  News</h1>
 </section>
 
+<!-- 2024.04 会议 -->
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge" style="color: white; background-color: #743481;">iConference 2024</div><img src='images/news/iConference2024.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+<mark style="background-color: #74aed4; color: #fff">&nbsp;&nbsp;Conference&nbsp;&nbsp; </mark> <br />
+**2024.04 | Jilin University, China** <br />
+*iConference 2024*
+- A paper **co-authored** by me titled "Research on museum digital cultural services based on user information needs: A Case Study of National Level Museums on the Social Q&A Platform 'Zhihu'" was presented.
+</div>
+</div>
+
+<!-- 2023.12 会议 -->
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge" style="color: white; background-color: #743481;">CDH 2023</div><img src='images/news/CDH2023.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+<mark style="background-color: #74aed4; color: #fff">&nbsp;&nbsp;Conference&nbsp;&nbsp; </mark> <br />
+**2023.12 | Wuhan University, China** <br />
+*2023 Chinese Digital Humanities Conference*
+- Had a **Long Paper** presentation titled "Deconstruction and Activation: Research on Multi-Granularity Knowledge Service Model for Local Gazetteers Based on Dual Perspectives".
+</div>
+</div>
+
+<!-- 2023.10 志愿 -->
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge" style="color: white; background-color: #743481;">Forum</div><img src='images/news/AnnualMeeting2023.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+<mark style="background-color: #d3e2b7; color: #fff">&nbsp;&nbsp;Voluntary&nbsp;&nbsp; </mark> <br />
+**2023.10 | Renmin University of China, China** <br />
+*The 20th China Information Resources Management Forum *
+- **Liaised** with experts, **organized** the agenda and accommodation, **coordinated** the Digital Humanities sub-forum, and **wrote** the press release.
+
+</div>
+</div>
+
 <!-- 2023.10 会议 -->
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge" style="color: white; background-color: #743481;">ICA 2023</div><img src='images/news/ICA202301.png' alt="sym" width="100%"><div><img src='images/news/ICA202302.png' alt="sym" width="100%"></div></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge" style="color: white; background-color: #743481;">ICA 2023</div><img src='images/news/ICA202301.png' alt="sym" width="100%"><div><img src='images/news/ICA202302.png' alt="sym" width="100%" style="margin-top: 10px;"></div></div></div>
 <div class='paper-box-text' markdown="1">
 
 <mark style="background-color: #74aed4; color: #fff">&nbsp;&nbsp;Conference&nbsp;&nbsp; </mark> <br />
 **2023.10 | ICA Abu Dhabi Congress 2023, United Arab Emirates** <br />
 *International Council on Archives(ICA) Congress AbuDhabi 2023*
 - Had a **Poster** presentation titled "Awakening Vernacular Memory: A Study of Deconstruction and Living Heritage for Chinese Local Gazetteers".
+- Attended the conference opening ceremony, keynote speeches, and dinner event. And was fortunate to have the opportunity to converse and take a photo with Josée Kirps, President of the International Council on Archives and Director of the National Archives of Luxembourg.
 </div>
 </div>
 
@@ -96,7 +134,19 @@ Lately, I am particularly interested in **how generative AI can enable data to t
 </div>
 </div>
 
-<!-- 2022.08 参会 -->
+<!-- 2022.11 会议 -->
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge" style="color: white; background-color: #743481;">CDH 2022</div><img src='images/news/CDH2022.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+<mark style="background-color: #74aed4; color: #fff">&nbsp;&nbsp;Conference&nbsp;&nbsp; </mark> <br />
+**2022.11 | Renmin University of China, China** <br />
+*2022 Chinese Digital Humanities Conference*
+- Received the **Excellent Project Award** (leader) for developing the digital humanities project "Wu Baokang Academic Celebrity Knowledge Base (追溯灿烂生平，共忆兰台奠基 —吴宝康学术名人知识库)."
+</div>
+</div>
+
+<!-- 2022.08 志愿 -->
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge" style="color: white; background-color: #743481;">Annual Meeting</div><img src='images/news/AnnualMeeting2022.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
