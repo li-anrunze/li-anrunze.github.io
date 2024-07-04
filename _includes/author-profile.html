@@ -2,16 +2,16 @@
   {% assign author = site.data.authors[page.author] %}{% else %}{% assign author = site.author %}
 {% endif %}
 
-<div itemscope itemtype="http://schema.org/Person" class="profile_box" style="background-color: #743481; color: #fff">
+<div itemscope itemtype="http://schema.org/Person" class="profile_box">
 
-  <div class="author__avatar" style="background-color: #743481; color: #fff">
+  <div class="author__avatar">
     <img src="{{ author.avatar }}" class="author__avatar" alt="{{ author.name }}">
   </div>
 
-  <div class="author__content" style="background-color: #743481; color: #fff">
-    <h3 class="author__name" style="text-align: center;background-color: #743481; color: #fff">{{ author.name }}</h3>
-    <h3 class="author__name" style="margin-top: 3px; text-align: center;background-color: #743481; color: #fff">黎安润泽</h3>
-    <h3 class="author__name" style="font-size: 16px;margin-top: 3px;margin-bottom: 3px; text-align: center;background-color: #743481; color: #fff">(Leanne)</h3>
+  <div class="author__content">
+    <h3 class="author__name" style="text-align: center">{{ author.name }}</h3>
+    <h3 class="author__name" style="margin-top: 3px; text-align: center;">黎安润泽</h3>
+    <h3 class="author__name" style="font-size: 16px;margin-top: 3px;margin-bottom: 3px; text-align: center;">(Leanne)</h3>
     {% if author.bio %}<p class="author__bio">{{ author.bio }}</p>{% endif %}
   </div>
 
