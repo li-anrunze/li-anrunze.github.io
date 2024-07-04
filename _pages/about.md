@@ -79,7 +79,7 @@ Lately, I am particularly interested in **how generative AI can enable data to t
 </section>
 11111
 
-<section id="projects">
+<section id="publications">
 <h1><i class="fa fa-fw fa-pencil-square" aria-hidden="true"></i>  Publications</h1>
 </section>
 
@@ -97,7 +97,7 @@ Lately, I am particularly interested in **how generative AI can enable data to t
 
 - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
 
-<section id="projects">
+<section id="honors-and-awards">
 <h1><i class="fa fa-fw fa-trophy" aria-hidden="true"></i> Honors and Awards</h1>
 </section>
  
