@@ -74,9 +74,7 @@ Lately, I am particularly interested in **how generative AI can enable data to t
 
 <!-- 2023.10 会议 -->
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge" style="color: white; background-color: #743481;">ICA 2023</div><img src='images/news/ICA202301.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-<div class='paper-box'><div class='paper-box-image'><div><img src='images/news/ICA202302.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge" style="color: white; background-color: #743481;">ICA 2023</div><img src='images/news/ICA202301.png' alt="sym" width="100%"><div><img src='images/news/ICA202302.png' alt="sym" width="100%"></div></div></div>
 <div class='paper-box-text' markdown="1">
 
 <mark style="background-color: #74aed4; color: #fff">&nbsp;&nbsp;Conference&nbsp;&nbsp; </mark> <br />
