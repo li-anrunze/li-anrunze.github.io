@@ -16,7 +16,7 @@ redirect_from:
             margin: 0.5em;
         }
         .column:first-child {
-            flex: 1; /* 第一个栏目的宽度比例为 1 */
+            ; /* 第一个栏目的宽度比例为 1 */
         }
         .column:last-child {
             flex: 2; /* 第二个栏目的宽度比例为 2 */
@@ -35,7 +35,7 @@ redirect_from:
 
 Hello, I am Anrunze LI! 🥰 \
 Currently, I  am a second-year PhD student in **Information Resources Management** at School of Information Resource Management, Renmin University of China(中国人民大学信息资源管理学院).\
-I am adept at **thinking and solving problems**, which come from classic books and everything around me. As an old Chinese proverb goes, “Traveling a thousand miles is better than reading a thousand books,” I actively participate in overseas exchange programs and international academic conferences, and have joined various competitions with my peers, connecting with like-minded academic friends.\
+I am adept at thinking and solving problems, which come from classic books and everything around me. As an old Chinese proverb goes, “Traveling a thousand miles is better than reading a thousand books,” I actively participate in overseas exchange programs and international academic conferences, and have joined various competitions with my peers, connecting with like-minded academic friends.\
 I consistently uphold **a sincere and curious heart towards the world**, enjoying the exploration of diverse subjects. This is why I chose Digital Humanities as my core research direction. Beyond my major courses, I have taken electives in Computer Science, Sociology, Psychology, Education, and Film Arts. And I have experimented with developing websites and mini-programs to enrich my knowledge base and daily life.\
 Lately, I am particularly interested in **how generative AI can enable data to tell its own stories**. Welcome discussions on this topic! ❤️
 
@@ -44,25 +44,27 @@ Lately, I am particularly interested in **how generative AI can enable data to t
 <div class="container" style="display: flex;justify-content: space-between;">
 
 <div class="column">
-
-# <i class="fa fa-fw fa-lightbulb" aria-hidden="true"></i> Interests
-- **Digital humanities**
-- **Data narratives**
-- **Cultural Heritage**
-- **Knowledge organization**
-
+<h1> <i class="fa fa-fw fa-lightbulb" aria-hidden="true"></i> Interests </h1>
+<ul>
+<li><strong>Digital Humanities</strong></li>
+<li><strong>Data Narratives</strong></li>
+<li><strong>Cultural Heritage</strong></li>
+<li><strong>Knowledge Organization</strong></li>
+</ul>
 </div>
 
 <div class="column" style="margin-left: 30px;">
+<h1> <i class="fa fa-fw fa-mortar-board" aria-hidden="true"></i> Educations </h1>
+<ul>
+<li><strong><em>2023.09 - now</em></strong>, Ph.D. Student in Information Resource Management, Integrated Master’s-PhD Program, School of Information Resource Management, Renmin University of China</li>
+<li><strong><em>2021.09 - 2023.06</em></strong>, M.S. in Information Science, School of Information Resource Management, Renmin University of China</li>
+<li><strong><em>2017.09 - 2021.06</em></strong>, B.S. in Information Management and Information System, School of Government, Beijing Normal University</li>
+<li><strong><em>2019.07</em></strong>, Summer Exchange program for Global Business Leadership, Stanford University & U.C. Berkeley</li>
+<li><strong><em>2019.02</em></strong>, Winter Training program on AI & Future Technologies, The University of Hong Kong</li>
+</ul>
+</div>
 
-# <i class="fa fa-fw fa-mortar-board" aria-hidden="true"></i> Educations
-- ***2023.09 - now***, Ph.D. Student in Information Resource Management, Integrated Master’s-PhD Program, School of Information Resource Management, Renmin University of China
-- ***2021.09 - 2023.06***, M.S. in Information Science, School of Information Resource Management, Renmin University of China
-- ***2017.09 - 2021.06***, B.S. in Information Management and Information System, School of Government, Beijing Normal University
-- ***2019.07***, Summer Exchange program for Global Business Leadership, Stanford University & U.C. Berkeley
-- ***2019.02***, Winter Training program on AI & Future Technologies, The University of Hong Kong
-# </div>
-# </div>
+</div>
 
 # <i class="fa fa-fw fa-bell" aria-hidden="true"></i>  News
 - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
