@@ -12,8 +12,6 @@ redirect_from:
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css">
     <style>
         .column {
-            padding: 1em;
-            margin: 0.5em;
         }
         .column:first-child {
             ; /* 第一个栏目的宽度比例为 1 */
@@ -46,14 +44,14 @@ Lately, I am particularly interested in **how generative AI can enable data to t
 <div class="column">
 <h1> <i class="fa fa-fw fa-lightbulb" aria-hidden="true"></i> Interests </h1>
 <ul>
-<li><strong>Digital Humanities</strong></li>
-<li><strong>Data Narratives</strong></li>
-<li><strong>Cultural Heritage</strong></li>
-<li><strong>Knowledge Organization</strong></li>
+<li>Digital Humanities</li>
+<li>Data Narratives</li>
+<li>Cultural Heritage</li>
+<li>Knowledge Organization</li>
 </ul>
 </div>
 
-<div class="column" style="margin-left: 30px;">
+<div class="column" style="margin-left: 5em;">
 <h1> <i class="fa fa-fw fa-mortar-board" aria-hidden="true"></i> Educations </h1>
 <ul>
 <li><strong><em>2023.09 - now</em></strong>, Ph.D. Student in Information Resource Management, Integrated Master’s-PhD Program, School of Information Resource Management, Renmin University of China</li>
