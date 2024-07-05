@@ -123,20 +123,20 @@ The findings indicate that some linguistic characteristics, such as sadness, pos
 
 <ul style="text-align: justify;">
 
-<li> [14] <strong>Li, A.</strong>, Niu, L., & Wang, R. (2024). Accumulation, Activation and Realization: An Exploration of Strategies for Valorizing Corporate Archival Data Elements in the Context of New Quality Productivity. <strong><em>Archives Science Bulletin</em></strong>. (黎安润泽,牛力,王睿.积聚、激活与实现：新质生产力背景下企业档案数据要素价值化探析.档案学通讯, Accepted)&nbsp;&nbsp;&nbsp;&nbsp;<mark style="background-color: #69547a; color: #fff">&nbsp;&nbsp;Journal Paper&nbsp;&nbsp; </mark></li>
-<li> [13] Wang, Z., <strong>Li, A.</strong>, Chu, Y. & Liu, C. (2024). Exploration of Knowledge Enabling Business of Enterprise Archives under New Situation --Taking Southern Power Grid Corporation as an Example. <strong><em>China Archives</em></strong>. (王哲,黎安润泽,初颖慧,刘春培.新形势下企业档案知识赋能业务的探索——以南方电网公司为例.中国档案, Accepted)&nbsp;&nbsp;&nbsp;&nbsp;<mark style="background-color: #69547a; color: #fff">&nbsp;&nbsp;Journal Paper&nbsp;&nbsp; </mark></li>
-<li> [12] <strong>Li, A.</strong>, Niu, L., & Xie, Z. (2024). Research on Constructing a Data Storytelling Model for Archival Documentary Heritage Based on Evidence-Based Thinking. <strong><em>Information Studies: Theory & Application</em></strong>. (黎安润泽,牛力,谢震香.基于循证思维的档案文献遗产数据故事化模型构建研究[J/OL].情报理论与实践, In Press)&nbsp;&nbsp;&nbsp;&nbsp;<mark style="background-color: #69547a; color: #fff">&nbsp;&nbsp;Journal Paper&nbsp;&nbsp; </mark></li>
-<li> [11] <strong>Li, A.</strong>, Niu, L., & Zheng, J. (2024). Deconstruction and Activation: Research on Multi-Granularity Knowledge Service Model for Local Gazetteers Based on Dual Perspectives. <strong><em>Library Journal</em></strong>. (黎安润泽,牛力,郑金月.解构与活化：基于双视角的地方志多粒度知识服务模型[J/OL].图书馆杂志, In Press)&nbsp;&nbsp;&nbsp;&nbsp;<mark style="background-color: #69547a; color: #fff">&nbsp;&nbsp;Journal Paper&nbsp;&nbsp; </mark></li>
-<li> [10] Niu, L., Jin, C., & <strong>Li, A.</strong> (2024). Applications of Large Language Models in the Transformation of Digital Intelligence of Archival Work: New Opportunities, New Patterns and New Shifts. <strong><em>Archives Science Bulletin</em></strong>. (牛力,金持,黎安润泽.大模型在档案工作数智转型中的应用：新机遇、新模式和新转变[J/OL].档案学通讯, In Press)&nbsp;&nbsp;&nbsp;&nbsp;<mark style="background-color: #69547a; color: #fff">&nbsp;&nbsp;Journal Paper&nbsp;&nbsp; </mark></li>
+<li> [14] <strong>Li, A.</strong>, Niu, L., & Wang, R. (2024). Accumulation, Activation and Realization: An Exploration of Strategies for Valorizing Corporate Archival Data Elements in the Context of New Quality Productivity. <strong><em>Archives Science Bulletin</em></strong>. (黎安润泽,牛力,王睿.积聚、激活与实现：新质生产力背景下企业档案数据要素价值化探析.档案学通讯, Accepted)&nbsp;&nbsp;&nbsp;&nbsp;<mark style="background-color: #69547a; color: #fff; box-shadow: 1px 1px 3px rgba(0,0,0,0.5);">&nbsp;&nbsp;Journal Paper&nbsp;&nbsp; </mark></li>
+<li> [13] Wang, Z., <strong>Li, A.</strong>, Chu, Y. & Liu, C. (2024). Exploration of Knowledge Enabling Business of Enterprise Archives under New Situation --Taking Southern Power Grid Corporation as an Example. <strong><em>China Archives</em></strong>. (王哲,黎安润泽,初颖慧,刘春培.新形势下企业档案知识赋能业务的探索——以南方电网公司为例.中国档案, Accepted)&nbsp;&nbsp;&nbsp;&nbsp;<mark style="background-color: #69547a; color: #fff; box-shadow: 1px 1px 3px rgba(0,0,0,0.5);">&nbsp;&nbsp;Journal Paper&nbsp;&nbsp; </mark></li>
+<li> [12] <strong>Li, A.</strong>, Niu, L., & Xie, Z. (2024). Research on Constructing a Data Storytelling Model for Archival Documentary Heritage Based on Evidence-Based Thinking. <strong><em>Information Studies: Theory & Application</em></strong>. (黎安润泽,牛力,谢震香.基于循证思维的档案文献遗产数据故事化模型构建研究[J/OL].情报理论与实践, In Press)&nbsp;&nbsp;&nbsp;&nbsp;<mark style="background-color: #69547a; color: #fff; box-shadow: 1px 1px 3px rgba(0,0,0,0.5);">&nbsp;&nbsp;Journal Paper&nbsp;&nbsp; </mark></li>
+<li> [11] <strong>Li, A.</strong>, Niu, L., & Zheng, J. (2024). Deconstruction and Activation: Research on Multi-Granularity Knowledge Service Model for Local Gazetteers Based on Dual Perspectives. <strong><em>Library Journal</em></strong>. (黎安润泽,牛力,郑金月.解构与活化：基于双视角的地方志多粒度知识服务模型[J/OL].图书馆杂志, In Press)&nbsp;&nbsp;&nbsp;&nbsp;<mark style="background-color: #69547a; color: #fff; box-shadow: 1px 1px 3px rgba(0,0,0,0.5);">&nbsp;&nbsp;Journal Paper&nbsp;&nbsp; </mark></li>
+<li> [10] Niu, L., Jin, C., & <strong>Li, A.</strong> (2024). Applications of Large Language Models in the Transformation of Digital Intelligence of Archival Work: New Opportunities, New Patterns and New Shifts. <strong><em>Archives Science Bulletin</em></strong>. (牛力,金持,黎安润泽.大模型在档案工作数智转型中的应用：新机遇、新模式和新转变[J/OL].档案学通讯, In Press)&nbsp;&nbsp;&nbsp;&nbsp;<mark style="background-color: #69547a; color: #fff; box-shadow: 1px 1px 3px rgba(0,0,0,0.5);">&nbsp;&nbsp;Journal Paper&nbsp;&nbsp; </mark></li>
 <li> [9] Hu, R., <strong>Li, A.</strong>, & Niu L. (2024). Academic Pedigree Data Construction Based on Academic Celebrity Archive Resources. <strong><em>Shanxi Archives</em></strong>, (02):134-144. (胡润东,黎安润泽,牛力.基于学术名人档案资源的学术谱系数据建设[J].山西档案,2024(02):134-144.)&nbsp;&nbsp;&nbsp;&nbsp;<mark style="background-color: #69547a; color: #fff">&nbsp;&nbsp;Journal Paper&nbsp;&nbsp; </mark></li>
-<li> [8] Chen, Y., <strong>Li, A.</strong>, & Niu L. (2024). Research on the Construction of Nuclear Power Document Continuity Management Model Under the Perspective of Dual-Cycle Interaction. <strong><em>Shanxi Archives</em></strong>, (01):116-124+161. (陈莹,黎安润泽,牛力.双周期交互视角下的核电文档连续性管理模式构建研究[J].山西档案,2024(01):116-124+161.)&nbsp;&nbsp;&nbsp;&nbsp;<mark style="background-color: #69547a; color: #fff">&nbsp;&nbsp;Journal Paper&nbsp;&nbsp; </mark></li>
-<li> [7] Li, L., <strong>Li, A.</strong>, Song, X., Li, X., Huang, K., & Ye, E. M. (2023). Characterizing response quantity on academic social Q&A sites: a multidiscipline comparison of linguistic characteristics of questions. <strong><em>Library Hi Tech</em></strong>, 41(3), 921-938.&nbsp;&nbsp;&nbsp;&nbsp;<mark style="background-color: #69547a; color: #fff">&nbsp;&nbsp;Journal Paper&nbsp;&nbsp; </mark></li>
-<li> [6] Niu, L., <strong>Li, A.</strong>, & Liu, H. (2023). Integration, Extension and Reconfiguration: Reflections on Information Technology Applications from the Perspective of Archival Business Transformation in Physical and Digital Dual Spaces. <strong><em>Archives Science Bulletin</em></strong>, (05):19-27. (牛力,黎安润泽,刘慧琳.融合、延展、重构：物理与数字双空间业务转型视角下的档案信息技术应用思考[J].档案学通讯,2023(05):19-27.)&nbsp;&nbsp;&nbsp;&nbsp;<mark style="background-color: #69547a; color: #fff">&nbsp;&nbsp;Journal Paper&nbsp;&nbsp; </mark></li>
-<li> [5] Niu, L., <strong>Li, A.</strong>, Liu, Y., & Liu, H. (2023). Research on Multi-Dimensional Analysis Model Based on Academic Celebrity Biography from the Perspective of Digital Humanities: Taking the Academic Chronicle of Wu Baokang as an Example. <strong><em>Library and Information Service</em></strong>, 67(06):96-106. (牛力,黎安润泽,刘雨欣,等.数字人文视角下学术名人传记多维度分析模式——以《吴宝康学术年谱》为例[J].图书情报工作,2023,67(06):96-106.)&nbsp;&nbsp;&nbsp;&nbsp;<mark style="background-color: #69547a; color: #fff">&nbsp;&nbsp;Journal Paper&nbsp;&nbsp; </mark></li>
-<li> [4] Niu, L., <strong>Li, A.</strong>, Liu, H., & Zeng, J. (2022). From Physics to Data: Research on the Construction of Smart Archives 2.0 System. <strong><em>Archives Science Study</em></strong>, (03):84-90. (牛力,黎安润泽,刘慧琳,等.从物理到数据：智慧档案2.0体系构建研究[J].档案学研究,2022(03):84-90.)&nbsp;&nbsp;&nbsp;&nbsp;<mark style="background-color: #69547a; color: #fff">&nbsp;&nbsp;Journal Paper&nbsp;&nbsp; </mark></li>
-<li> [3] Huang, K., Xu, X., <strong>Li, A.</strong>, & Xu, F. (2021). Study of the Literature of Artificial Intelligence Ethics in Library and Information from 2015-2019. <strong><em>Journal of Modern Information</em></strong>, 41(06):161-171. (黄崑,徐晓婷,黎安润泽,等.近5年图情SSCI期刊人工智能伦理研究文献分析与启示[J].现代情报,2021,41(06):161-171.)&nbsp;&nbsp;&nbsp;&nbsp;<mark style="background-color: #69547a; color: #fff">&nbsp;&nbsp;Journal Paper&nbsp;&nbsp; </mark></li>
-<li> [2] Li, L., <strong>Li, A.</strong>, Song, X., Li, X., & Huang, K. (2020, August). Comparison of Linguistic Characteristics of Different Disciplines' Questions on Academic Social Q&A Sites. In Proceedings of the <strong><em>ACM/IEEE Joint Conference on Digital Libraries in 2020</em></strong> (pp. 481-482).&nbsp;&nbsp;&nbsp;&nbsp;<mark style="background-color: #a390a2; color: #fff">&nbsp;&nbsp;Conference Paper&nbsp;&nbsp; </mark></li>
-<li> [1] Li, L., <strong>Li, A.</strong>, Song, X., Li, X., Huang, K., & Ye, E. M. (2020). Predicting response quantity from linguistic characteristics of questions on academic social Q&A sites. <strong><em>ICADL 2020</em></strong>, Proceedings 22 (pp. 399-406).&nbsp;&nbsp;&nbsp;&nbsp;<mark style="background-color: #a390a2; color: #fff">&nbsp;&nbsp;Conference Paper&nbsp;&nbsp; </mark></li>
+<li> [8] Chen, Y., <strong>Li, A.</strong>, & Niu L. (2024). Research on the Construction of Nuclear Power Document Continuity Management Model Under the Perspective of Dual-Cycle Interaction. <strong><em>Shanxi Archives</em></strong>, (01):116-124+161. (陈莹,黎安润泽,牛力.双周期交互视角下的核电文档连续性管理模式构建研究[J].山西档案,2024(01):116-124+161.)&nbsp;&nbsp;&nbsp;&nbsp;<mark style="background-color: #69547a; color: #fff; box-shadow: 1px 1px 3px rgba(0,0,0,0.5);">&nbsp;&nbsp;Journal Paper&nbsp;&nbsp; </mark></li>
+<li> [7] Li, L., <strong>Li, A.</strong>, Song, X., Li, X., Huang, K., & Ye, E. M. (2023). Characterizing response quantity on academic social Q&A sites: a multidiscipline comparison of linguistic characteristics of questions. <strong><em>Library Hi Tech</em></strong>, 41(3), 921-938.&nbsp;&nbsp;&nbsp;&nbsp;<mark style="background-color: #69547a; color: #fff; box-shadow: 1px 1px 3px rgba(0,0,0,0.5);; box-shadow: 1px 1px 3px rgba(0,0,0,0.5);">&nbsp;&nbsp;Journal Paper&nbsp;&nbsp; </mark></li>
+<li> [6] Niu, L., <strong>Li, A.</strong>, & Liu, H. (2023). Integration, Extension and Reconfiguration: Reflections on Information Technology Applications from the Perspective of Archival Business Transformation in Physical and Digital Dual Spaces. <strong><em>Archives Science Bulletin</em></strong>, (05):19-27. (牛力,黎安润泽,刘慧琳.融合、延展、重构：物理与数字双空间业务转型视角下的档案信息技术应用思考[J].档案学通讯,2023(05):19-27.)&nbsp;&nbsp;&nbsp;&nbsp;<mark style="background-color: #69547a; color: #fff; box-shadow: 1px 1px 3px rgba(0,0,0,0.5);">&nbsp;&nbsp;Journal Paper&nbsp;&nbsp; </mark></li>
+<li> [5] Niu, L., <strong>Li, A.</strong>, Liu, Y., & Liu, H. (2023). Research on Multi-Dimensional Analysis Model Based on Academic Celebrity Biography from the Perspective of Digital Humanities: Taking the Academic Chronicle of Wu Baokang as an Example. <strong><em>Library and Information Service</em></strong>, 67(06):96-106. (牛力,黎安润泽,刘雨欣,等.数字人文视角下学术名人传记多维度分析模式——以《吴宝康学术年谱》为例[J].图书情报工作,2023,67(06):96-106.)&nbsp;&nbsp;&nbsp;&nbsp;<mark style="background-color: #69547a; color: #fff; box-shadow: 1px 1px 3px rgba(0,0,0,0.5);">&nbsp;&nbsp;Journal Paper&nbsp;&nbsp; </mark></li>
+<li> [4] Niu, L., <strong>Li, A.</strong>, Liu, H., & Zeng, J. (2022). From Physics to Data: Research on the Construction of Smart Archives 2.0 System. <strong><em>Archives Science Study</em></strong>, (03):84-90. (牛力,黎安润泽,刘慧琳,等.从物理到数据：智慧档案2.0体系构建研究[J].档案学研究,2022(03):84-90.)&nbsp;&nbsp;&nbsp;&nbsp;<mark style="background-color: #69547a; color: #fff; box-shadow: 1px 1px 3px rgba(0,0,0,0.5);">&nbsp;&nbsp;Journal Paper&nbsp;&nbsp; </mark></li>
+<li> [3] Huang, K., Xu, X., <strong>Li, A.</strong>, & Xu, F. (2021). Study of the Literature of Artificial Intelligence Ethics in Library and Information from 2015-2019. <strong><em>Journal of Modern Information</em></strong>, 41(06):161-171. (黄崑,徐晓婷,黎安润泽,等.近5年图情SSCI期刊人工智能伦理研究文献分析与启示[J].现代情报,2021,41(06):161-171.)&nbsp;&nbsp;&nbsp;&nbsp;<mark style="background-color: #69547a; color: #fff; box-shadow: 1px 1px 3px rgba(0,0,0,0.5);">&nbsp;&nbsp;Journal Paper&nbsp;&nbsp; </mark></li>
+<li> [2] Li, L., <strong>Li, A.</strong>, Song, X., Li, X., & Huang, K. (2020, August). Comparison of Linguistic Characteristics of Different Disciplines' Questions on Academic Social Q&A Sites. In Proceedings of the <strong><em>ACM/IEEE Joint Conference on Digital Libraries in 2020</em></strong> (pp. 481-482).&nbsp;&nbsp;&nbsp;&nbsp;<mark style="background-color: #a390a2; color: #fff; box-shadow: 1px 1px 3px rgba(0,0,0,0.5);">&nbsp;&nbsp;Conference Paper&nbsp;&nbsp; </mark></li>
+<li> [1] Li, L., <strong>Li, A.</strong>, Song, X., Li, X., Huang, K., & Ye, E. M. (2020). Predicting response quantity from linguistic characteristics of questions on academic social Q&A sites. <strong><em>ICADL 2020</em></strong>, Proceedings 22 (pp. 399-406).&nbsp;&nbsp;&nbsp;&nbsp;<mark style="background-color: #a390a2; color: #fff; box-shadow: 1px 1px 3px rgba(0,0,0,0.5);">&nbsp;&nbsp;Conference Paper&nbsp;&nbsp; </mark></li>
 
 </ul>
 
@@ -153,7 +153,7 @@ The findings indicate that some linguistic characteristics, such as sadness, pos
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge" style="color: white; background-color: #743481;">iConference 2024</div><img src='images/news/iConference2024.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-<mark style="background-color: #74aed4; color: #fff">&nbsp;&nbsp;Conference&nbsp;&nbsp; </mark> <br />
+<mark style="background-color: #74aed4; color: #fff; box-shadow: 1px 1px 3px rgba(0,0,0,0.5);">&nbsp;&nbsp;Conference&nbsp;&nbsp; </mark> <br />
 **2024.04 | Jilin University, China** <br />
 *iConference 2024*
 - A paper **Co-authored** by me titled "Research on museum digital cultural services based on user information needs: A Case Study of National Level Museums on the Social Q&A Platform 'Zhihu'" was presented.
@@ -190,7 +190,7 @@ The findings indicate that some linguistic characteristics, such as sadness, pos
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge" style="color: white; background-color: #743481;">ICA 2023</div><img src='images/news/ICA202301.png' alt="sym" width="100%"><div><img src='images/news/ICA202302.png' alt="sym" width="100%" style="margin-top: 10px;"></div></div></div>
 <div class='paper-box-text' markdown="1">
 
-<mark style="background-color: #74aed4; color: #fff">&nbsp;&nbsp;Conference&nbsp;&nbsp; </mark> <br />
+<mark style="background-color: #74aed4; color: #fff; box-shadow: 1px 1px 3px rgba(0,0,0,0.5);">&nbsp;&nbsp;Conference&nbsp;&nbsp; </mark> <br />
 **2023.10 | ICA Abu Dhabi Congress 2023, United Arab Emirates** <br />
 *International Council on Archives (ICA) Congress AbuDhabi 2023*
 
@@ -207,7 +207,7 @@ The findings indicate that some linguistic characteristics, such as sadness, pos
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge" style="color: white; background-color: #743481;">Master's Degree</div><img src='images/news/Master2023.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-<mark style="background-color: #f7c97e; color: #fff">&nbsp;&nbsp;Graduation&nbsp;&nbsp; </mark> <br />
+<mark style="background-color: #f7c97e; color: #fff; box-shadow: 1px 1px 3px rgba(0,0,0,0.5);">&nbsp;&nbsp;Graduation&nbsp;&nbsp; </mark> <br />
 **2023.06 | Renmin University of China, China** <br />
 - Pursue a **Master's Degree** in Management.
 
@@ -219,7 +219,7 @@ The findings indicate that some linguistic characteristics, such as sadness, pos
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge" style="color: white; background-color: #743481;">CDH 2022</div><img src='images/news/CDH2022.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-<mark style="background-color: #74aed4; color: #fff">&nbsp;&nbsp;Conference&nbsp;&nbsp; </mark> <br />
+<mark style="background-color: #74aed4; color: #fff; box-shadow: 1px 1px 3px rgba(0,0,0,0.5);">&nbsp;&nbsp;Conference&nbsp;&nbsp; </mark> <br />
 **2022.11 | Renmin University of China, China** <br />
 *2022 Chinese Digital Humanities Conference*
 - Received the **Excellent Project Award** (leader) for developing the digital humanities project "Wu Baokang Academic Celebrity Knowledge Base (追溯灿烂生平，共忆兰台奠基 —吴宝康学术名人知识库)."
@@ -231,7 +231,7 @@ The findings indicate that some linguistic characteristics, such as sadness, pos
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge" style="color: white; background-color: #743481;">Annual Meeting</div><img src='images/news/AnnualMeeting2022.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-<mark style="background-color: #d3e2b7; color: #fff">&nbsp;&nbsp;Voluntary&nbsp;&nbsp; </mark> <br />
+<mark style="background-color: #d3e2b7; color: #fff; box-shadow: 1px 1px 3px rgba(0,0,0,0.5);">&nbsp;&nbsp;Voluntary&nbsp;&nbsp; </mark> <br />
 **2022.08 | Renmin University of China, China** <br />
 *China Information Science Annual Meeting & Information Science and Service Development Forum(2022) and the 12th National Information Science Doctoral Academic Forum*
 - **Coordinated** with session chairs and review experts and **Organized** the conference agenda.
@@ -244,7 +244,7 @@ The findings indicate that some linguistic characteristics, such as sadness, pos
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge" style="color: white; background-color: #743481;">Bachelor's Degree</div><img src='images/news/Bachelor2021.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-<mark style="background-color: #f7c97e; color: #fff">&nbsp;&nbsp;Graduation&nbsp;&nbsp; </mark> <br />
+<mark style="background-color: #f7c97e; color: #fff; box-shadow: 1px 1px 3px rgba(0,0,0,0.5);">&nbsp;&nbsp;Graduation&nbsp;&nbsp; </mark> <br />
 **2021.06 | Beijing Normal University, China** <br />
 - Got a **Bachelor's Degree** in Management.
 
@@ -256,7 +256,7 @@ The findings indicate that some linguistic characteristics, such as sadness, pos
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge" style="color: white; background-color: #743481;">SLOC 2020</div><img src='images/news/SLOC2020.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-<mark style="background-color: #eca8a9; color: #fff">&nbsp;&nbsp;Contest&nbsp;&nbsp; </mark> <br />
+<mark style="background-color: #eca8a9; color: #fff; box-shadow: 1px 1px 3px rgba(0,0,0,0.5);">&nbsp;&nbsp;Contest&nbsp;&nbsp; </mark> <br />
 **2020.10 | Shanghai Library, China** <br />
 *Shanghai Library Open Data Contest 2020*
 - Participated in developing the "RunningAboveSH 沪动" applet, which won **First Place** in 2020 (with prize money of 100,000 RMB).
@@ -271,7 +271,7 @@ The findings indicate that some linguistic characteristics, such as sadness, pos
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge" style="color: white; background-color: #743481;">Salon 2020</div><img src='images/news/Salon2020.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-<mark style="background-color: #74aed4; color: #fff">&nbsp;&nbsp;Conference&nbsp;&nbsp; </mark> <br />
+<mark style="background-color: #74aed4; color: #fff; box-shadow: 1px 1px 3px rgba(0,0,0,0.5);">&nbsp;&nbsp;Conference&nbsp;&nbsp; </mark> <br />
 **2020.09 | University of Chinese Academy of Sciences, China** <br />
 *首届京津冀图情档研究生（线上）学术沙龙*
 - Had a **Long Paper** presentation titled "A Study of the Literature of Artificial Intelligence Ethics in Library and Information from 2015-2019" and **Received Excellent Paper Award**.
@@ -288,7 +288,7 @@ The findings indicate that some linguistic characteristics, such as sadness, pos
 </div>
 
 <div class='paper-box-text' markdown="1">
-<mark style="background-color: #74aed4; color: #fff">&nbsp;&nbsp;Conference&nbsp;&nbsp; </mark> <br />
+<mark style="background-color: #74aed4; color: #fff; box-shadow: 1px 1px 3px rgba(0,0,0,0.5);">&nbsp;&nbsp;Conference&nbsp;&nbsp; </mark> <br />
 **2020.08 | Wuhan University, China** <br />
 *Joint Conference on Digital Libraries in 2020* 
 - Had a **Poster** presentation titled "Comparison of Linguistic Characteristics of Different Disciplines' Questions on Academic Social Q&A Sites".
@@ -300,7 +300,7 @@ The findings indicate that some linguistic characteristics, such as sadness, pos
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge" style="color: white; background-color: #743481;">RAILS 2019</div><img src='images/news/RAILS2019.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-<mark style="background-color: #74aed4; color: #fff">&nbsp;&nbsp;Conference&nbsp;&nbsp; </mark> <br />
+<mark style="background-color: #74aed4; color: #fff; box-shadow: 1px 1px 3px rgba(0,0,0,0.5);">&nbsp;&nbsp;Conference&nbsp;&nbsp; </mark> <br />
 **2019.09 | Charles Sturt University, Australia** <br />
 *Research Applications in Information and Library Studies 2019 conference*
 - Had a **Long Paper** presentation titled "Characterizing Response Rate on Academic Social Q&A Sites: A Multidiscipline Comparison
