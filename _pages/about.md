@@ -90,7 +90,7 @@ Lately, I am particularly interested in **how generative AI can enable data to t
 
 
 </div>
-
+<!-- ①问答平台项目 完 -->
 
 
 
@@ -98,11 +98,13 @@ Lately, I am particularly interested in **how generative AI can enable data to t
 
 
 </ul>
+
 <section id="publications">
 <h1><i class="fa fa-fw fa-pencil-square" aria-hidden="true"></i>  Publications</h1>
 </section>
 
 <ul   style="text-align: justify;">
+
 <li> [14] <strong>Li, A.</strong>, Niu, L., & Wang, R. (2024). Accumulation, Activation and Realization: An Exploration of Strategies for Valorizing Corporate Archival Data Elements in the Context of New Quality Productivity. <strong><em>Archives Science Bulletin</em></strong>. (黎安润泽,牛力,王睿.积聚、激活与实现：新质生产力背景下企业档案数据要素价值化探析.档案学通讯, Accepted)&nbsp;&nbsp;&nbsp;&nbsp;<mark style="background-color: #69547a; color: #fff">&nbsp;&nbsp;Journal Paper&nbsp;&nbsp; </mark>
 <li> [13] Wang, Z., <strong>Li, A.</strong>, Chu, Y. & Liu, C. (2024). Exploration of Knowledge Enabling Business of Enterprise Archives under New Situation --Taking Southern Power Grid Corporation as an Example. <strong><em>China Archives</em></strong>. (王哲,黎安润泽,初颖慧,刘春培.新形势下企业档案知识赋能业务的探索——以南方电网公司为例.中国档案, Accepted)&nbsp;&nbsp;&nbsp;&nbsp;<mark style="background-color: #69547a; color: #fff">&nbsp;&nbsp;Journal Paper&nbsp;&nbsp; </mark>
 <li> [12] <strong>Li, A.</strong>, Niu, L., & Xie, Z. (2024). Research on Constructing a Data Storytelling Model for Archival Documentary Heritage Based on Evidence-Based Thinking. <strong><em>Information Studies: Theory & Application</em></strong>. (黎安润泽,牛力,谢震香.基于循证思维的档案文献遗产数据故事化模型构建研究[J/OL].情报理论与实践, In Press)&nbsp;&nbsp;&nbsp;&nbsp;<mark style="background-color: #69547a; color: #fff">&nbsp;&nbsp;Journal Paper&nbsp;&nbsp; </mark>
