@@ -87,11 +87,11 @@ Lately, I am particularly interested in <strong>how generative AI can enable dat
 <mark style="background-color: #743481; color: #fff; padding: 0.2em; margin-right: 0.5em; margin-bottom: 0.5em;">&nbsp;&nbsp;Information seeking&nbsp;&nbsp; </mark>   
 
 </div>
-
+             
 <div  style="border: 0.05em solid #d3d3d3; margin-left:-0.5em; padding: 1.5em; box-shadow: 3px 3px 5px rgba(0,0,0,0.3); text-align: justify; background-color: #e0e0ee">
 
 <h2 style="text-align: center; margin-top: 0.5em; margin-bottom: 1em; text-decoration: underline; color: black;">1. Summary</h2>
-<img src='images/projects/p1/qaplatform1.png' width="100%">
+<img src='images/projects/p1/qaplatform1.png' width="100%" style="margin-bottom:0.5em;">
 
 <h2 style="text-align: center; margin-top: 0.5em; margin-bottom: 1em; text-decoration: underline; color: black;">2. Problems</h2>
 RQ1. What linguistic characteristics of an academic question significantly influence its response quantity? <br /> 
