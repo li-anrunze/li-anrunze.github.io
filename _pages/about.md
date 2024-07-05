@@ -73,21 +73,38 @@ Lately, I am particularly interested in <strong>how generative AI can enable dat
 <h1><i class="fa fa-fw fa-flask" aria-hidden="true"></i>  Projects</h1>
 </section>
 
-<ul class="fa-ul">
+<ul class="fa-ul" style="color: black;">
 
 <!-- ①问答平台项目 -->
 
 <li style="margin-left: -0.5em; text-align: justify;"><h2><i class="fa-li fa fa-fw fa-map-pin" aria-hidden="true" style="float: left;"></i>Research on Academic Social Q&A Behavior Based on Computational Linguistics&nbsp;&nbsp;&nbsp;<em>2019-2021</em></h2></li>
+<div style="margin-left: -0.5em; font-size: 18px;">
+<mark style="background-color: #743481; color: #fff; padding: 0.2em; margin-right: 0.5em; margin-bottom: 0.5em;">&nbsp;&nbsp;Response quantity&nbsp;&nbsp; </mark>
+<mark style="background-color: #743481; color: #fff; padding: 0.2em; margin-right: 0.5em; margin-bottom: 0.5em;">&nbsp;&nbsp;Linguistic characteristics&nbsp;&nbsp; </mark>
+<mark style="background-color: #743481; color: #fff; padding: 0.2em; margin-right: 0.5em; margin-bottom: 0.5em;">&nbsp;&nbsp;Academic questions&nbsp;&nbsp; </mark>   
+<mark style="background-color: #743481; color: #fff; padding: 0.2em; margin-right: 0.5em; margin-bottom: 0.5em;">&nbsp;&nbsp;Academic social Q&A&nbsp;&nbsp; </mark>   
+<mark style="background-color: #743481; color: #fff; padding: 0.2em; margin-right: 0.5em; margin-bottom: 0.5em;">&nbsp;&nbsp;Information seeking&nbsp;&nbsp; </mark>   
 
-<div  style="border: 0.05em solid #d3d3d3; margin-left:-0.5em; padding: 1.5em; box-shadow: 3px 3px 5px rgba(0,0,0,0.3); background-color: #e0e0ee">
+</div>
+
+<div  style="border: 0.05em solid #d3d3d3; margin-left:-0.5em; padding: 1.5em; box-shadow: 3px 3px 5px rgba(0,0,0,0.3); text-align: justify; background-color: #e0e0ee">
 
 <h2 style="text-align: center; margin-top: 0.5em; margin-bottom: 1em; text-decoration: underline; color: black;">1. Summary</h2>
 <img src='images/projects/p1/qaplatform1.png' width="100%">
 
+<h2 style="text-align: center; margin-top: 0.5em; margin-bottom: 1em; text-decoration: underline; color: black;">2. Problems</h2>
+RQ1. What linguistic characteristics of an academic question significantly influence its response quantity? </br>
+RQ2. How do the linguistic characteristics that influence the response quantity of questions vary across disciplines?
 
+<h2 style="text-align: center; margin-top: 0.5em; margin-bottom: 1em; text-decoration: underline; color: black;">3. Methodology</h2>
+The data for this research were sourced from ResearchGate Q&A, a sub-platform provided by ResearchGate, the most influential ASNS in the world. </br></br>
+ResearchGate Q&A uses tags marked by the questioner as the basis for classifying the discipline to which the question belongs, and the website has a homepage for each discipline. We used the above method to collect question data for each discipline, eventually collecting 448 questions under linguistics, 339 under applied psychology, 375 under mathematical physics, 328 under data science and 478 under public health. A total of 1,968 question URLs were collected. Simultaneously, on August 26, 2019, we used a crawler program to acquire the question title, content, number of answers and question posted time for the question URLs within each discipline. </br></br>
+The research examines 1,968 questions in five disciplines on the academic social Q&A platform ResearchGate Q&A and explores how the linguistic characteristics of these questions affect the number of responses. It uses a range of methods to statistically analyze the relationship between these linguistic characteristics and the number of responses, and conducts comparisons between disciplines. Logistic regression analysis was used to identify the linguistic characteristics of questions affecting response quantity. In this study, 93 linguistic characteristics obtained using the LIWC software were regarded as independent variables. These were processed by log transformation to ensure that they had the same dimensions. The four levels of response quantity were regarded as the dependent variables. </br></br>
+First, correlation analysis was used to identify independent variables that were significantly correlated with response quantity to eliminate irrelevant linguistic characteristics. Then, logistic regression was used to identify the independent variables with a significant linear effect on the dependent variable. Spearman’s correlation was used because the dependent variable in this study was a categorical variable. Likewise, ordinal logistic regression (OLR) was used, as the dependent variables were also ordinal variables with multiple categories. </br></br>
 
-
-
+<h2 style="text-align: center; margin-top: 0.5em; margin-bottom: 1em; text-decoration: underline; color: black;">4. Conclusions</h2>
+The findings indicate that some linguistic characteristics, such as sadness, positive emotion and second-person pronouns, have a positive effect on response quantity; conversely, a high level of function words and first-person pronouns has a negative effect. However, the impacts of these linguistic characteristics vary across disciplines. This study provides support for academic social Q&A platforms to assist scholars in asking richer questions that are likely to generate more answers across disciplines, thereby promoting improved academic communication among scholars. </br></br>
+<img src='images/projects/p1/qaplatform2.png' width="100%">
 
 </div>
 <!-- ①问答平台项目 完 -->
@@ -127,6 +144,8 @@ Lately, I am particularly interested in <strong>how generative AI can enable dat
 </section>
 
 <h3>DH2024, IDEC2024 Continuing……</h3>
+
+<div>
 
 <!-- 2024.04 会议 -->
 
@@ -288,6 +307,7 @@ Lately, I am particularly interested in <strong>how generative AI can enable dat
 </div>
 </div>
 
+</div>
 
 <section id="honors-and-awards">
 <h1><i class="fa fa-fw fa-trophy" aria-hidden="true"></i> Honors and Awards</h1>
