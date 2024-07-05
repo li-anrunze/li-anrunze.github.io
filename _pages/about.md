@@ -186,6 +186,7 @@ Lately, I am particularly interested in **how generative AI can enable data to t
 - Pursue a **Master's Degree** in Management.
 
 </div>
+</div>
 
 <!-- 2022.11 会议 -->
 
@@ -282,7 +283,6 @@ Lately, I am particularly interested in **how generative AI can enable data to t
 </div>
 </div>
 
-</div>
 
 <section id="honors-and-awards">
 <h1><i class="fa fa-fw fa-trophy" aria-hidden="true"></i> Honors and Awards</h1>
