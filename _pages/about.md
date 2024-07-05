@@ -79,7 +79,7 @@ Lately, I am particularly interested in **how generative AI can enable data to t
 
 <li style="margin-left: -0.5em;"><h2><i class="fa-li fa fa-fw fa-map-pin" aria-hidden="true" style="float: left;"></i>Research on Academic Social Q&A Behavior Based on Computational Linguistics&nbsp;&nbsp;&nbsp;<em>2019-2021</em></h2></li>
 
-<div  style="text-align: center; margin-top: 0em; margin-bottom: 1em; text-decoration: underline; color: black;">
+<div  style="border: 0.05em solid #d3d3d3; margin-left:-0.5em; padding: 1.5em; box-shadow: 3px 3px 5px rgba(0,0,0,0.3); background-color: #e0e0ee">
 
 <h2 style="text-align: center; margin-top: 0em; margin-bottom: 0em; text-decoration: underline; color: black;">1. Summary</h2>
 <img src='images/projects/p1/qaplatform1.png' width="100%">
@@ -102,7 +102,7 @@ Lately, I am particularly interested in **how generative AI can enable data to t
 <h1><i class="fa fa-fw fa-pencil-square" aria-hidden="true"></i>  Publications</h1>
 </section>
 
-<div style="text-align: justify;">
+<div   style="text-align: justify;">
 
 - [14] **Li, A.**, Niu, L., & Wang, R. (2024). Accumulation, Activation and Realization: An Exploration of Strategies for Valorizing Corporate Archival Data Elements in the Context of New Quality Productivity. _**Archives Science Bulletin**_. (黎安润泽,牛力,王睿.积聚、激活与实现：新质生产力背景下企业档案数据要素价值化探析.档案学通讯, Accepted)&nbsp;&nbsp;&nbsp;&nbsp;<mark style="background-color: #69547a; color: #fff">&nbsp;&nbsp;Journal Paper&nbsp;&nbsp; </mark>
 - [13] Wang, Z., **Li, A.**, Chu, Y. & Liu, C. (2024). Exploration of Knowledge Enabling Business of Enterprise Archives under New Situation --Taking Southern Power Grid Corporation as an Example. _**China Archives**_. (王哲,黎安润泽,初颖慧,刘春培.新形势下企业档案知识赋能业务的探索——以南方电网公司为例.中国档案, Accepted)&nbsp;&nbsp;&nbsp;&nbsp;<mark style="background-color: #69547a; color: #fff">&nbsp;&nbsp;Journal Paper&nbsp;&nbsp; </mark>
@@ -127,12 +127,10 @@ Lately, I am particularly interested in **how generative AI can enable data to t
 
 <h3>DH2024, IDEC2024 Continuing……</h3>
 
-<div style="text-align: justify;">
-
 <!-- 2024.04 会议 -->
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge" style="color: white; background-color: #743481;">iConference 2024</div><img src='images/news/iConference2024.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1" style="text-align: justify;">
+<div class='paper-box-text' markdown="1">
 
 <mark style="background-color: #74aed4; color: #fff">&nbsp;&nbsp;Conference&nbsp;&nbsp; </mark> <br />
 **2024.04 | Jilin University, China** <br />
@@ -144,7 +142,7 @@ Lately, I am particularly interested in **how generative AI can enable data to t
 <!-- 2023.12 会议 -->
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge" style="color: white; background-color: #743481;">CDH 2023</div><img src='images/news/CDH2023.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1" style="text-align: justify;">
+<div class='paper-box-text' markdown="1">
 
 <mark style="background-color: #74aed4; color: #fff">&nbsp;&nbsp;Conference&nbsp;&nbsp; </mark> <br />
 **2023.12 | Wuhan University, China** <br />
@@ -156,7 +154,7 @@ Lately, I am particularly interested in **how generative AI can enable data to t
 <!-- 2023.10 志愿 -->
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge" style="color: white; background-color: #743481;">Forum</div><img src='images/news/AnnualMeeting2023.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1" style="text-align: justify;">
+<div class='paper-box-text' markdown="1">
 
 <mark style="background-color: #d3e2b7; color: #fff">&nbsp;&nbsp;Voluntary&nbsp;&nbsp; </mark> <br />
 **2023.10 | Renmin University of China, China** <br />
@@ -169,7 +167,7 @@ Lately, I am particularly interested in **how generative AI can enable data to t
 <!-- 2023.10 会议 -->
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge" style="color: white; background-color: #743481;">ICA 2023</div><img src='images/news/ICA202301.png' alt="sym" width="100%"><div><img src='images/news/ICA202302.png' alt="sym" width="100%" style="margin-top: 10px;"></div></div></div>
-<div class='paper-box-text' markdown="1"  style="text-align: justify;">
+<div class='paper-box-text' markdown="1">
 
 <mark style="background-color: #74aed4; color: #fff">&nbsp;&nbsp;Conference&nbsp;&nbsp; </mark> <br />
 **2023.10 | ICA Abu Dhabi Congress 2023, United Arab Emirates** <br />
@@ -182,19 +180,18 @@ Lately, I am particularly interested in **how generative AI can enable data to t
 <!-- 2023.06 硕士 -->
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge" style="color: white; background-color: #743481;">Master's Degree</div><img src='images/news/Master2023.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1" style="text-align: justify;">
+<div class='paper-box-text' markdown="1">
 
 <mark style="background-color: #f7c97e; color: #fff">&nbsp;&nbsp;Graduation&nbsp;&nbsp; </mark> <br />
 **2023.06 | Renmin University of China, China** <br />
 - Pursue a **Master's Degree** in Management.
 
 </div>
-</div>
 
 <!-- 2022.11 会议 -->
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge" style="color: white; background-color: #743481;">CDH 2022</div><img src='images/news/CDH2022.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1" style="text-align: justify;">
+<div class='paper-box-text' markdown="1">
 
 <mark style="background-color: #74aed4; color: #fff">&nbsp;&nbsp;Conference&nbsp;&nbsp; </mark> <br />
 **2022.11 | Renmin University of China, China** <br />
@@ -206,7 +203,7 @@ Lately, I am particularly interested in **how generative AI can enable data to t
 <!-- 2022.08 志愿 -->
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge" style="color: white; background-color: #743481;">Annual Meeting</div><img src='images/news/AnnualMeeting2022.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1" style="text-align: justify;">
+<div class='paper-box-text' markdown="1">
 
 <mark style="background-color: #d3e2b7; color: #fff">&nbsp;&nbsp;Voluntary&nbsp;&nbsp; </mark> <br />
 **2022.08 | Renmin University of China, China** <br />
@@ -219,7 +216,7 @@ Lately, I am particularly interested in **how generative AI can enable data to t
 <!-- 2021.06 本科 -->
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge" style="color: white; background-color: #743481;">Bachelor's Degree</div><img src='images/news/Bachelor2021.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1" style="text-align: justify;">
+<div class='paper-box-text' markdown="1">
 
 <mark style="background-color: #f7c97e; color: #fff">&nbsp;&nbsp;Graduation&nbsp;&nbsp; </mark> <br />
 **2021.06 | Beijing Normal University, China** <br />
@@ -231,7 +228,7 @@ Lately, I am particularly interested in **how generative AI can enable data to t
 <!-- 2020.10 竞赛 -->
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge" style="color: white; background-color: #743481;">SLOC 2020</div><img src='images/news/SLOC2020.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1" style="text-align: justify;">
+<div class='paper-box-text' markdown="1">
 
 <mark style="background-color: #eca8a9; color: #fff">&nbsp;&nbsp;Contest&nbsp;&nbsp; </mark> <br />
 **2020.10 | Shanghai Library, China** <br />
@@ -246,7 +243,7 @@ Lately, I am particularly interested in **how generative AI can enable data to t
 <!-- 2020.09 会议 -->
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge" style="color: white; background-color: #743481;">Salon 2020</div><img src='images/news/Salon2020.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1" style="text-align: justify;">
+<div class='paper-box-text' markdown="1">
 
 <mark style="background-color: #74aed4; color: #fff">&nbsp;&nbsp;Conference&nbsp;&nbsp; </mark> <br />
 **2020.09 | University of Chinese Academy of Sciences, China** <br />
@@ -292,8 +289,6 @@ Lately, I am particularly interested in **how generative AI can enable data to t
 <h1><i class="fa fa-fw fa-trophy" aria-hidden="true"></i> Honors and Awards</h1>
 </section>
 
-<div style="text-align: justify;">
-
 - 2024, **DH2024 Travel Bursary Award**, DH 2024
 - 2023, **Second-class Scholarship**, Renmin University of China 
 - 2023, **First-class Scholarship in Academics**, Renmin University of China
@@ -313,5 +308,3 @@ Lately, I am particularly interested in **how generative AI can enable data to t
 - 2019, **Volunteer Service Award**, Beijing Normal University
 - 2019, **Meritorious Winner**, 2019 Interdisciplinary Contest in Modeling
 - 2018, **Social Work Award**, Beijing Normal University
-
-</div>
