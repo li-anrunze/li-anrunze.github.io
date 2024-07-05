@@ -80,15 +80,15 @@ Lately, I am particularly interested in <strong>how generative AI can enable dat
 <li style="margin-left: -0.5em; text-align: justify;"><h2><i class="fa-li fa fa-fw fa-map-pin" aria-hidden="true" style="float: left;"></i>Research on Academic Social Q&A Behavior Based on Computational Linguistics&nbsp;&nbsp;&nbsp;<em>2019-2021</em></h2></li>
 <div style="margin-left: -0.5em; font-size: 14px;">
 
-<mark style="background-color: #743481; color: #fff; padding: 0.2em; margin-right: 0.5em; margin-bottom: 0.5em;">&nbsp;&nbsp;Response quantity&nbsp;&nbsp; </mark>
-<mark style="background-color: #743481; color: #fff; padding: 0.2em; margin-right: 0.5em; margin-bottom: 0.5em;">&nbsp;&nbsp;Linguistic characteristics&nbsp;&nbsp; </mark>
-<mark style="background-color: #743481; color: #fff; padding: 0.2em; margin-right: 0.5em; margin-bottom: 0.5em;">&nbsp;&nbsp;Academic questions&nbsp;&nbsp; </mark>   < br/>
-<mark style="background-color: #743481; color: #fff; padding: 0.2em; margin-right: 0.5em; margin-bottom: 0.5em;">&nbsp;&nbsp;Academic social Q&A&nbsp;&nbsp; </mark>   
-<mark style="background-color: #743481; color: #fff; padding: 0.2em; margin-right: 0.5em; margin-bottom: 0.5em;">&nbsp;&nbsp;Information seeking&nbsp;&nbsp; </mark>   
+<mark style="background-color: #743481; color: #fff; padding: 0.2em; margin-right: 0.5em; margin-bottom: 0.5em;box-shadow: 1px 1px 3px rgba(0,0,0,0.5);">&nbsp;&nbsp;Response quantity&nbsp;&nbsp; </mark>
+<mark style="background-color: #743481; color: #fff; padding: 0.2em; margin-right: 0.5em; margin-bottom: 0.5em;box-shadow: 1px 1px 3px rgba(0,0,0,0.5);">&nbsp;&nbsp;Linguistic characteristics&nbsp;&nbsp; </mark>
+<mark style="background-color: #743481; color: #fff; padding: 0.2em; margin-right: 0.5em; margin-bottom: 0.5em;box-shadow: 1px 1px 3px rgba(0,0,0,0.5);">&nbsp;&nbsp;Academic questions&nbsp;&nbsp; </mark>   < br/>
+<mark style="background-color: #743481; color: #fff; padding: 0.2em; margin-right: 0.5em; margin-bottom: 0.5em;box-shadow: 1px 1px 3px rgba(0,0,0,0.5);">&nbsp;&nbsp;Academic social Q&A&nbsp;&nbsp; </mark>   
+<mark style="background-color: #743481; color: #fff; padding: 0.2em; margin-right: 0.5em; margin-bottom: 0.5em;box-shadow: 1px 1px 3px rgba(0,0,0,0.5);">&nbsp;&nbsp;Information seeking&nbsp;&nbsp; </mark>   
 
 </div>
              
-<div  style="border: 0.05em solid #d3d3d3; margin-left:-0.5em; padding: 1.5em; box-shadow: 3px 3px 5px rgba(0,0,0,0.3); text-align: justify; background-color: #e0e0ee">
+<div  style="border: 0.05em solid #d3d3d3; margin-left:-0.5em; padding: 1.5em; box-shadow: 1px 1px 3px rgba(0,0,0,0.5); text-align: justify; background-color: #e0e0ee">
 
 <h2 style="text-align: center; margin-top: 0.5em; margin-bottom: 1em; text-decoration: underline; color: black;">1. Summary</h2>
 <img src='images/projects/p1/qaplatform1.png' width="100%" style="margin-bottom:0.5em;">
@@ -165,7 +165,7 @@ The findings indicate that some linguistic characteristics, such as sadness, pos
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge" style="color: white; background-color: #743481;">CDH 2023</div><img src='images/news/CDH2023.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-<mark style="background-color: #74aed4; color: #fff">&nbsp;&nbsp;Conference&nbsp;&nbsp; </mark> <br />
+<mark style="background-color: #74aed4; color: #fff; box-shadow: 1px 1px 3px rgba(0,0,0,0.5);">&nbsp;&nbsp;Conference&nbsp;&nbsp; </mark> <br />
 **2023.12 | Wuhan University, China** <br />
 *2023 Chinese Digital Humanities Conference*
 - Had a **Long Paper** presentation titled "Deconstruction and Activation: Research on Multi-Granularity Knowledge Service Model for Local Gazetteers Based on Dual Perspectives".
@@ -177,7 +177,7 @@ The findings indicate that some linguistic characteristics, such as sadness, pos
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge" style="color: white; background-color: #743481;">Forum</div><img src='images/news/AnnualMeeting2023.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-<mark style="background-color: #d3e2b7; color: #fff">&nbsp;&nbsp;Voluntary&nbsp;&nbsp; </mark> <br />
+<mark style="background-color: #d3e2b7; color: #fff"; box-shadow: 1px 1px 3px rgba(0,0,0,0.5);>&nbsp;&nbsp;Voluntary&nbsp;&nbsp; </mark> <br />
 **2023.10 | Renmin University of China, China** <br />
 *The 20th China Information Resources Management Forum*
 - **Liaised** with experts, **Organized** the agenda and accommodation, **Coordinated** the Digital Humanities sub-forum, and **Wrote** the press release.
