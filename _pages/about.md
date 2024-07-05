@@ -88,7 +88,7 @@ Lately, I am particularly interested in <strong>how generative AI can enable dat
 
 </div>
              
-<div  style="border: 0.05em solid #d3d3d3; margin-left:-0.5em; margin-top: 0.5em; padding: 1.5em; box-shadow: 1px 1px 3px rgba(0,0,0,0.5); text-align: justify; background-color: #e0e0ee">
+<div  style="border: 0.05em solid #d3d3d3; margin-left:-0.5em; margin-top: 0.5em; padding: 1.5em; box-shadow: 1px 1px 3px rgba(0,0,0,0.5); text-align: justify; width:500px;height:600px;margin:0 auto; background-image:url(images/bgpro.png); background-repeat: repeat-y; background-size: cover">
 
 <h2 style="text-align: center; margin-top: 0; margin-bottom: 1em; text-decoration: underline; color: black;">1. Summary</h2>
 <img src='images/projects/p1/qaplatform1.png' width="100%" style="margin-bottom:0.5em;">
