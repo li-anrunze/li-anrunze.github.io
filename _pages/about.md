@@ -73,7 +73,7 @@ Lately, I am particularly interested in <strong>how generative AI can enable dat
 <h1><i class="fa fa-fw fa-flask" aria-hidden="true"></i>  Projects</h1>
 </section>
 
-<ul class="fa-ul" style="color: black;">
+<ul class="fa-ul">
 
 <!-- ①问答平台项目 -->
 
@@ -88,7 +88,7 @@ Lately, I am particularly interested in <strong>how generative AI can enable dat
 
 </div>
              
-<div  style="border: 0.05em solid #d3d3d3;margin-left:-0.5em;margin-top: 0.5em;padding: 1.5em;box-shadow: 1px 1px 3px rgba(0,0,0,0.5);text-align: justify;background-image:url(images/bgpro.png);background-repeat: repeat-y;background-size: contain">
+<div  style="color: black;border: 0.05em solid #d3d3d3;margin-left:-0.5em;margin-top: 0.5em;padding: 1.5em;box-shadow: 1px 1px 3px rgba(0,0,0,0.5);text-align: justify;background-image:url(images/bgpro.png);background-repeat: repeat-y;background-size: contain">
 
 <h2 style="text-align: center; margin-top: 0; margin-bottom: 1em; text-decoration: underline; color: black;">1. Summary</h2>
 <img src='images/projects/p1/qaplatform1.png' width="100%" style="margin-bottom:0.5em;">
