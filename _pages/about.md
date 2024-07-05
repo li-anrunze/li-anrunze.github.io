@@ -82,7 +82,7 @@ Lately, I am particularly interested in <strong>how generative AI can enable dat
 
 <mark style="background-color: #743481; color: #fff; padding: 0.2em; margin-right: 0.5em; margin-bottom: 0.5em;">&nbsp;&nbsp;Response quantity&nbsp;&nbsp; </mark>
 <mark style="background-color: #743481; color: #fff; padding: 0.2em; margin-right: 0.5em; margin-bottom: 0.5em;">&nbsp;&nbsp;Linguistic characteristics&nbsp;&nbsp; </mark>
-<mark style="background-color: #743481; color: #fff; padding: 0.2em; margin-right: 0.5em; margin-bottom: 0.5em;">&nbsp;&nbsp;Academic questions&nbsp;&nbsp; </mark>   
+<mark style="background-color: #743481; color: #fff; padding: 0.2em; margin-right: 0.5em; margin-bottom: 0.5em;">&nbsp;&nbsp;Academic questions&nbsp;&nbsp; </mark>   < br/>
 <mark style="background-color: #743481; color: #fff; padding: 0.2em; margin-right: 0.5em; margin-bottom: 0.5em;">&nbsp;&nbsp;Academic social Q&A&nbsp;&nbsp; </mark>   
 <mark style="background-color: #743481; color: #fff; padding: 0.2em; margin-right: 0.5em; margin-bottom: 0.5em;">&nbsp;&nbsp;Information seeking&nbsp;&nbsp; </mark>   
 
