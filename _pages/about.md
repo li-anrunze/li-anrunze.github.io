@@ -44,9 +44,9 @@ Lately, I am particularly interested in **how generative AI can enable data to t
 </div>
 
 
-<div class="container" style="display: flex;justify-content: space-between;">
+<div class="container" style="display: flex;">
 
-<div class="column">
+<div class="column" style="justify-content: space-between;">
 <h1> <i class="fa fa-fw fa-lightbulb" aria-hidden="true"></i> Interests </h1>
 <ul>
 <li>Digital Humanities</li>
@@ -262,7 +262,7 @@ Lately, I am particularly interested in **how generative AI can enable data to t
 <div><div class="badge" style="color: white; background-color: #743481;">JCDL 2020</div><img src='images/news/JCDL2020.png' alt="sym" width="100%"></div>
 </div>
 
-<div class='paper-box-text' markdown="1" style="text-align: justify;">
+<div class='paper-box-text' markdown="1">
 <mark style="background-color: #74aed4; color: #fff">&nbsp;&nbsp;Conference&nbsp;&nbsp; </mark> <br />
 **2020.08 | Wuhan University, China** <br />
 *Joint Conference on Digital Libraries in 2020* 
