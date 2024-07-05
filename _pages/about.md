@@ -210,7 +210,7 @@ Lately, I am particularly interested in <strong>how generative AI can enable dat
 <mark style="background-color: #d3e2b7; color: #fff">&nbsp;&nbsp;Voluntary&nbsp;&nbsp; </mark> <br />
 **2022.08 | Renmin University of China, China** <br />
 *China Information Science Annual Meeting & Information Science and Service Development Forum(2022) and the 12th National Information Science Doctoral Academic Forum*
-- **Coordinated** with session chairs, presenters and review experts, and **Organized** the conference agenda.
+- **Coordinated** with session chairs and review experts and **Organized** the conference agenda.
 
 </div>
 </div>
@@ -298,7 +298,7 @@ Lately, I am particularly interested in <strong>how generative AI can enable dat
 - 2022, **First-class Scholarship in Academics**, Renmin University of China
 - 2021, **Second-class Scholarship**, Renmin University of China 
 - 2021, Undergraduate thesis recognized as **Outstanding**, Beijing Normal University
-- 2020, **School-level Excellent Innovation and Entrepreneurship Program** _(Leader)_, Beijing Normal University
+- 2020, **Excellent Innovation and Entrepreneurship Program** _(Leader)_, Beijing Normal University
 - 2020, **First place**, 2020 Shanghai Library Open Data Contest
 - 2020, **First-class Scholarship in Academics**, Beijing Normal University
 - 2020, **First-class Scholarship in Competition**, Beijing Normal University
