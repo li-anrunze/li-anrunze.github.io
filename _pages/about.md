@@ -78,9 +78,9 @@ Lately, I am particularly interested in **how generative AI can enable data to t
 
 <li style="margin-left: -0.5em;"><h2><i class="fa-li fa fa-fw fa-map-pin" aria-hidden="true" style="float: left;"></i>Research on Academic Social Q&A Behavior Based on Computational Linguistics&nbsp;&nbsp;&nbsp;<em>2019-2021</em></h2></li>
 
-<div  style="border: 0.05em solid #d3d3d3; margin-left:-0.5em; padding: 1em; box-shadow: 3px 3px 5px rgba(0,0,0,0.3);">
+<div  style="border: 0.05em solid #d3d3d3; margin-left:-0.5em; padding: 1.5em; box-shadow: 3px 3px 5px rgba(0,0,0,0.3);">
 
-<h3 style="text-align: center; padding: 0;">1. Summary</h3>
+<h2 style="text-align: center; margin-top: -1em; text-decoration: underline;">1. Summary</h2>
 <img src='images/news/Salon2020.png' width="100%">
 
 
