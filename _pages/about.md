@@ -44,7 +44,7 @@ Lately, I am particularly interested in <strong>how generative AI can enable dat
 </div>
 
 
-<div class="container">
+<div class="container" style="display: flex;">
 
 <div class="column" style="justify-content: space-between;">
 <h1> <i class="fa fa-fw fa-lightbulb" aria-hidden="true"></i> Interests </h1>
@@ -56,7 +56,7 @@ Lately, I am particularly interested in <strong>how generative AI can enable dat
 </ul>
 </div>
 
-<div class="column" style="margin-left: 5em;">
+<div class="column" style="margin-left: 5em; text-align: justify;">
 <h1> <i class="fa fa-fw fa-mortar-board" aria-hidden="true"></i> Educations </h1>
 <ul>
 <li><strong><em>2023.09 - now</em></strong>, Ph.D. Student in Information Resource Management, Integrated Master’s-PhD Program, School of Information Resource Management, Renmin University of China</li>
@@ -173,8 +173,12 @@ Lately, I am particularly interested in <strong>how generative AI can enable dat
 <mark style="background-color: #74aed4; color: #fff">&nbsp;&nbsp;Conference&nbsp;&nbsp; </mark> <br />
 **2023.10 | ICA Abu Dhabi Congress 2023, United Arab Emirates** <br />
 *International Council on Archives (ICA) Congress AbuDhabi 2023*
-- Had a **Poster** presentation titled "Awakening Vernacular Memory: A Study of Deconstruction and Living Heritage for Chinese Local Gazetteers".
-- Attended the conference opening ceremony, keynote speeches, and dinner event. And was fortunate to have the opportunity to converse and take a photo with Josée Kirps, President of the International Council on Archives and Director of the National Archives of Luxembourg.
+
+<ul style="text-align: justify;">
+<li> Had a <strong>Poster</strong> presentation titled "Awakening Vernacular Memory: A Study of Deconstruction and Living Heritage for Chinese Local Gazetteers".</li>
+<li> Attended the conference opening ceremony, keynote speeches, and dinner event. And was fortunate to have the opportunity to converse and take a photo with Josée Kirps, President of the International Council on Archives and Director of the National Archives of Luxembourg.</li>
+</ul>
+
 </div>
 </div>
 
