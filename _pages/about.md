@@ -98,7 +98,7 @@ Lately, I am particularly interested in <strong>how generative AI can enable dat
 <i class="fa fa-fw fa-comment" aria-hidden="true"></i> <strong>How do the linguistic characteristics that influence the response quantity of questions vary across disciplines?</strong>
 
 <h2 style="text-align: center; margin-top: 0.5em; margin-bottom: 1em; text-decoration: underline; color: black;">3. Methodology & Findings</h2>
-<img src='images/projects/p1/qaplatform2.png' width="100%"><br />
+<img src='images/projects/p1/qaplatform2.png' width="100%"><br /><br />
 The study examines 1,968 questions in five disciplines on the academic social Q&A platform ResearchGate Q&A and explores how the linguistic characteristics of these questions affect the number of responses. It uses a range of methods to statistically analyze the relationship between these linguistic characteristics and the number of responses, and conducts comparisons between disciplines. <br /><br />
 The findings indicate that some linguistic characteristics, such as sadness, positive emotion and second-person pronouns, have a positive effect on response quantity; conversely, a high level of function words and first-person pronouns has a negative effect. However, the impacts of these linguistic characteristics vary across disciplines. <br />
 
