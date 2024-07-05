@@ -88,22 +88,18 @@ Lately, I am particularly interested in <strong>how generative AI can enable dat
 
 </div>
              
-<div  style="border: 0.05em solid #d3d3d3; margin-left:-0.5em; margin-top: 0.5em; padding: 1.5em; box-shadow: 1px 1px 3px rgba(0,0,0,0.5); text-align: justify; width:500px;height:600px;margin:0 auto; background-image:url(images/bgpro.png); background-repeat: repeat-y; background-size: cover">
+<div  style="border: 0.05em solid #d3d3d3;margin-left:-0.5em;margin-top: 0.5em;padding: 1.5em;box-shadow: 1px 1px 3px rgba(0,0,0,0.5);text-align: justify;background-image:url(images/bgpro.png);background-repeat: repeat-y;background-size: contain">
 
 <h2 style="text-align: center; margin-top: 0; margin-bottom: 1em; text-decoration: underline; color: black;">1. Summary</h2>
 <img src='images/projects/p1/qaplatform1.png' width="100%" style="margin-bottom:0.5em;">
 
 <h2 style="text-align: center; margin-top: 0.5em; margin-bottom: 1em; text-decoration: underline; color: black;">2. Problems</h2>
-RQ1. What linguistic characteristics of an academic question significantly influence its response quantity? <br /> 
-RQ2. How do the linguistic characteristics that influence the response quantity of questions vary across disciplines?
+<i class="fa fa-fw fa-comment" aria-hidden="true"></i> <strong>What linguistic characteristics of an academic question significantly influence its response quantity? </strong><br />
+<i class="fa fa-fw fa-comment" aria-hidden="true"></i> <strong>How do the linguistic characteristics that influence the response quantity of questions vary across disciplines?</strong>
 
-<h2 style="text-align: center; margin-top: 0.5em; margin-bottom: 1em; text-decoration: underline; color: black;">3. Methodology</h2>
-The data for this research were sourced from ResearchGate Q&A, a sub-platform provided by ResearchGate, the most influential ASNS in the world. <br /> <br /> 
-The research examines 1,968 questions in five disciplines on the academic social Q&A platform ResearchGate Q&A and explores how the linguistic characteristics of these questions affect the number of responses. It uses a range of methods to statistically analyze the relationship between these linguistic characteristics and the number of responses, and conducts comparisons between disciplines. Logistic regression analysis was used to identify the linguistic characteristics of questions affecting response quantity. In this study, 93 linguistic characteristics obtained using the LIWC software were regarded as independent variables. These were processed by log transformation to ensure that they had the same dimensions. The four levels of response quantity were regarded as the dependent variables. <br /> <br /> 
-First, correlation analysis was used to identify independent variables that were significantly correlated with response quantity to eliminate irrelevant linguistic characteristics. Then, logistic regression was used to identify the independent variables with a significant linear effect on the dependent variable. Spearman’s correlation was used because the dependent variable in this study was a categorical variable. Likewise, ordinal logistic regression (OLR) was used, as the dependent variables were also ordinal variables with multiple categories.  <br /> 
-
-<h2 style="text-align: center; margin-top: 0.5em; margin-bottom: 1em; text-decoration: underline; color: black;">4. Conclusions</h2>
-The findings indicate that some linguistic characteristics, such as sadness, positive emotion and second-person pronouns, have a positive effect on response quantity; conversely, a high level of function words and first-person pronouns has a negative effect. However, the impacts of these linguistic characteristics vary across disciplines. This study provides support for academic social Q&A platforms to assist scholars in asking richer questions that are likely to generate more answers across disciplines, thereby promoting improved academic communication among scholars. <br /> <br /> 
+<h2 style="text-align: center; margin-top: 0.5em; margin-bottom: 1em; text-decoration: underline; color: black;">3. Methodology & Findings</h2>
+The study examines 1,968 questions in five disciplines on the academic social Q&A platform ResearchGate Q&A and explores how the linguistic characteristics of these questions affect the number of responses. It uses a range of methods to statistically analyze the relationship between these linguistic characteristics and the number of responses, and conducts comparisons between disciplines. <br /><br />
+The findings indicate that some linguistic characteristics, such as sadness, positive emotion and second-person pronouns, have a positive effect on response quantity; conversely, a high level of function words and first-person pronouns has a negative effect. However, the impacts of these linguistic characteristics vary across disciplines. <br />
 <img src='images/projects/p1/qaplatform2.png' width="100%">
 
 </div>
