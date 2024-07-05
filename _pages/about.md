@@ -78,12 +78,10 @@ Lately, I am particularly interested in **how generative AI can enable data to t
 
 <li style="margin-left: -0.5em;"><h2><i class="fa-li fa fa-fw fa-map-pin" aria-hidden="true" style="float: left;"></i>Research on Academic Social Q&A Behavior Based on Computational Linguistics&nbsp;&nbsp;&nbsp;<em>2019-2021</em></h2></li>
 
-<div  style="border: 0.05em solid #d3d3d3; margin-left:-0.5em; padding: 10px; box-shadow: 3px 3px 5px rgba(0,0,0,0.3);">
+<div  style="border: 0.05em solid #d3d3d3; margin-left:-0.5em; padding: 1em; box-shadow: 3px 3px 5px rgba(0,0,0,0.3);">
 
-1234
-
-
-
+<h3 style="text-align: center; padding: 0;">1. Summary</h3>
+<img src='images/news/Salon2020.png' width="100%">
 
 
 
@@ -91,7 +89,9 @@ Lately, I am particularly interested in **how generative AI can enable data to t
 
 
 
-</div>
+
+
+</>
 
 
 
@@ -112,8 +112,8 @@ Lately, I am particularly interested in **how generative AI can enable data to t
 - [5] Niu, L., **Li, A.**, Liu, Y., & Liu, H. (2023). Research on Multi-Dimensional Analysis Model Based on Academic Celebrity Biography from the Perspective of Digital Humanities: Taking the Academic Chronicle of Wu Baokang as an Example. _**Library and Information Service**_, 67(06):96-106. (牛力,黎安润泽,刘雨欣,等.数字人文视角下学术名人传记多维度分析模式——以《吴宝康学术年谱》为例[J].图书情报工作,2023,67(06):96-106.)&nbsp;&nbsp;&nbsp;&nbsp;<mark style="background-color: #69547a; color: #fff">&nbsp;&nbsp;Journal Paper&nbsp;&nbsp; </mark>
 - [4] Niu, L., **Li, A.**, Liu, H., & Zeng, J. (2022). From Physics to Data: Research on the Construction of Smart Archives 2.0 System. _**Archives Science Study**_, (03):84-90. (牛力,黎安润泽,刘慧琳,等.从物理到数据：智慧档案2.0体系构建研究[J].档案学研究,2022(03):84-90.)&nbsp;&nbsp;&nbsp;&nbsp;<mark style="background-color: #69547a; color: #fff">&nbsp;&nbsp;Journal Paper&nbsp;&nbsp; </mark>
 - [3] Huang, K., Xu, X., **Li, A.**, & Xu, F. (2021). Study of the Literature of Artificial Intelligence Ethics in Library and Information from 2015-2019. _Journal of Modern Information_, 41(06):161-171. (黄崑,徐晓婷,黎安润泽,等.近5年图情SSCI期刊人工智能伦理研究文献分析与启示[J].现代情报,2021,41(06):161-171.)&nbsp;&nbsp;&nbsp;&nbsp;<mark style="background-color: #69547a; color: #fff">&nbsp;&nbsp;Journal Paper&nbsp;&nbsp; </mark>
-- [2] Li, L., **Li, A.**, Song, X., Li, X., & Huang, K. (2020, August). Comparison of Linguistic Characteristics of Different Disciplines' Questions on Academic Social Q&A Sites. In Proceedings of the _**ACM/IEEE Joint Conference on Digital Libraries in 2020**_ (pp. 481-482).&nbsp;&nbsp;&nbsp;&nbsp;<mark style="background-color: #53547d; color: #fff">&nbsp;&nbsp;Conference Paper&nbsp;&nbsp; </mark>
-- [1] Li, L., **Li, A.**, Song, X., Li, X., Huang, K., & Ye, E. M. (2020). Predicting response quantity from linguistic characteristics of questions on academic social Q&A sites. **_ICADL 2020_**, Proceedings 22 (pp. 399-406).&nbsp;&nbsp;&nbsp;&nbsp;<mark style="background-color: #53547d; color: #fff">&nbsp;&nbsp;Conference Paper&nbsp;&nbsp; </mark>
+- [2] Li, L., **Li, A.**, Song, X., Li, X., & Huang, K. (2020, August). Comparison of Linguistic Characteristics of Different Disciplines' Questions on Academic Social Q&A Sites. In Proceedings of the _**ACM/IEEE Joint Conference on Digital Libraries in 2020**_ (pp. 481-482).&nbsp;&nbsp;&nbsp;&nbsp;<mark style="background-color: #a390a2; color: #fff">&nbsp;&nbsp;Conference Paper&nbsp;&nbsp; </mark>
+- [1] Li, L., **Li, A.**, Song, X., Li, X., Huang, K., & Ye, E. M. (2020). Predicting response quantity from linguistic characteristics of questions on academic social Q&A sites. **_ICADL 2020_**, Proceedings 22 (pp. 399-406).&nbsp;&nbsp;&nbsp;&nbsp;<mark style="background-color: #a390a2; color: #fff">&nbsp;&nbsp;Conference Paper&nbsp;&nbsp; </mark>
 
 <section id="activities">
 <h1><i class="fa fa-fw fa-bell" aria-hidden="true"></i>  Activities</h1>
@@ -286,9 +286,9 @@ Lately, I am particularly interested in **how generative AI can enable data to t
 - 2024, **DH2024 Travel Bursary Award**, DH 2024
 - 2023, **Second-class Scholarship**, Renmin University of China 
 - 2023, **First-class Scholarship in Academics**, Renmin University of China
-- 2023, **Outstanding Graduate**, School of Information Resource Management, Renmin University of China
+- 2023, **Outstanding Graduate**, Renmin University of China
 - 2022, **Excellent Project Award** _(Leader)_, CDH 2022
-- 2022, **Outstanding Student**, Renmin University of China	2022
+- 2022, **Merit Student**, Renmin University of China
 - 2022, **First-class Scholarship in Academics**, Renmin University of China
 - 2021, **Second-class Scholarship**, Renmin University of China 
 - 2021, Undergraduate thesis recognized as **Outstanding**, Beijing Normal University
@@ -297,7 +297,7 @@ Lately, I am particularly interested in **how generative AI can enable data to t
 - 2020, **First-class Scholarship in Academics**, Beijing Normal University
 - 2020, **First-class Scholarship in Competition**, Beijing Normal University
 - 2019, **National Outstanding Teaching Team Award** for the "Knowing and Doing Program" _(Leader)_, China Education Support Project
-- 2019, **Outstanding Student**, Beijing Normal University
+- 2019, **Merit Student**, Beijing Normal University
 - 2019, **First-class Scholarship in Competition**, Beijing Normal University
 - 2019, **Volunteer Service Award**, Beijing Normal University
 - 2019, **Meritorious Winner**, 2019 Interdisciplinary Contest in Modeling
