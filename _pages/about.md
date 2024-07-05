@@ -44,7 +44,7 @@ Lately, I am particularly interested in <strong>how generative AI can enable dat
 </div>
 
 
-<div class="container" style="display: flex;">
+<div class="container">
 
 <div class="column" style="justify-content: space-between;">
 <h1> <i class="fa fa-fw fa-lightbulb" aria-hidden="true"></i> Interests </h1>
@@ -56,7 +56,7 @@ Lately, I am particularly interested in <strong>how generative AI can enable dat
 </ul>
 </div>
 
-<div class="column" style="margin-left: 5em; text-align: justify;">
+<div class="column" style="margin-left: 5em;">
 <h1> <i class="fa fa-fw fa-mortar-board" aria-hidden="true"></i> Educations </h1>
 <ul>
 <li><strong><em>2023.09 - now</em></strong>, Ph.D. Student in Information Resource Management, Integrated Master’s-PhD Program, School of Information Resource Management, Renmin University of China</li>
@@ -77,7 +77,7 @@ Lately, I am particularly interested in <strong>how generative AI can enable dat
 
 <!-- ①问答平台项目 -->
 
-<li style="margin-left: -0.5em;"><h2><i class="fa-li fa fa-fw fa-map-pin" aria-hidden="true" style="float: left;"></i>Research on Academic Social Q&A Behavior Based on Computational Linguistics&nbsp;&nbsp;&nbsp;<em>2019-2021</em></h2></li>
+<li style="margin-left: -0.5em; text-align: justify;"><h2><i class="fa-li fa fa-fw fa-map-pin" aria-hidden="true" style="float: left;"></i>Research on Academic Social Q&A Behavior Based on Computational Linguistics&nbsp;&nbsp;&nbsp;<em>2019-2021</em></h2></li>
 
 <div  style="border: 0.05em solid #d3d3d3; margin-left:-0.5em; padding: 1.5em; box-shadow: 3px 3px 5px rgba(0,0,0,0.3); background-color: #e0e0ee">
 
