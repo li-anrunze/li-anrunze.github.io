@@ -82,7 +82,7 @@ Lately, I am particularly interested in <strong>how generative AI can enable dat
 
 <mark style="background-color: #743481; color: #fff; padding: 0.2em; margin-right: 0.5em; margin-bottom: 0.5em;box-shadow: 1px 1px 3px rgba(0,0,0,0.5);">&nbsp;&nbsp;Response quantity&nbsp;&nbsp; </mark>
 <mark style="background-color: #743481; color: #fff; padding: 0.2em; margin-right: 0.5em; margin-bottom: 0.5em;box-shadow: 1px 1px 3px rgba(0,0,0,0.5);">&nbsp;&nbsp;Linguistic characteristics&nbsp;&nbsp; </mark>
-<mark style="background-color: #743481; color: #fff; padding: 0.2em; margin-right: 0.5em; margin-bottom: 0.5em;box-shadow: 1px 1px 3px rgba(0,0,0,0.5);">&nbsp;&nbsp;Academic questions&nbsp;&nbsp; </mark>   < br/>
+<mark style="background-color: #743481; color: #fff; padding: 0.2em; margin-right: 0.5em; margin-bottom: 0.5em;box-shadow: 1px 1px 3px rgba(0,0,0,0.5);">&nbsp;&nbsp;Academic questions&nbsp;&nbsp; </mark>   <br />  
 <mark style="background-color: #743481; color: #fff; padding: 0.2em; margin-right: 0.5em; margin-bottom: 0.5em;box-shadow: 1px 1px 3px rgba(0,0,0,0.5);">&nbsp;&nbsp;Academic social Q&A&nbsp;&nbsp; </mark>   
 <mark style="background-color: #743481; color: #fff; padding: 0.2em; margin-right: 0.5em; margin-bottom: 0.5em;box-shadow: 1px 1px 3px rgba(0,0,0,0.5);">&nbsp;&nbsp;Information seeking&nbsp;&nbsp; </mark>   
 
