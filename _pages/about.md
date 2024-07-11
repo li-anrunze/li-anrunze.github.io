@@ -104,8 +104,8 @@ Lately, I am particularly interested in <strong>how generative AI can enable dat
 <i class="fa fa-fw fa-comment" aria-hidden="true"></i> If the source of data is unreliable, or the quality of data is low and noisy, or the data are taken out of context or misinterpreted and abused in the process of processing and combining, even if the most advanced narrative techniques and splendid visualization methods are adopted, it is difficult to ensure the authority, rationality and scientificity of the content of the data story, and on the contrary, it will mislead readers' cognition of the facts of humanities and history. <strong>Therefore, how can we tell data stories that are as accurate as possible? </strong><br />
 
 <h2 style="text-align: center; margin-top: 0.5em; margin-bottom: 1em; text-decoration: underline; color: black;">3. Methodology & Findings</h2>
-<img src='images/projects/p5/evidence2.png' width="100%"><br /><br />
 Evidence-based thinking is introduced to construct a data storytelling model for archival documentary heritage, upholding the three basic principles of traceability evidence-based, reliability evidence-based, and interpretability evidence-based, comprehensively searching for evidence of events, constructing a chain of evidence of events based on spatio-temporal correlation and semantic logic, and combining the method of multivariate mutual evidence to create more accurate stories.<br /><br />
+<img src='images/projects/p5/evidence2.png' width="100%"><br /><br />
 Taking “Suzhou Taffeta Craft” in “Suzhou Silk Archives of Modern China” as a case study, we verify the validity and feasibility of the model, and reshape the research paradigm of data storytelling.<br />
 
 
@@ -134,8 +134,8 @@ Taking “Suzhou Taffeta Craft” in “Suzhou Silk Archives of Modern China” 
 <i class="fa fa-fw fa-comment" aria-hidden="true"></i> The local gazetteers, as a unique cultural heritage and precious collection in China, carry the complete cultural context of specific regions, providing new research perspectives and evidence for humanities scholars. With rich and multifaceted characteristics and significant knowledge value, the content of local gazetteers possesses granularity. <strong>Hence, in the face of resources with large contents, how do we reorganize the expression of the knowledge content therein, and provide the public with more convenient public cultural services based on local gazetteers? </strong><br />
 
 <h2 style="text-align: center; margin-top: 0.5em; margin-bottom: 1em; text-decoration: underline; color: black;">3. Methodology & Findings</h2>
-<img src='images/projects/p4/gazetteer2.png' width="100%"><br /><br />
 On a methodological level, this study proposes a multi-granularity knowledge service model based on a dual-perspective approach.  Firstly, from the provider's standpoint, we explore the incremental deconstruction of content according to different granularities. Secondly, from the recipient's perspective,  this study investigates how to cater to diverse needs in knowledge services based on content granularities. <br /><br />
+<img src='images/projects/p4/gazetteer2.png' width="100%"><br /><br />
 At the empirical validation level, using the case study of "The Impressions of West Lake in the 'Zhejiang Tong Zhi'（《浙江通志》）,"this study examines the scientific and practical viability of the proposed model. <br />
 
 </div>
@@ -194,8 +194,8 @@ Finally, this study examines and interprets the Academic Chronicle of Wu Baokang
 <i class="fa fa-fw fa-comment" aria-hidden="true"></i> <strong>How do the linguistic characteristics that influence the response quantity of questions vary across disciplines?</strong>
 
 <h2 style="text-align: center; margin-top: 0.5em; margin-bottom: 1em; text-decoration: underline; color: black;">3. Methodology & Findings</h2>
-<img src='images/projects/p1/qaplatform2.png' width="100%"><br /><br />
 The study examines 1,968 questions in five disciplines on the academic social Q&A platform ResearchGate Q&A and explores how the linguistic characteristics of these questions affect the number of responses. It uses a range of methods to statistically analyze the relationship between these linguistic characteristics and the number of responses, and conducts comparisons between disciplines. <br /><br />
+<img src='images/projects/p1/qaplatform2.png' width="100%"><br /><br />
 The findings indicate that some linguistic characteristics, such as sadness, positive emotion and second-person pronouns, have a positive effect on response quantity; conversely, a high level of function words and first-person pronouns has a negative effect. However, the impacts of these linguistic characteristics vary across disciplines. <br />
 
 
