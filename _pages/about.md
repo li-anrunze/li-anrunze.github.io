@@ -45,7 +45,7 @@ redirect_from:
 <span class='anchor' id='bio'></span>
 
 <section id="bio">
-<h1 tyle="margin-top:3em;"><i class="fa fa-fw fa-star" aria-hidden="true"></i> Bio</h1>
+<h1 style="margin-top:3em;"><i class="fa fa-fw fa-star" aria-hidden="true"></i> Bio</h1>
 </section>
 
 <div style="text-align: justify;">
