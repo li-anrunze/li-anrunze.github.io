@@ -11,10 +11,6 @@ redirect_from:
 <head>
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css">
     <link rel="preload" href="images/Avatar.png" as="image">
-    <link rel="preload" href="images/projects/p5/evidence2.png" as="image">
-    <link rel="preload" href="images/projects/p4/gazetteer2.png" as="image">
-    <link rel="preload" href="images/projects/p2/celebrity2.png" as="image">
-    <link rel="preload" href="images/projects/p1/qaplatform2.png" as="image">
 
 
     <style>
@@ -101,7 +97,7 @@ Lately, I am particularly interested in <strong>how generative AI can enable dat
 
 </div>
 
-<button class="toggleButton">查看项目具体内容1</button>
+<div style="justify-content: center;display:flex;"><button class="toggleButton" style="margin-left: -0.5em;width:60%;height:2em; text-align: center; align-items: center; justify-content: center;display:flex;box-shadow: 1px 1px 3px rgba(0,0,0,0.5);"><i class="fa fa-fw fa-eye" aria-hidden="true"></i>&nbsp;&nbsp;Click to Learn More!</button></div>
 
 <div class="content hidden" style="color: black;border: 0.05em solid #d3d3d3;margin-left:-0.5em;margin-top: 0.5em;padding: 1.5em;box-shadow: 1px 1px 3px rgba(0,0,0,0.5);text-align: justify;background-image:url(images/bgpro.png);background-size: contain">
 
@@ -133,7 +129,9 @@ Taking “Suzhou Taffeta Craft” in “Suzhou Silk Archives of Modern China” 
 
 </div>
 
-<div  style="color: black;border: 0.05em solid #d3d3d3;margin-left:-0.5em;margin-top: 0.5em;padding: 1.5em;box-shadow: 1px 1px 3px rgba(0,0,0,0.5);text-align: justify;background-image:url(images/bgpro.png);background-size: contain">
+<div style="justify-content: center;display:flex;"><button class="toggleButton" style="margin-left: -0.5em;width:60%;height:2em; text-align: center; align-items: center; justify-content: center;display:flex;box-shadow: 1px 1px 3px rgba(0,0,0,0.5);"><i class="fa fa-fw fa-eye" aria-hidden="true"></i>&nbsp;&nbsp;Click to Learn More!</button></div>
+
+<div class="content hidden" style="color: black;border: 0.05em solid #d3d3d3;margin-left:-0.5em;margin-top: 0.5em;padding: 1.5em;box-shadow: 1px 1px 3px rgba(0,0,0,0.5);text-align: justify;background-image:url(images/bgpro.png);background-size: contain">
 
 <h2 style="text-align: center; margin-top: 0; margin-bottom: 1em; text-decoration: underline; color: black;">1. Summary</h2>
 <img src='images/projects/p4/gazetteer1.png' width="100%" style="margin-bottom:0.5em;">
@@ -162,7 +160,9 @@ At the empirical validation level, using the case study of "The Impressions of W
 
 </div>
 
-<div  style="color: black;border: 0.05em solid #d3d3d3;margin-left:-0.5em;margin-top: 0.5em;padding: 1.5em;box-shadow: 1px 1px 3px rgba(0,0,0,0.5);text-align: justify;background-image:url(images/bgpro.png);background-size: contain">
+<div style="justify-content: center;display:flex;"><button class="toggleButton" style="margin-left: -0.5em;width:60%;height:2em; text-align: center; align-items: center; justify-content: center;display:flex;box-shadow: 1px 1px 3px rgba(0,0,0,0.5);"><i class="fa fa-fw fa-eye" aria-hidden="true"></i>&nbsp;&nbsp;Click to Learn More!</button></div>
+
+<div class="content hidden" style="color: black;border: 0.05em solid #d3d3d3;margin-left:-0.5em;margin-top: 0.5em;padding: 1.5em;box-shadow: 1px 1px 3px rgba(0,0,0,0.5);text-align: justify;background-image:url(images/bgpro.png);background-size: contain">
 
 <h2 style="text-align: center; margin-top: 0; margin-bottom: 1em; text-decoration: underline; color: black;">1. Summary</h2>
 <img src='images/projects/p2/celebrity1.png' width="100%" style="margin-bottom:0.5em;">
@@ -191,8 +191,10 @@ Finally, this study examines and interprets the Academic Chronicle of Wu Baokang
 <mark style="background-color: #743481; color: #fff; text-align: center; padding: 0.2em; margin-right: 0.5em; margin-bottom: 5px;box-shadow: 1px 1px 3px rgba(0,0,0,0.5); display: inline-block; width: 30%;">&nbsp;&nbsp;Information seeking&nbsp;&nbsp; </mark>   
 
 </div>
-             
-<div  style="color: black;border: 0.05em solid #d3d3d3;margin-left:-0.5em;margin-top: 0.5em;padding: 1.5em;box-shadow: 1px 1px 3px rgba(0,0,0,0.5);text-align: justify;background-image:url(images/bgpro.png);background-size: contain">
+
+<div style="justify-content: center;display:flex;"><button class="toggleButton" style="margin-left: -0.5em;width:60%;height:2em; text-align: center; align-items: center; justify-content: center;display:flex;box-shadow: 1px 1px 3px rgba(0,0,0,0.5);"><i class="fa fa-fw fa-eye" aria-hidden="true"></i>&nbsp;&nbsp;Click to Learn More!</button></div>
+
+<div class="content hidden" style="color: black;border: 0.05em solid #d3d3d3;margin-left:-0.5em;margin-top: 0.5em;padding: 1.5em;box-shadow: 1px 1px 3px rgba(0,0,0,0.5);text-align: justify;background-image:url(images/bgpro.png);background-size: contain">
 
 <h2 style="text-align: center; margin-top: 0; margin-bottom: 1em; text-decoration: underline; color: black;">1. Summary</h2>
 <img src='images/projects/p1/qaplatform1.png' width="100%" style="margin-bottom:0.5em;">
@@ -441,10 +443,10 @@ The findings indicate that some linguistic characteristics, such as sadness, pos
                 var content = this.nextElementSibling;
                 if (content.classList.contains('hidden')) {
                     content.classList.remove('hidden');
-                    this.textContent = this.textContent.replace('查看', '隐藏');
+                    this.textContent = this.textContent.replace('Click to Learn More!', 'Click to Hide!');
                 } else {
                     content.classList.add('hidden');
-                    this.textContent = this.textContent.replace('隐藏', '查看');
+                    this.textContent = this.textContent.replace('Click to Hide!', 'Click to Learn More!');
                 }
             });
         });
