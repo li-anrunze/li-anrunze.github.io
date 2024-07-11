@@ -135,9 +135,8 @@ Taking “Suzhou Taffeta Craft” in “Suzhou Silk Archives of Modern China” 
 
 <h2 style="text-align: center; margin-top: 0.5em; margin-bottom: 1em; text-decoration: underline; color: black;">3. Methodology & Findings</h2>
 <img src='images/projects/p4/gazetteer2.png' width="100%"><br /><br />
-The study examines 1,968 questions in five disciplines on the academic social Q&A platform ResearchGate Q&A and explores how the linguistic characteristics of these questions affect the number of responses. It uses a range of methods to statistically analyze the relationship between these linguistic characteristics and the number of responses, and conducts comparisons between disciplines. <br /><br />
-The findings indicate that some linguistic characteristics, such as sadness, positive emotion and second-person pronouns, have a positive effect on response quantity; conversely, a high level of function words and first-person pronouns has a negative effect. However, the impacts of these linguistic characteristics vary across disciplines. <br />
-
+On a methodological level, this study proposes a multi-granularity knowledge service model based on a dual-perspective approach.  Firstly, from the provider's standpoint, we explore the incremental deconstruction of content according to different granularities. Secondly, from the recipient's perspective,  this study investigates how to cater to diverse needs in knowledge services based on content granularities. <br /><br />
+At the empirical validation level, using the case study of "The Impressions of West Lake in the 'Zhejiang Tong Zhi',"this study examines the scientific and practical viability of the proposed model. <br />
 
 </div>
 <!-- ④地方志项目 完 -->
@@ -166,7 +165,7 @@ The findings indicate that some linguistic characteristics, such as sadness, pos
 <h2 style="text-align: center; margin-top: 0.5em; margin-bottom: 1em; text-decoration: underline; color: black;">3. Methodology & Findings</h2>
 <img src='images/projects/p2/celebrity2.png' width="100%"><br /><br />
 First of all, based on previous research ideas and achievements, this study constructed a multi-dimensional analysis model of biographies of academic celebrities, which analyzed the biography contents from three dimensions of personal, social and academic, and displayed the full picture of celebrities from multiple perspectives. <br /><br />
-Secondly, this study put the multi-dimensional analysis model into the data processing step and put forward the “Data Preparation - Multi-dimensional Computing - Humanistic Interpretation” research path of academic celebrity biographies to explore the social value of biographies of academic celebrities with the perspective of organic integration of digital computation and humanistic context, and found potential research points. <br /><br />
+Secondly, this study put the multi-dimensional analysis model into the data processing step and put forward the “Data Preparation—Multi-dimensional Computing—Humanistic Interpretation” research path of academic celebrity biographies to explore the social value of biographies of academic celebrities with the perspective of organic integration of digital computation and humanistic context, and found potential research points. <br /><br />
 Finally, this study examines and interprets the Academic Chronicle of Wu Baokang as a case study, and develops the website called Wu Baokang Academic Celebrity Knowledge Base with the team. Through the construction of the multi-dimensional analysis model and path of biographies of academic celebrities, a relatively clear and unified research framework is provided for the analysis of biographical contents, which helps researchers to discover the potential research space of celebrity resources. <br />
 
 </div>
