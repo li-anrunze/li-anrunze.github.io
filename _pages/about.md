@@ -10,6 +10,13 @@ redirect_from:
 
 <head>
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css">
+    <link rel="preload" href="images/Avatar.png" as="image">
+    <link rel="preload" href="images/projects/p5/evidence2.png" as="image">
+    <link rel="preload" href="images/projects/p4/gazetteer2.png" as="image">
+    <link rel="preload" href="images/projects/p2/celebrity2.png" as="image">
+    <link rel="preload" href="images/projects/p1/qaplatform2.png" as="image">
+
+
     <style>
         .column {
         }
@@ -104,6 +111,36 @@ Taking “Suzhou Taffeta Craft” in “Suzhou Silk Archives of Modern China” 
 
 </div>
 <!-- ⑤叙事项目 完 -->
+
+<!-- ④地方志项目 -->
+
+<li style="margin-left: -0.5em; text-align: justify;"><h2><i class="fa-li fa fa-fw fa-map-pin" aria-hidden="true" style="float: left;"></i>Research on Knowledge Organization and Service of Local Gazetteers&nbsp;&nbsp;&nbsp;<em>2019-2021</em></h2></li>
+<div style="margin-left: -0.5em; font-size: 14px;">
+
+<mark style="background-color: #743481; color: #fff; text-align: center; padding: 0.2em; margin-right: 0.5em; margin-bottom: 5px;box-shadow: 1px 1px 3px rgba(0,0,0,0.5); display: inline-block; width: 30%;">&nbsp;&nbsp;Local Gazetteers（地方志）&nbsp;&nbsp; </mark>
+<mark style="background-color: #743481; color: #fff; text-align: center; padding: 0.2em; margin-right: 0.5em; margin-bottom: 5px;box-shadow: 1px 1px 3px rgba(0,0,0,0.5); display: inline-block; width: 30%;">&nbsp;&nbsp;Multi-granularity&nbsp;&nbsp; </mark>
+<mark style="background-color: #743481; color: #fff; text-align: center; padding: 0.2em; margin-right: 0.5em; margin-bottom: 5px;box-shadow: 1px 1px 3px rgba(0,0,0,0.5); display: inline-block; width: 30%">&nbsp;&nbsp;Knowledge Organization&nbsp;&nbsp; </mark>   <br />  
+<mark style="background-color: #743481; color: #fff; text-align: center; padding: 0.2em; margin-right: 0.5em; margin-bottom: 5px;box-shadow: 1px 1px 3px rgba(0,0,0,0.5); display: inline-block; width: 30%;">&nbsp;&nbsp;Knowledge Service&nbsp;&nbsp; </mark>   
+<mark style="background-color: #743481; color: #fff; text-align: center; padding: 0.2em; margin-right: 0.5em; margin-bottom: 5px;box-shadow: 1px 1px 3px rgba(0,0,0,0.5); display: inline-block; width: 30%;">&nbsp;&nbsp;Digital Humanities&nbsp;&nbsp; </mark>
+
+</div>
+
+<div  style="color: black;border: 0.05em solid #d3d3d3;margin-left:-0.5em;margin-top: 0.5em;padding: 1.5em;box-shadow: 1px 1px 3px rgba(0,0,0,0.5);text-align: justify;background-image:url(images/bgpro.png);background-size: contain">
+
+<h2 style="text-align: center; margin-top: 0; margin-bottom: 1em; text-decoration: underline; color: black;">1. Summary</h2>
+<img src='images/projects/p4/gazetteer1.png' width="100%" style="margin-bottom:0.5em;">
+
+<h2 style="text-align: center; margin-top: 0.5em; margin-bottom: 1em; text-decoration: underline; color: black;">2. Problems</h2>
+<i class="fa fa-fw fa-comment" aria-hidden="true"></i> The local gazetteers, as a unique cultural heritage and precious collection in China, carry the complete cultural context of specific regions, providing new research perspectives and evidence for humanities scholars. With rich and multifaceted characteristics and significant knowledge value, the content of local gazetteers possesses granularity. <strong>Hence, in the face of resources with large contents, how do we reorganize the expression of the knowledge content therein, and provide the public with more convenient public cultural services based on local gazetteers? </strong><br />
+
+<h2 style="text-align: center; margin-top: 0.5em; margin-bottom: 1em; text-decoration: underline; color: black;">3. Methodology & Findings</h2>
+<img src='images/projects/p4/gazetteer2.png' width="100%"><br /><br />
+The study examines 1,968 questions in five disciplines on the academic social Q&A platform ResearchGate Q&A and explores how the linguistic characteristics of these questions affect the number of responses. It uses a range of methods to statistically analyze the relationship between these linguistic characteristics and the number of responses, and conducts comparisons between disciplines. <br /><br />
+The findings indicate that some linguistic characteristics, such as sadness, positive emotion and second-person pronouns, have a positive effect on response quantity; conversely, a high level of function words and first-person pronouns has a negative effect. However, the impacts of these linguistic characteristics vary across disciplines. <br />
+
+
+</div>
+<!-- ④地方志项目 完 -->
 
 <!-- ②学术名人项目 -->
 
