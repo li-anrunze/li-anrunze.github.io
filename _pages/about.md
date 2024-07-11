@@ -92,7 +92,7 @@ Lately, I am particularly interested in <strong>how generative AI can enable dat
 <mark style="background-color: #743481; color: #fff; text-align: center; padding: 0.2em; margin-right: 0.5em; margin-bottom: 5px;box-shadow: 1px 1px 3px rgba(0,0,0,0.5); display: inline-block; width: 30%">&nbsp;&nbsp;Generative AI&nbsp;&nbsp; </mark>   <br />  
 <mark style="background-color: #743481; color: #fff; text-align: center; padding: 0.2em; margin-right: 0.5em; margin-bottom: 5px;box-shadow: 1px 1px 3px rgba(0,0,0,0.5); display: inline-block; width: 30%;">&nbsp;&nbsp;GLAMs&nbsp;&nbsp; </mark>   
 <mark style="background-color: #743481; color: #fff; text-align: center; padding: 0.2em; margin-right: 0.5em; margin-bottom: 5px;box-shadow: 1px 1px 3px rgba(0,0,0,0.5); display: inline-block; width: 30%;">&nbsp;&nbsp;Knowledge Organization&nbsp;&nbsp; </mark>
-<button class="toggleButton" style="margin-left: -0.5em;width:60%;height:2em; text-align: center; align-items: center; justify-content: center;display:flex;box-shadow: 1px 1px 3px rgba(0,0,0,0.5);"><i class="fa fa-fw fa-eye" aria-hidden="true"></i>&nbsp;&nbsp;Click to Learn More!</button>
+<button class="toggleButton" style="color: #fff; text-align: center; padding: 0.2em; margin-right: 0.5em; margin-bottom: 5px;box-shadow: 1px 1px 3px rgba(0,0,0,0.5); display: inline-block; width: 30%;"><i class="fa fa-fw fa-eye" aria-hidden="true"></i>&nbsp;&nbsp;Click to Learn More!</button>
 
 </div>
 
