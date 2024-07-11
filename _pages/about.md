@@ -105,6 +105,37 @@ Taking “Suzhou Taffeta Craft” in “Suzhou Silk Archives of Modern China” 
 </div>
 <!-- ⑤叙事项目 完 -->
 
+<!-- ②学术名人项目 -->
+
+<li style="margin-left: -0.5em; text-align: justify;"><h2><i class="fa-li fa fa-fw fa-map-pin" aria-hidden="true" style="float: left;"></i>Research on Event Knowledge Graph for Celebrity Biographies&nbsp;&nbsp;&nbsp;<em>2021-2023</em></h2></li>
+<div style="margin-left: -0.5em; font-size: 14px;">
+
+<mark style="background-color: #743481; color: #fff; text-align: center; padding: 0.2em; margin-right: 0.5em; margin-bottom: 5px;box-shadow: 1px 1px 3px rgba(0,0,0,0.5); display: inline-block; width: 30%;">&nbsp;&nbsp;Celebrity Biographies&nbsp;&nbsp; </mark>
+<mark style="background-color: #743481; color: #fff; text-align: center; padding: 0.2em; margin-right: 0.5em; margin-bottom: 5px;box-shadow: 1px 1px 3px rgba(0,0,0,0.5); display: inline-block; width: 30%;">&nbsp;&nbsp;Knowledge Graph&nbsp;&nbsp; </mark>
+<mark style="background-color: #743481; color: #fff; text-align: center; padding: 0.2em; margin-right: 0.5em; margin-bottom: 5px;box-shadow: 1px 1px 3px rgba(0,0,0,0.5); display: inline-block; width: 30%">&nbsp;&nbsp;Knowledge Organization&nbsp;&nbsp; </mark>   <br />  
+<mark style="background-color: #743481; color: #fff; text-align: center; padding: 0.2em; margin-right: 0.5em; margin-bottom: 5px;box-shadow: 1px 1px 3px rgba(0,0,0,0.5); display: inline-block; width: 30%;">&nbsp;&nbsp;Digital Humanities&nbsp;&nbsp; </mark>   
+<mark style="background-color: #743481; color: #fff; text-align: center; padding: 0.2em; margin-right: 0.5em; margin-bottom: 5px;box-shadow: 1px 1px 3px rgba(0,0,0,0.5); display: inline-block; width: 30%;">&nbsp;&nbsp;Multidimensional Analysis&nbsp;&nbsp; </mark>
+
+</div>
+
+<div  style="color: black;border: 0.05em solid #d3d3d3;margin-left:-0.5em;margin-top: 0.5em;padding: 1.5em;box-shadow: 1px 1px 3px rgba(0,0,0,0.5);text-align: justify;background-image:url(images/bgpro.png);background-size: contain">
+
+<h2 style="text-align: center; margin-top: 0; margin-bottom: 1em; text-decoration: underline; color: black;">1. Summary</h2>
+<img src='images/projects/p2/celebrity1.png' width="100%" style="margin-bottom:0.5em;">
+
+<h2 style="text-align: center; margin-top: 0.5em; margin-bottom: 1em; text-decoration: underline; color: black;">2. Problems</h2>
+<i class="fa fa-fw fa-comment" aria-hidden="true"></i> <strong>What linguistic characteristics of an academic question significantly influence its response quantity? </strong><br />
+<i class="fa fa-fw fa-comment" aria-hidden="true"></i> <strong>How do the linguistic characteristics that influence the response quantity of questions vary across disciplines?</strong>
+
+<h2 style="text-align: center; margin-top: 0.5em; margin-bottom: 1em; text-decoration: underline; color: black;">3. Methodology & Findings</h2>
+<img src='images/projects/p2/celebrity2.png' width="100%"><br /><br />
+The study examines 1,968 questions in five disciplines on the academic social Q&A platform ResearchGate Q&A and explores how the linguistic characteristics of these questions affect the number of responses. It uses a range of methods to statistically analyze the relationship between these linguistic characteristics and the number of responses, and conducts comparisons between disciplines. <br /><br />
+The findings indicate that some linguistic characteristics, such as sadness, positive emotion and second-person pronouns, have a positive effect on response quantity; conversely, a high level of function words and first-person pronouns has a negative effect. However, the impacts of these linguistic characteristics vary across disciplines. <br />
+
+
+</div>
+<!-- ②学术名人项目 完 -->
+
 <!-- ①问答平台项目 -->
 
 <li style="margin-left: -0.5em; text-align: justify;"><h2><i class="fa-li fa fa-fw fa-map-pin" aria-hidden="true" style="float: left;"></i>Research on Academic Social Q&A Behavior Based on Computational Linguistics&nbsp;&nbsp;&nbsp;<em>2019-2021</em></h2></li>
