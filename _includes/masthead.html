@@ -1,4 +1,4 @@
-<div class="masthead" style="background-color: #743481; position: fixed;">
+<div class="masthead" style="background-color: #743481; position: fixed;width:100%">
   <div class="masthead__inner-wrap">
     <div class="masthead__menu">
       <nav id="site-nav" class="greedy-nav" style="background-color: #743481; color: #fff;">
@@ -6,7 +6,7 @@
         <ul class="visible-links">
           <li class="masthead__menu-item masthead__menu-item--lg masthead__menu-home-item" style="margin-right: 50px; "><a href="#about-me"><div style="color: #fff; font-size: 18px;font-weight: bolder">Homepage</div></a></li>
           {% for link in site.data.navigation.main %}
-          <li class="masthead__menu-item"><a href="{{ domain }}{{ link.url }}" style="margin-right: 30px; color: #fff; font-weight: bold">{{ link.title }}</a></li>
+          <li class="masthead__menu-item"><a href="{{ domain }}{{ link.url }}" style="margin-right: 20px; color: #fff; font-weight: bold">{{ link.title }}</a></li>
           {% endfor %}
         </ul>
         <ul class="hidden-links hidden"></ul>
