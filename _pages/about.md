@@ -435,18 +435,19 @@ The findings indicate that some linguistic characteristics, such as sadness, pos
 - 2019, **Meritorious Winner**, 2019 Interdisciplinary Contest in Modeling
 - 2018, **Social Work Award**, Beijing Normal University
 
-
 <script>
         document.querySelectorAll('.toggleButton').forEach(function(button) {
             button.addEventListener('click', function() {
-                var content = this.nextElementSibling;
-                if (content.classList.contains('hidden')) {
-                    content.classList.remove('hidden');
-                    this.textContent = this.textContent.replace('Learn More', 'Hide');
-                } else {
-                    content.classList.add('hidden');
-                    this.textContent = this.textContent.replace('Hide', 'Learn More');
+                var content = this.previousElementSibling;
+                if (content && content.classList.contains('content')) {
+                    if (content.classList.contains('hidden')) {
+                        content.classList.remove('hidden');
+                        this.textContent = this.textContent.replace('Learn More', 'Hide');
+                    } else {
+                        content.classList.add('hidden');
+                       this.textContent = this.textContent.replace('Hide', 'Learn More');
+                    }
                 }
             });
         });
-</script>
+    </script>
