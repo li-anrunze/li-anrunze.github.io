@@ -59,9 +59,9 @@ Lately, I am particularly interested in <strong>how generative AI can enable dat
 <div class="column" style="margin-left: 5em; text-align: justify;">
 <h1> <i class="fa fa-fw fa-mortar-board" aria-hidden="true"></i> Educations </h1>
 <ul>
-<li><strong><em>2023.09 - now</em></strong>, Ph.D. Student in Information Resource Management, Integrated Master’s-PhD Program, School of Information Resource Management, Renmin University of China</li>
-<li><strong><em>2021.09 - 2023.06</em></strong>, M.S. in Information Science, School of Information Resource Management, Renmin University of China</li>
-<li><strong><em>2017.09 - 2021.06</em></strong>, B.S. in Information Management and Information System, School of Government, Beijing Normal University</li>
+<li><strong><em>2023.09-now</em></strong>, Ph.D. Student in Information Resource Management, Integrated Master’s-PhD Program, School of Information Resource Management, Renmin University of China</li>
+<li><strong><em>2021.09-2023.06</em></strong>, M.S. in Information Science, School of Information Resource Management, Renmin University of China</li>
+<li><strong><em>2017.09-2021.06</em></strong>, B.S. in Information Management and Information System, School of Government, Beijing Normal University</li>
 <li><strong><em>2019.07</em></strong>, Summer Exchange program for Global Business Leadership, Stanford University & U.C. Berkeley</li>
 <li><strong><em>2019.02</em></strong>, Winter Training program on AI & Future Technologies, The University of Hong Kong</li>
 </ul>
@@ -80,27 +80,26 @@ Lately, I am particularly interested in <strong>how generative AI can enable dat
 <li style="margin-left: -0.5em; text-align: justify;"><h2><i class="fa-li fa fa-fw fa-map-pin" aria-hidden="true" style="float: left;"></i>Research on Cultural Data Narratives Driven by Generative AI&nbsp;&nbsp;&nbsp;<em>2023-Present</em></h2></li>
 <div style="margin-left: -0.5em; font-size: 14px;">
 
-<mark style="background-color: #743481; color: #fff; text-align: center; padding: 0.2em; margin-right: 0.5em; margin-bottom: 5px;box-shadow: 1px 1px 3px rgba(0,0,0,0.5); display: inline-block; width: 30%;">&nbsp;&nbsp;Response quantity&nbsp;&nbsp; </mark>
-<mark style="background-color: #743481; color: #fff; text-align: center; padding: 0.2em; margin-right: 0.5em; margin-bottom: 5px;box-shadow: 1px 1px 3px rgba(0,0,0,0.5); display: inline-block; width: 30%;">&nbsp;&nbsp;Linguistic characteristics&nbsp;&nbsp; </mark>
-<mark style="background-color: #743481; color: #fff; text-align: center; padding: 0.2em; margin-right: 0.5em; margin-bottom: 5px;box-shadow: 1px 1px 3px rgba(0,0,0,0.5); display: inline-block; width: 30%">&nbsp;&nbsp;Academic questions&nbsp;&nbsp; </mark>   <br />  
-<mark style="background-color: #743481; color: #fff; text-align: center; padding: 0.2em; margin-right: 0.5em; margin-bottom: 5px;box-shadow: 1px 1px 3px rgba(0,0,0,0.5); display: inline-block; width: 30%;">&nbsp;&nbsp;Academic social Q&A&nbsp;&nbsp; </mark>   
-<mark style="background-color: #743481; color: #fff; text-align: center; padding: 0.2em; margin-right: 0.5em; margin-bottom: 5px;box-shadow: 1px 1px 3px rgba(0,0,0,0.5); display: inline-block; width: 30%;">&nbsp;&nbsp;Information seeking&nbsp;&nbsp; </mark>
+<mark style="background-color: #743481; color: #fff; text-align: center; padding: 0.2em; margin-right: 0.5em; margin-bottom: 5px;box-shadow: 1px 1px 3px rgba(0,0,0,0.5); display: inline-block; width: 30%;">&nbsp;&nbsp;Data Narratives&nbsp;&nbsp; </mark>
+<mark style="background-color: #743481; color: #fff; text-align: center; padding: 0.2em; margin-right: 0.5em; margin-bottom: 5px;box-shadow: 1px 1px 3px rgba(0,0,0,0.5); display: inline-block; width: 30%;">&nbsp;&nbsp;Public Culture Service&nbsp;&nbsp; </mark>
+<mark style="background-color: #743481; color: #fff; text-align: center; padding: 0.2em; margin-right: 0.5em; margin-bottom: 5px;box-shadow: 1px 1px 3px rgba(0,0,0,0.5); display: inline-block; width: 30%">&nbsp;&nbsp;Generative AI&nbsp;&nbsp; </mark>   <br />  
+<mark style="background-color: #743481; color: #fff; text-align: center; padding: 0.2em; margin-right: 0.5em; margin-bottom: 5px;box-shadow: 1px 1px 3px rgba(0,0,0,0.5); display: inline-block; width: 30%;">&nbsp;&nbsp;GLAMs&nbsp;&nbsp; </mark>   
+<mark style="background-color: #743481; color: #fff; text-align: center; padding: 0.2em; margin-right: 0.5em; margin-bottom: 5px;box-shadow: 1px 1px 3px rgba(0,0,0,0.5); display: inline-block; width: 30%;">&nbsp;&nbsp;Knowledge Organization&nbsp;&nbsp; </mark>
 
 </div>
 
-<div  style="color: black;border: 0.05em solid #d3d3d3;margin-left:-0.5em;margin-top: 0.5em;padding: 1.5em;box-shadow: 1px 1px 3px rgba(0,0,0,0.5);text-align: justify;background-image:url(images/bgpro.png);background-repeat: repeat-y;background-size: contain">
+<div  style="color: black;border: 0.05em solid #d3d3d3;margin-left:-0.5em;margin-top: 0.5em;padding: 1.5em;box-shadow: 1px 1px 3px rgba(0,0,0,0.5);text-align: justify;background-image:url(images/bgpro.png);background-size: contain">
 
 <h2 style="text-align: center; margin-top: 0; margin-bottom: 1em; text-decoration: underline; color: black;">1. Summary</h2>
 <img src='images/projects/p5/evidence1.png' width="100%" style="margin-bottom:0.5em;">
 
 <h2 style="text-align: center; margin-top: 0.5em; margin-bottom: 1em; text-decoration: underline; color: black;">2. Problems</h2>
-<i class="fa fa-fw fa-comment" aria-hidden="true"></i> <strong>What linguistic characteristics of an academic question significantly influence its response quantity? </strong><br />
-<i class="fa fa-fw fa-comment" aria-hidden="true"></i> <strong>How do the linguistic characteristics that influence the response quantity of questions vary across disciplines?</strong>
+<i class="fa fa-fw fa-comment" aria-hidden="true"></i> <strong>If the source of data is unreliable, or the quality of data is low and noisy, or the data are taken out of context or misinterpreted and abused in the process of processing and combining, even if the most advanced narrative techniques and splendid visualization methods are adopted, it is difficult to ensure the authority, rationality and scientificity of the content of the data story, and on the contrary, it will mislead readers' cognition of the facts of humanities and history. Therefore, how can we tell data stories that are as accurate as possible? </strong><br />
 
 <h2 style="text-align: center; margin-top: 0.5em; margin-bottom: 1em; text-decoration: underline; color: black;">3. Methodology & Findings</h2>
 <img src='images/projects/p5/evidence2.png' width="100%"><br /><br />
-The study examines 1,968 questions in five disciplines on the academic social Q&A platform ResearchGate Q&A and explores how the linguistic characteristics of these questions affect the number of responses. It uses a range of methods to statistically analyze the relationship between these linguistic characteristics and the number of responses, and conducts comparisons between disciplines. <br /><br />
-The findings indicate that some linguistic characteristics, such as sadness, positive emotion and second-person pronouns, have a positive effect on response quantity; conversely, a high level of function words and first-person pronouns has a negative effect. However, the impacts of these linguistic characteristics vary across disciplines. <br />
+Evidence-based thinking is introduced to construct a data storytelling model for archival documentary heritage, upholding the three basic principles of traceability evidence-based, reliability evidence-based, and interpretability evidence-based, comprehensively searching for evidence of events, constructing a chain of evidence of events based on spatio-temporal correlation and semantic logic, and combining the method of multivariate mutual evidence to create more accurate stories.<br /><br />
+Taking “Suzhou Taffeta Craft” in “Suzhou Silk Archives of Modern China” as a case study, we verify the validity and feasibility of the model, and reshape the research paradigm of data storytelling.<br />
 
 
 </div>
@@ -119,7 +118,7 @@ The findings indicate that some linguistic characteristics, such as sadness, pos
 
 </div>
              
-<div  style="color: black;border: 0.05em solid #d3d3d3;margin-left:-0.5em;margin-top: 0.5em;padding: 1.5em;box-shadow: 1px 1px 3px rgba(0,0,0,0.5);text-align: justify;background-image:url(images/bgpro.png);background-repeat: repeat-y;background-size: contain">
+<div  style="color: black;border: 0.05em solid #d3d3d3;margin-left:-0.5em;margin-top: 0.5em;padding: 1.5em;box-shadow: 1px 1px 3px rgba(0,0,0,0.5);text-align: justify;background-image:url(images/bgpro.png);background-size: contain">
 
 <h2 style="text-align: center; margin-top: 0; margin-bottom: 1em; text-decoration: underline; color: black;">1. Summary</h2>
 <img src='images/projects/p1/qaplatform1.png' width="100%" style="margin-bottom:0.5em;">
