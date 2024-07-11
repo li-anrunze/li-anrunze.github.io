@@ -43,7 +43,7 @@ redirect_from:
 </section>
 
 <div style="text-align: justify;">
-Hello, I am Anrunze LI! 🥰  <br />
+Hello, I am Anrunze Li! 🥰  <br />
 Currently, I  am a second-year PhD student in <strong>Information Resources Management</strong> at School of Information Resource Management, Renmin University of China(中国人民大学信息资源管理学院). <br />
 I am adept at thinking and solving problems, which come from classic books and everything around me. As an old Chinese proverb goes, “Traveling a thousand miles is better than reading a thousand books,” I actively participate in overseas exchange programs and international academic conferences, and have joined various competitions with my peers, connecting with like-minded academic friends. <br />
 I consistently uphold <strong>a sincere and curious heart towards the world</strong>, enjoying the exploration of diverse subjects. This is why I chose Digital Humanities as my core research direction. Beyond my major courses, I have taken electives in Computer Science, Sociology, Psychology, Education, and Film Arts. And I have experimented with developing websites and mini-programs to enrich my knowledge base and daily life. <br />
@@ -136,7 +136,7 @@ Taking “Suzhou Taffeta Craft” in “Suzhou Silk Archives of Modern China” 
 <h2 style="text-align: center; margin-top: 0.5em; margin-bottom: 1em; text-decoration: underline; color: black;">3. Methodology & Findings</h2>
 <img src='images/projects/p4/gazetteer2.png' width="100%"><br /><br />
 On a methodological level, this study proposes a multi-granularity knowledge service model based on a dual-perspective approach.  Firstly, from the provider's standpoint, we explore the incremental deconstruction of content according to different granularities. Secondly, from the recipient's perspective,  this study investigates how to cater to diverse needs in knowledge services based on content granularities. <br /><br />
-At the empirical validation level, using the case study of "The Impressions of West Lake in the 'Zhejiang Tong Zhi',"this study examines the scientific and practical viability of the proposed model. <br />
+At the empirical validation level, using the case study of "The Impressions of West Lake in the 'Zhejiang Tong Zhi'（《浙江通志》）,"this study examines the scientific and practical viability of the proposed model. <br />
 
 </div>
 <!-- ④地方志项目 完 -->
