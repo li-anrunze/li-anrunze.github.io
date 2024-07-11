@@ -99,8 +99,6 @@ Lately, I am particularly interested in <strong>how generative AI can enable dat
 
 <div class="content show" style="color: black;border: 0.05em solid #d3d3d3;margin-left:-0.5em;margin-top: 0.5em;padding: 1.5em;box-shadow: 1px 1px 3px rgba(0,0,0,0.5);text-align: justify;background-image:url(images/bgpro.png);background-size: contain">
 
-<button class="toggleButton" style="margin-left: -0.5em;width:30%;height:2em; text-align: center; align-items: center; justify-content: center;display:flex;box-shadow: 1px 1px 3px rgba(0,0,0,0.5);font-weight: bold;">Click to Hide!</button>
-
 <h2 style="text-align: center; margin-top: 0; margin-bottom: 1em; text-decoration: underline; color: black;">1. Summary</h2>
 <img src='images/projects/p5/evidence1.png' width="100%" style="margin-bottom:0.5em;">
 
@@ -114,6 +112,7 @@ Taking “Suzhou Taffeta Craft” in “Suzhou Silk Archives of Modern China” 
 
 
 </div>
+<button class="toggleButton" style="margin-left: -0.5em;width:30%;height:2em; text-align: center; align-items: center; justify-content: center;display:flex;box-shadow: 1px 1px 3px rgba(0,0,0,0.5);font-weight: bold;">Click to Hide!</button>
 <!-- ⑤叙事项目 完 -->
 
 <!-- ④地方志项目 -->
