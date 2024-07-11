@@ -117,7 +117,7 @@ Taking “Suzhou Taffeta Craft” in “Suzhou Silk Archives of Modern China” 
 
 </div>
 <div class="button-container">
-<button class="toggleButton" style="margin-left: -0.5em;margin-top:0.2em;width:80%;height:2em; border-width:0; text-align: center;box-shadow: 1px 1px 3px rgba(0,0,0,0.5);font-weight: bold;">Click to Hide!</button>
+<button class="toggleButton" style="margin-left: 9%;margin-top:0.2em;width:80%;height:2em; border-width:0; text-align: center;box-shadow: 1px 1px 3px rgba(0,0,0,0.5);font-weight: bold;">Click to Hide!</button>
 </div>
 <!-- ⑤叙事项目 完 -->
 
@@ -148,7 +148,7 @@ On a methodological level, this study proposes a multi-granularity knowledge ser
 At the empirical validation level, using the case study of "The Impressions of West Lake in the 'Zhejiang Tong Zhi'（《浙江通志》）,"this study examines the scientific and practical viability of the proposed model. <br />
 
 </div>
-<button class="toggleButton" style="margin-left: -0.5em;margin-top:0.2em;width:80%;height:2em; border-width:0; text-align: center; align-items: center; justify-content: center;display:flex;box-shadow: 1px 1px 3px rgba(0,0,0,0.5);font-weight: bold;">Click to Learn More</button>
+<button class="toggleButton" style="margin-left: 9%;margin-top:0.2em;width:80%;height:2em; border-width:0; text-align: center; align-items: center; justify-content: center;display:flex;box-shadow: 1px 1px 3px rgba(0,0,0,0.5);font-weight: bold;">Click to Learn More</button>
 
 <!-- ④地方志项目 完 -->
 
@@ -179,7 +179,7 @@ Secondly, this study put the multi-dimensional analysis model into the data proc
 Finally, this study examines and interprets the Academic Chronicle of Wu Baokang as a case study, and develops the website called Wu Baokang Academic Celebrity Knowledge Base with the team. Through the construction of the multi-dimensional analysis model and path of biographies of academic celebrities, a relatively clear and unified research framework is provided for the analysis of biographical contents, which helps researchers to discover the potential research space of celebrity resources. <br />
 
 </div>
-<button class="toggleButton" style="margin-left: -0.5em;margin-top:0.2em;width:80%;height:2em; border-width:0; text-align: center; align-items: center; justify-content: center;display:flex;box-shadow: 1px 1px 3px rgba(0,0,0,0.5);font-weight: bold;">Click to Learn More</button>
+<button class="toggleButton" style="margin-left: 9%;margin-top:0.2em;width:80%;height:2em; border-width:0; text-align: center; align-items: center; justify-content: center;display:flex;box-shadow: 1px 1px 3px rgba(0,0,0,0.5);font-weight: bold;">Click to Learn More</button>
 
 <!-- ②学术名人项目 完 -->
 
@@ -212,7 +212,7 @@ The findings indicate that some linguistic characteristics, such as sadness, pos
 
 
 </div>
-<button class="toggleButton" style="margin-left: -0.5em;margin-top:0.2em;width:80%;height:2em; border-width:0; text-align: center; align-items: center; justify-content: center;display:flex;box-shadow: 1px 1px 3px rgba(0,0,0,0.5);font-weight: bold;">Click to Learn More</button>
+<button class="toggleButton" style="margin-left: 9%;margin-top:0.2em;width:80%;height:2em; border-width:0; text-align: center; align-items: center; justify-content: center;display:flex;box-shadow: 1px 1px 3px rgba(0,0,0,0.5);font-weight: bold;">Click to Learn More</button>
 
 <!-- ①问答平台项目 完 -->
 
