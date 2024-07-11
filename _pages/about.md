@@ -112,7 +112,7 @@ Taking “Suzhou Taffeta Craft” in “Suzhou Silk Archives of Modern China” 
 
 
 </div>
-<button class="toggleButton" style="margin-left: -0.5em;width:30%;height:2em; text-align: center; align-items: center; justify-content: center;display:flex;box-shadow: 1px 1px 3px rgba(0,0,0,0.5);font-weight: bold;">Click to Hide!</button>
+<button class="toggleButton" style="margin-top:1em; margin-left: -0.5em;width:30%;height:2em; border-width:0; text-align: center; align-items: center; justify-content: center;display:flex;box-shadow: 1px 1px 3px rgba(0,0,0,0.5);font-weight: bold;">Click to Hide!</button>
 <!-- ⑤叙事项目 完 -->
 
 <!-- ④地方志项目 -->
