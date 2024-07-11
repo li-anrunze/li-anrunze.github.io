@@ -26,6 +26,12 @@ redirect_from:
         .column:last-child {
             flex: 2; /* 第二个栏目的宽度比例为 2 */
         }
+        .hidden {
+        display: none;
+        }
+        #content {
+        
+        }
     </style>
 </head>
 
@@ -95,7 +101,9 @@ Lately, I am particularly interested in <strong>how generative AI can enable dat
 
 </div>
 
-<div  style="color: black;border: 0.05em solid #d3d3d3;margin-left:-0.5em;margin-top: 0.5em;padding: 1.5em;box-shadow: 1px 1px 3px rgba(0,0,0,0.5);text-align: justify;background-image:url(images/bgpro.png);background-size: contain">
+<button class="toggleButton">查看项目具体内容1</button>
+
+<div class="content hidden" style="color: black;border: 0.05em solid #d3d3d3;margin-left:-0.5em;margin-top: 0.5em;padding: 1.5em;box-shadow: 1px 1px 3px rgba(0,0,0,0.5);text-align: justify;background-image:url(images/bgpro.png);background-size: contain">
 
 <h2 style="text-align: center; margin-top: 0; margin-bottom: 1em; text-decoration: underline; color: black;">1. Summary</h2>
 <img src='images/projects/p5/evidence1.png' width="100%" style="margin-bottom:0.5em;">
@@ -425,3 +433,19 @@ The findings indicate that some linguistic characteristics, such as sadness, pos
 - 2019, **Volunteer Service Award**, Beijing Normal University
 - 2019, **Meritorious Winner**, 2019 Interdisciplinary Contest in Modeling
 - 2018, **Social Work Award**, Beijing Normal University
+
+
+<script>
+        document.querySelectorAll('.toggleButton').forEach(function(button) {
+            button.addEventListener('click', function() {
+                var content = this.nextElementSibling;
+                if (content.classList.contains('hidden')) {
+                    content.classList.remove('hidden');
+                    this.textContent = this.textContent.replace('查看', '隐藏');
+                } else {
+                    content.classList.add('hidden');
+                    this.textContent = this.textContent.replace('隐藏', '查看');
+                }
+            });
+        });
+</script>
