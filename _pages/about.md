@@ -89,15 +89,15 @@ Lately, I am particularly interested in <strong>how generative AI can enable dat
 <li style="margin-left: -0.5em; text-align: justify;"><h2><i class="fa-li fa fa-fw fa-map-pin" aria-hidden="true" style="float: left;"></i>Research on Cultural Data Narratives Driven by Generative AI&nbsp;&nbsp;&nbsp;<em>2023-Present</em></h2></li>
 <div style="margin-left: -0.5em; font-size: 14px;">
 
-<mark style="background-color: #743481; color: #fff; text-align: center; padding: 0.2em; margin-right: 0.5em; margin-bottom: 5px;box-shadow: 1px 1px 3px rgba(0,0,0,0.5); display: inline-block; width: 30%;">&nbsp;&nbsp;Data Narratives&nbsp;&nbsp; </mark>
-<mark style="background-color: #743481; color: #fff; text-align: center; padding: 0.2em; margin-right: 0.5em; margin-bottom: 5px;box-shadow: 1px 1px 3px rgba(0,0,0,0.5); display: inline-block; width: 30%;">&nbsp;&nbsp;Public Culture Service&nbsp;&nbsp; </mark>
-<mark style="background-color: #743481; color: #fff; text-align: center; padding: 0.2em; margin-right: 0.5em; margin-bottom: 5px;box-shadow: 1px 1px 3px rgba(0,0,0,0.5); display: inline-block; width: 30%">&nbsp;&nbsp;Generative AI&nbsp;&nbsp; </mark>   <br />  
-<mark style="background-color: #743481; color: #fff; text-align: center; padding: 0.2em; margin-right: 0.5em; margin-bottom: 5px;box-shadow: 1px 1px 3px rgba(0,0,0,0.5); display: inline-block; width: 30%;">&nbsp;&nbsp;GLAMs&nbsp;&nbsp; </mark>   
-<mark style="background-color: #743481; color: #fff; text-align: center; padding: 0.2em; margin-right: 0.5em; margin-bottom: 5px;box-shadow: 1px 1px 3px rgba(0,0,0,0.5); display: inline-block; width: 30%;">&nbsp;&nbsp;Knowledge Organization&nbsp;&nbsp; </mark>
+<mark style="background-color: #743481; color: #fff; text-align: center; padding: 0.2em; margin-right: 4%; margin-bottom: 5px;box-shadow: 1px 1px 3px rgba(0,0,0,0.5); display: inline-block; width: 30%;">&nbsp;&nbsp;Data Narratives&nbsp;&nbsp; </mark>
+<mark style="background-color: #743481; color: #fff; text-align: center; padding: 0.2em; margin-right: 4%; margin-bottom: 5px;box-shadow: 1px 1px 3px rgba(0,0,0,0.5); display: inline-block; width: 30%;">&nbsp;&nbsp;Public Culture Service&nbsp;&nbsp; </mark>
+<mark style="background-color: #743481; color: #fff; text-align: center; padding: 0.2em; margin-right: 4%; margin-bottom: 5px;box-shadow: 1px 1px 3px rgba(0,0,0,0.5); display: inline-block; width: 30%">&nbsp;&nbsp;Generative AI&nbsp;&nbsp; </mark>   <br />  
+<mark style="background-color: #743481; color: #fff; text-align: center; padding: 0.2em; margin-right: 4%; margin-bottom: 5px;box-shadow: 1px 1px 3px rgba(0,0,0,0.5); display: inline-block; width: 30%;">&nbsp;&nbsp;GLAMs&nbsp;&nbsp; </mark>   
+<mark style="background-color: #743481; color: #fff; text-align: center; padding: 0.2em; margin-right: 4%; margin-bottom: 5px;box-shadow: 1px 1px 3px rgba(0,0,0,0.5); display: inline-block; width: 30%;">&nbsp;&nbsp;Knowledge Organization&nbsp;&nbsp; </mark>
 
 </div>
 
-<div class="content show" style="color: black;border: 0.05em solid #d3d3d3;margin-left:-0.5em;margin-top: 0.5em;padding: 1.5em;box-shadow: 1px 1px 3px rgba(0,0,0,0.5);text-align: justify;background-image:url(images/bgpro.png);background-size: contain">
+<div class="content show" style="color: black;border: 0.05em solid #d3d3d3;margin-left:-0.5em;margin-top: 0.5em;margin-bottom: 0.5em; padding: 1.5em;box-shadow: 1px 1px 3px rgba(0,0,0,0.5);text-align: justify;background-image:url(images/bgpro.png);background-size: contain">
 
 <h2 style="text-align: center; margin-top: 0; margin-bottom: 1em; text-decoration: underline; color: black;">1. Summary</h2>
 <img src='images/projects/p5/evidence1.png' width="100%" style="margin-bottom:0.5em;">
@@ -112,7 +112,7 @@ Taking “Suzhou Taffeta Craft” in “Suzhou Silk Archives of Modern China” 
 
 
 </div>
-<button class="toggleButton" style="margin-top:1em; margin-left: -0.5em;width:30%;height:2em; border-width:0; text-align: center; align-items: center; justify-content: center;display:flex;box-shadow: 1px 1px 3px rgba(0,0,0,0.5);font-weight: bold;">Click to Hide!</button>
+<button class="toggleButton" style="margin-left: -0.5em;width:100%;height:2em; border-width:0; text-align: center; align-items: center; justify-content: center;display:flex;box-shadow: 1px 1px 3px rgba(0,0,0,0.5);font-weight: bold;">Click to Hide!</button>
 
 <!-- ⑤叙事项目 完 -->
 
@@ -121,17 +121,15 @@ Taking “Suzhou Taffeta Craft” in “Suzhou Silk Archives of Modern China” 
 <li style="margin-left: -0.5em; text-align: justify;"><h2><i class="fa-li fa fa-fw fa-map-pin" aria-hidden="true" style="float: left;"></i>Research on Knowledge Organization and Service of Local Gazetteers&nbsp;&nbsp;&nbsp;<em>2023-Present</em></h2></li>
 <div style="margin-left: -0.5em; font-size: 14px;">
 
-<mark style="background-color: #743481; color: #fff; text-align: center; padding: 0.2em; margin-right: 0.5em; margin-bottom: 5px;box-shadow: 1px 1px 3px rgba(0,0,0,0.5); display: inline-block; width: 30%;">&nbsp;&nbsp;Local Gazetteers（地方志）&nbsp;&nbsp; </mark>
-<mark style="background-color: #743481; color: #fff; text-align: center; padding: 0.2em; margin-right: 0.5em; margin-bottom: 5px;box-shadow: 1px 1px 3px rgba(0,0,0,0.5); display: inline-block; width: 30%;">&nbsp;&nbsp;Multi-granularity&nbsp;&nbsp; </mark>
-<mark style="background-color: #743481; color: #fff; text-align: center; padding: 0.2em; margin-right: 0.5em; margin-bottom: 5px;box-shadow: 1px 1px 3px rgba(0,0,0,0.5); display: inline-block; width: 30%">&nbsp;&nbsp;Knowledge Organization&nbsp;&nbsp; </mark>   <br />  
-<mark style="background-color: #743481; color: #fff; text-align: center; padding: 0.2em; margin-right: 0.5em; margin-bottom: 5px;box-shadow: 1px 1px 3px rgba(0,0,0,0.5); display: inline-block; width: 30%;">&nbsp;&nbsp;Knowledge Service&nbsp;&nbsp; </mark>   
-<mark style="background-color: #743481; color: #fff; text-align: center; padding: 0.2em; margin-right: 0.5em; margin-bottom: 5px;box-shadow: 1px 1px 3px rgba(0,0,0,0.5); display: inline-block; width: 30%;">&nbsp;&nbsp;Digital Humanities&nbsp;&nbsp; </mark>
+<mark style="background-color: #743481; color: #fff; text-align: center; padding: 0.2em; margin-right: 4%; margin-bottom: 5px;box-shadow: 1px 1px 3px rgba(0,0,0,0.5); display: inline-block; width: 30%;">&nbsp;&nbsp;Local Gazetteers（地方志）&nbsp;&nbsp; </mark>
+<mark style="background-color: #743481; color: #fff; text-align: center; padding: 0.2em; margin-right: 4%; margin-bottom: 5px;box-shadow: 1px 1px 3px rgba(0,0,0,0.5); display: inline-block; width: 30%;">&nbsp;&nbsp;Multi-granularity&nbsp;&nbsp; </mark>
+<mark style="background-color: #743481; color: #fff; text-align: center; padding: 0.2em; margin-right: 4%; margin-bottom: 5px;box-shadow: 1px 1px 3px rgba(0,0,0,0.5); display: inline-block; width: 30%">&nbsp;&nbsp;Knowledge Organization&nbsp;&nbsp; </mark>   <br />  
+<mark style="background-color: #743481; color: #fff; text-align: center; padding: 0.2em; margin-right: 4%; margin-bottom: 5px;box-shadow: 1px 1px 3px rgba(0,0,0,0.5); display: inline-block; width: 30%;">&nbsp;&nbsp;Knowledge Service&nbsp;&nbsp; </mark>   
+<mark style="background-color: #743481; color: #fff; text-align: center; padding: 0.2em; margin-right: 4%; margin-bottom: 5px;box-shadow: 1px 1px 3px rgba(0,0,0,0.5); display: inline-block; width: 30%;">&nbsp;&nbsp;Digital Humanities&nbsp;&nbsp; </mark>
 
 </div>
 
-<button class="toggleButton" style="margin-left: -0.5em;width:30%;height:2em; text-align: center; align-items: center; justify-content: center;display:flex;box-shadow: 1px 1px 3px rgba(0,0,0,0.5);font-weight: bold;">Click to Learn More!</button>
-
-<div class="content hidden" style="color: black;border: 0.05em solid #d3d3d3;margin-left:-0.5em;margin-top: 0.5em;padding: 1.5em;box-shadow: 1px 1px 3px rgba(0,0,0,0.5);text-align: justify;background-image:url(images/bgpro.png);background-size: contain">
+<div class="content hidden" style="color: black;border: 0.05em solid #d3d3d3;margin-left:-0.5em;margin-top: 0.5em;margin-bottom: 0.5em;padding: 1.5em;box-shadow: 1px 1px 3px rgba(0,0,0,0.5);text-align: justify;background-image:url(images/bgpro.png);background-size: contain">
 
 <h2 style="text-align: center; margin-top: 0; margin-bottom: 1em; text-decoration: underline; color: black;">1. Summary</h2>
 <img src='images/projects/p4/gazetteer1.png' width="100%" style="margin-bottom:0.5em;">
@@ -145,6 +143,8 @@ On a methodological level, this study proposes a multi-granularity knowledge ser
 At the empirical validation level, using the case study of "The Impressions of West Lake in the 'Zhejiang Tong Zhi'（《浙江通志》）,"this study examines the scientific and practical viability of the proposed model. <br />
 
 </div>
+<button class="toggleButton" style="margin-left: -0.5em;width:100%;height:2em; border-width:0; text-align: center; align-items: center; justify-content: center;display:flex;box-shadow: 1px 1px 3px rgba(0,0,0,0.5);font-weight: bold;">Click to Hide!</button>
+
 <!-- ④地方志项目 完 -->
 
 <!-- ②学术名人项目 -->
@@ -152,16 +152,14 @@ At the empirical validation level, using the case study of "The Impressions of W
 <li style="margin-left: -0.5em; text-align: justify;"><h2><i class="fa-li fa fa-fw fa-map-pin" aria-hidden="true" style="float: left;"></i>Research on Event Knowledge Graph for Celebrity Biographies&nbsp;&nbsp;&nbsp;<em>2021-2023</em></h2></li>
 <div style="margin-left: -0.5em; font-size: 14px;">
 
-<mark style="background-color: #743481; color: #fff; text-align: center; padding: 0.2em; margin-right: 0.5em; margin-bottom: 5px;box-shadow: 1px 1px 3px rgba(0,0,0,0.5); display: inline-block; width: 30%;">&nbsp;&nbsp;Celebrity Biographies&nbsp;&nbsp; </mark>
-<mark style="background-color: #743481; color: #fff; text-align: center; padding: 0.2em; margin-right: 0.5em; margin-bottom: 5px;box-shadow: 1px 1px 3px rgba(0,0,0,0.5); display: inline-block; width: 30%;">&nbsp;&nbsp;Knowledge Graph&nbsp;&nbsp; </mark>
-<mark style="background-color: #743481; color: #fff; text-align: center; padding: 0.2em; margin-right: 0.5em; margin-bottom: 5px;box-shadow: 1px 1px 3px rgba(0,0,0,0.5); display: inline-block; width: 30%">&nbsp;&nbsp;Knowledge Organization&nbsp;&nbsp; </mark>   <br />  
-<mark style="background-color: #743481; color: #fff; text-align: center; padding: 0.2em; margin-right: 0.5em; margin-bottom: 5px;box-shadow: 1px 1px 3px rgba(0,0,0,0.5); display: inline-block; width: 30%;">&nbsp;&nbsp;Digital Humanities&nbsp;&nbsp; </mark>   
-<mark style="background-color: #743481; color: #fff; text-align: center; padding: 0.2em; margin-right: 0.5em; margin-bottom: 5px;box-shadow: 1px 1px 3px rgba(0,0,0,0.5); display: inline-block; width: 30%;">&nbsp;&nbsp;Multidimensional Analysis&nbsp;&nbsp; </mark>
+<mark style="background-color: #743481; color: #fff; text-align: center; padding: 0.2em; margin-right: 4%; margin-bottom: 5px;box-shadow: 1px 1px 3px rgba(0,0,0,0.5); display: inline-block; width: 30%;">&nbsp;&nbsp;Celebrity Biographies&nbsp;&nbsp; </mark>
+<mark style="background-color: #743481; color: #fff; text-align: center; padding: 0.2em; margin-right: 4%; margin-bottom: 5px;box-shadow: 1px 1px 3px rgba(0,0,0,0.5); display: inline-block; width: 30%;">&nbsp;&nbsp;Knowledge Graph&nbsp;&nbsp; </mark>
+<mark style="background-color: #743481; color: #fff; text-align: center; padding: 0.2em; margin-right: 4%; margin-bottom: 5px;box-shadow: 1px 1px 3px rgba(0,0,0,0.5); display: inline-block; width: 30%">&nbsp;&nbsp;Knowledge Organization&nbsp;&nbsp; </mark>   <br />  
+<mark style="background-color: #743481; color: #fff; text-align: center; padding: 0.2em; margin-right: 4%; margin-bottom: 5px;box-shadow: 1px 1px 3px rgba(0,0,0,0.5); display: inline-block; width: 30%;">&nbsp;&nbsp;Digital Humanities&nbsp;&nbsp; </mark>   
+<mark style="background-color: #743481; color: #fff; text-align: center; padding: 0.2em; margin-right: 4%; margin-bottom: 5px;box-shadow: 1px 1px 3px rgba(0,0,0,0.5); display: inline-block; width: 30%;">&nbsp;&nbsp;Multidimensional Analysis&nbsp;&nbsp; </mark>
 </div>
 
-<button class="toggleButton" style="margin-left: -0.5em;width:30%;height:2em; text-align: center; align-items: center; justify-content: center;display:flex;box-shadow: 1px 1px 3px rgba(0,0,0,0.5);font-weight: bold;">Click to Learn More!</button>
-
-<div class="content hidden" style="color: black;border: 0.05em solid #d3d3d3;margin-left:-0.5em;margin-top: 0.5em;padding: 1.5em;box-shadow: 1px 1px 3px rgba(0,0,0,0.5);text-align: justify;background-image:url(images/bgpro.png);background-size: contain">
+<div class="content hidden" style="color: black;border: 0.05em solid #d3d3d3;margin-left:-0.5em;margin-top: 0.5em;margin-bottom: 0.5em;padding: 1.5em;box-shadow: 1px 1px 3px rgba(0,0,0,0.5);text-align: justify;background-image:url(images/bgpro.png);background-size: contain">
 
 <h2 style="text-align: center; margin-top: 0; margin-bottom: 1em; text-decoration: underline; color: black;">1. Summary</h2>
 <img src='images/projects/p2/celebrity1.png' width="100%" style="margin-bottom:0.5em;">
@@ -176,6 +174,8 @@ Secondly, this study put the multi-dimensional analysis model into the data proc
 Finally, this study examines and interprets the Academic Chronicle of Wu Baokang as a case study, and develops the website called Wu Baokang Academic Celebrity Knowledge Base with the team. Through the construction of the multi-dimensional analysis model and path of biographies of academic celebrities, a relatively clear and unified research framework is provided for the analysis of biographical contents, which helps researchers to discover the potential research space of celebrity resources. <br />
 
 </div>
+<button class="toggleButton" style="margin-left: -0.5em;width:100%;height:2em; border-width:0; text-align: center; align-items: center; justify-content: center;display:flex;box-shadow: 1px 1px 3px rgba(0,0,0,0.5);font-weight: bold;">Click to Hide!</button>
+
 <!-- ②学术名人项目 完 -->
 
 <!-- ①问答平台项目 -->
@@ -183,17 +183,15 @@ Finally, this study examines and interprets the Academic Chronicle of Wu Baokang
 <li style="margin-left: -0.5em; text-align: justify;"><h2><i class="fa-li fa fa-fw fa-map-pin" aria-hidden="true" style="float: left;"></i>Research on Academic Social Q&A Behavior Based on Computational Linguistics&nbsp;&nbsp;&nbsp;<em>2019-2021</em></h2></li>
 <div style="margin-left: -0.5em; font-size: 14px;">
 
-<mark style="background-color: #743481; color: #fff; text-align: center; padding: 0.2em; margin-right: 0.5em; margin-bottom: 5px;box-shadow: 1px 1px 3px rgba(0,0,0,0.5); display: inline-block; width: 30%;">&nbsp;&nbsp;Response quantity&nbsp;&nbsp; </mark>
-<mark style="background-color: #743481; color: #fff; text-align: center; padding: 0.2em; margin-right: 0.5em; margin-bottom: 5px;box-shadow: 1px 1px 3px rgba(0,0,0,0.5); display: inline-block; width: 30%;">&nbsp;&nbsp;Linguistic characteristics&nbsp;&nbsp; </mark>
-<mark style="background-color: #743481; color: #fff; text-align: center; padding: 0.2em; margin-right: 0.5em; margin-bottom: 5px;box-shadow: 1px 1px 3px rgba(0,0,0,0.5); display: inline-block; width: 30%">&nbsp;&nbsp;Academic questions&nbsp;&nbsp; </mark>   <br />  
-<mark style="background-color: #743481; color: #fff; text-align: center; padding: 0.2em; margin-right: 0.5em; margin-bottom: 5px;box-shadow: 1px 1px 3px rgba(0,0,0,0.5); display: inline-block; width: 30%;">&nbsp;&nbsp;Academic social Q&A&nbsp;&nbsp; </mark>   
-<mark style="background-color: #743481; color: #fff; text-align: center; padding: 0.2em; margin-right: 0.5em; margin-bottom: 5px;box-shadow: 1px 1px 3px rgba(0,0,0,0.5); display: inline-block; width: 30%;">&nbsp;&nbsp;Information seeking&nbsp;&nbsp; </mark>   
+<mark style="background-color: #743481; color: #fff; text-align: center; padding: 0.2em; margin-right: 4%; margin-bottom: 5px;box-shadow: 1px 1px 3px rgba(0,0,0,0.5); display: inline-block; width: 30%;">&nbsp;&nbsp;Response quantity&nbsp;&nbsp; </mark>
+<mark style="background-color: #743481; color: #fff; text-align: center; padding: 0.2em; margin-right: 4%; margin-bottom: 5px;box-shadow: 1px 1px 3px rgba(0,0,0,0.5); display: inline-block; width: 30%;">&nbsp;&nbsp;Linguistic characteristics&nbsp;&nbsp; </mark>
+<mark style="background-color: #743481; color: #fff; text-align: center; padding: 0.2em; margin-right: 4%; margin-bottom: 5px;box-shadow: 1px 1px 3px rgba(0,0,0,0.5); display: inline-block; width: 30%">&nbsp;&nbsp;Academic questions&nbsp;&nbsp; </mark>   <br />  
+<mark style="background-color: #743481; color: #fff; text-align: center; padding: 0.2em; margin-right: 4%; margin-bottom: 5px;box-shadow: 1px 1px 3px rgba(0,0,0,0.5); display: inline-block; width: 30%;">&nbsp;&nbsp;Academic social Q&A&nbsp;&nbsp; </mark>   
+<mark style="background-color: #743481; color: #fff; text-align: center; padding: 0.2em; margin-right: 4%; margin-bottom: 5px;box-shadow: 1px 1px 3px rgba(0,0,0,0.5); display: inline-block; width: 30%;">&nbsp;&nbsp;Information seeking&nbsp;&nbsp; </mark>   
 
 </div>
 
-<button class="toggleButton" style="margin-left: -0.5em;width:30%;height:2em; text-align: center; align-items: center; justify-content: center;display:flex;box-shadow: 1px 1px 3px rgba(0,0,0,0.5);font-weight: bold;">Click to Learn More!</button>
-
-<div class="content hidden" style="color: black;border: 0.05em solid #d3d3d3;margin-left:-0.5em;margin-top: 0.5em;padding: 1.5em;box-shadow: 1px 1px 3px rgba(0,0,0,0.5);text-align: justify;background-image:url(images/bgpro.png);background-size: contain">
+<div class="content hidden" style="color: black;border: 0.05em solid #d3d3d3;margin-left:-0.5em;margin-top: 0.5em;margin-bottom: 0.5em;padding: 1.5em;box-shadow: 1px 1px 3px rgba(0,0,0,0.5);text-align: justify;background-image:url(images/bgpro.png);background-size: contain">
 
 <h2 style="text-align: center; margin-top: 0; margin-bottom: 1em; text-decoration: underline; color: black;">1. Summary</h2>
 <img src='images/projects/p1/qaplatform1.png' width="100%" style="margin-bottom:0.5em;">
@@ -209,6 +207,8 @@ The findings indicate that some linguistic characteristics, such as sadness, pos
 
 
 </div>
+<button class="toggleButton" style="margin-left: -0.5em;width:100%;height:2em; border-width:0; text-align: center; align-items: center; justify-content: center;display:flex;box-shadow: 1px 1px 3px rgba(0,0,0,0.5);font-weight: bold;">Click to Hide!</button>
+
 <!-- ①问答平台项目 完 -->
 
 
