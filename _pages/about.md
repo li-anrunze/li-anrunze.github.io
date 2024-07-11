@@ -157,7 +157,7 @@ At the empirical validation level, using the case study of "The Impressions of W
 <mark style="background-color: #743481; color: #fff; text-align: center; padding: 0.2em; margin-right: 0.5em; margin-bottom: 5px;box-shadow: 1px 1px 3px rgba(0,0,0,0.5); display: inline-block; width: 30%">&nbsp;&nbsp;Knowledge Organization&nbsp;&nbsp; </mark>   <br />  
 <mark style="background-color: #743481; color: #fff; text-align: center; padding: 0.2em; margin-right: 0.5em; margin-bottom: 5px;box-shadow: 1px 1px 3px rgba(0,0,0,0.5); display: inline-block; width: 30%;">&nbsp;&nbsp;Digital Humanities&nbsp;&nbsp; </mark>   
 <mark style="background-color: #743481; color: #fff; text-align: center; padding: 0.2em; margin-right: 0.5em; margin-bottom: 5px;box-shadow: 1px 1px 3px rgba(0,0,0,0.5); display: inline-block; width: 30%;">&nbsp;&nbsp;Multidimensional Analysis&nbsp;&nbsp; </mark>
-<button class="toggleButton" style="background-color: #d3d3d3; color: black; text-align: center; padding: 0.2em; margin-right: 0.5em; margin-bottom: 5px;box-shadow: 1px 1px 3px rgba(0,0,0,0.5); display: inline-block; width: 30%;"><i class="fa fa-fw fa-eye" aria-hidden="true"></i>&nbsp;&nbsp;Click to Learn More!</button>
+<button class="toggleButton" style="background-color: yellow; color: black; text-align: center; padding: 0.2em; margin-right: 0.5em; margin-bottom: 5px;box-shadow: 1px 1px 3px rgba(0,0,0,0.5); display: inline-block; width: 30%;"><i class="fa fa-fw fa-eye" aria-hidden="true"></i>&nbsp;&nbsp;Click to Learn More!</button>
 </div>
 
 <div class="content hidden" style="color: black;border: 0.05em solid #d3d3d3;margin-left:-0.5em;margin-top: 0.5em;padding: 1.5em;box-shadow: 1px 1px 3px rgba(0,0,0,0.5);text-align: justify;background-image:url(images/bgpro.png);background-size: contain">
@@ -441,10 +441,10 @@ The findings indicate that some linguistic characteristics, such as sadness, pos
                 var content = this.nextElementSibling;
                 if (content.classList.contains('hidden')) {
                     content.classList.remove('hidden');
-                    this.textContent = this.textContent.replace('Click to Learn More!', 'Click to Hide!');
+                    this.textContent = this.textContent.replace('Learn More', 'Hide');
                 } else {
                     content.classList.add('hidden');
-                    this.textContent = this.textContent.replace('Click to Hide!', 'Click to Learn More!');
+                    this.textContent = this.textContent.replace('Hide', 'Learn More');
                 }
             });
         });
