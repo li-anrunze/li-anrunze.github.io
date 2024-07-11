@@ -97,7 +97,7 @@ Lately, I am particularly interested in <strong>how generative AI can enable dat
 
 </div>
 
-<button class="toggleButton" style="margin-left: -0.5em;width:30%;height:2em; text-align: center; align-items: center; justify-content: center;display:flex;box-shadow: 1px 1px 3px rgba(0,0,0,0.5);"><i class="fa fa-fw fa-eye"></i>&nbsp;&nbsp;Click to Learn More!</button>
+<button class="toggleButton" style="margin-left: -0.5em;width:30%;height:2em; text-align: center; align-items: center; justify-content: center;display:flex;box-shadow: 1px 1px 3px rgba(0,0,0,0.5);">Click to Hide!</button>
 
 <div class="content show" style="color: black;border: 0.05em solid #d3d3d3;margin-left:-0.5em;margin-top: 0.5em;padding: 1.5em;box-shadow: 1px 1px 3px rgba(0,0,0,0.5);text-align: justify;background-image:url(images/bgpro.png);background-size: contain">
 
@@ -129,7 +129,7 @@ Taking “Suzhou Taffeta Craft” in “Suzhou Silk Archives of Modern China” 
 
 </div>
 
-<button class="toggleButton" style="margin-left: -0.5em;width:30%;height:2em; text-align: center; align-items: center; justify-content: center;display:flex;box-shadow: 1px 1px 3px rgba(0,0,0,0.5);"><i class="fa fa-fw fa-eye" aria-hidden="true"></i>&nbsp;&nbsp;Click to Learn More!</button>
+<button class="toggleButton" style="margin-left: -0.5em;width:30%;height:2em; text-align: center; align-items: center; justify-content: center;display:flex;box-shadow: 1px 1px 3px rgba(0,0,0,0.5);">Click to Learn More!</button>
 
 <div class="content hidden" style="color: black;border: 0.05em solid #d3d3d3;margin-left:-0.5em;margin-top: 0.5em;padding: 1.5em;box-shadow: 1px 1px 3px rgba(0,0,0,0.5);text-align: justify;background-image:url(images/bgpro.png);background-size: contain">
 
@@ -159,7 +159,7 @@ At the empirical validation level, using the case study of "The Impressions of W
 <mark style="background-color: #743481; color: #fff; text-align: center; padding: 0.2em; margin-right: 0.5em; margin-bottom: 5px;box-shadow: 1px 1px 3px rgba(0,0,0,0.5); display: inline-block; width: 30%;">&nbsp;&nbsp;Multidimensional Analysis&nbsp;&nbsp; </mark>
 </div>
 
-<button class="toggleButton" style="margin-left: -0.5em;width:30%;height:2em; text-align: center; align-items: center; justify-content: center;display:flex;box-shadow: 1px 1px 3px rgba(0,0,0,0.5);"><i class="fa fa-fw fa-eye" aria-hidden="true"></i>&nbsp;&nbsp;Click to Learn More!</button>
+<button class="toggleButton" style="margin-left: -0.5em;width:30%;height:2em; text-align: center; align-items: center; justify-content: center;display:flex;box-shadow: 1px 1px 3px rgba(0,0,0,0.5);">Click to Learn More!</button>
 
 <div class="content hidden" style="color: black;border: 0.05em solid #d3d3d3;margin-left:-0.5em;margin-top: 0.5em;padding: 1.5em;box-shadow: 1px 1px 3px rgba(0,0,0,0.5);text-align: justify;background-image:url(images/bgpro.png);background-size: contain">
 
@@ -191,7 +191,7 @@ Finally, this study examines and interprets the Academic Chronicle of Wu Baokang
 
 </div>
 
-<button class="toggleButton" style="margin-left: -0.5em;width:30%;height:2em; text-align: center; align-items: center; justify-content: center;display:flex;box-shadow: 1px 1px 3px rgba(0,0,0,0.5);"><i class="fa fa-fw fa-eye" aria-hidden="true"></i>&nbsp;&nbsp;Click to Learn More!</button>
+<button class="toggleButton" style="margin-left: -0.5em;width:30%;height:2em; text-align: center; align-items: center; justify-content: center;display:flex;box-shadow: 1px 1px 3px rgba(0,0,0,0.5);">Click to Learn More!</button>
 
 <div class="content hidden" style="color: black;border: 0.05em solid #d3d3d3;margin-left:-0.5em;margin-top: 0.5em;padding: 1.5em;box-shadow: 1px 1px 3px rgba(0,0,0,0.5);text-align: justify;background-image:url(images/bgpro.png);background-size: contain">
 
