@@ -80,11 +80,11 @@ Lately, I am particularly interested in <strong>how generative AI can enable dat
 <li style="margin-left: -0.5em; text-align: justify;"><h2><i class="fa-li fa fa-fw fa-map-pin" aria-hidden="true" style="float: left;"></i>Research on Cultural Data Narratives Driven by Generative AI&nbsp;&nbsp;&nbsp;<em>2023-Present</em></h2></li>
 <div style="margin-left: -0.5em; font-size: 14px;">
 
-<mark style="background-color: #743481; color: #fff; text-align: center; padding: 0.2em; margin-right: 0.5em; margin-bottom: 5px;box-shadow: 1px 1px 3px rgba(0,0,0,0.5); display: inline-block; width: 30%;">&nbsp;&nbsp;Data Narratives&nbsp;&nbsp; </mark>
-<mark style="background-color: #743481; color: #fff; text-align: center; padding: 0.2em; margin-right: 0.5em; margin-bottom: 5px;box-shadow: 1px 1px 3px rgba(0,0,0,0.5); display: inline-block; width: 30%;">&nbsp;&nbsp;Public Culture Service&nbsp;&nbsp; </mark>
-<mark style="background-color: #743481; color: #fff; text-align: center; padding: 0.2em; margin-right: 0.5em; margin-bottom: 5px;box-shadow: 1px 1px 3px rgba(0,0,0,0.5); display: inline-block; width: 30%">&nbsp;&nbsp;Generative AI&nbsp;&nbsp; </mark>   <br />  
-<mark style="background-color: #743481; color: #fff; text-align: center; padding: 0.2em; margin-right: 0.5em; margin-bottom: 5px;box-shadow: 1px 1px 3px rgba(0,0,0,0.5); display: inline-block; width: 30%;">&nbsp;&nbsp;GLAMs&nbsp;&nbsp; </mark>   
-<mark style="background-color: #743481; color: #fff; text-align: center; padding: 0.2em; margin-right: 0.5em; margin-bottom: 5px;box-shadow: 1px 1px 3px rgba(0,0,0,0.5); display: inline-block; width: 30%;">&nbsp;&nbsp;Knowledge Organization&nbsp;&nbsp; </mark>
+<mark style="background-color: #743481; color: #fff; text-align: center; padding: 0.2em; margin-right: 0.5em; margin-bottom: 5px;box-shadow: 1px 1px 3px rgba(0,0,0,0.5); display: inline-block; width: 30%;">&nbsp;&nbsp;Response quantity&nbsp;&nbsp; </mark>
+<mark style="background-color: #743481; color: #fff; text-align: center; padding: 0.2em; margin-right: 0.5em; margin-bottom: 5px;box-shadow: 1px 1px 3px rgba(0,0,0,0.5); display: inline-block; width: 30%;">&nbsp;&nbsp;Linguistic characteristics&nbsp;&nbsp; </mark>
+<mark style="background-color: #743481; color: #fff; text-align: center; padding: 0.2em; margin-right: 0.5em; margin-bottom: 5px;box-shadow: 1px 1px 3px rgba(0,0,0,0.5); display: inline-block; width: 30%">&nbsp;&nbsp;Academic questions&nbsp;&nbsp; </mark>   <br />  
+<mark style="background-color: #743481; color: #fff; text-align: center; padding: 0.2em; margin-right: 0.5em; margin-bottom: 5px;box-shadow: 1px 1px 3px rgba(0,0,0,0.5); display: inline-block; width: 30%;">&nbsp;&nbsp;Academic social Q&A&nbsp;&nbsp; </mark>   
+<mark style="background-color: #743481; color: #fff; text-align: center; padding: 0.2em; margin-right: 0.5em; margin-bottom: 5px;box-shadow: 1px 1px 3px rgba(0,0,0,0.5); display: inline-block; width: 30%;">&nbsp;&nbsp;Information seeking&nbsp;&nbsp; </mark>
 
 </div>
 
