@@ -293,7 +293,7 @@ The findings indicate that some linguistic characteristics, such as sadness, pos
 
 <!-- 2023.10 会议 -->
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge" style="color: white; background-color: #743481;">ICA 2023</div><img src='images/news/ICA202301.png' alt="sym" width="100%"><div><img src='images/news/ICA202302.png' alt="sym" width="100%" style="margin-top: 10px;"></div></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge" style="color: white; background-color: #743481;">ICA 2023</div><img src='images/news/ICA202301.png' alt="sym" width="100%"><div><img src='images/news/ICA202302.png' alt="sym" width="100%" style="margin-top: 10px;"></div></div>
 <div class='paper-box-text' markdown="1">
 
 <mark style="background-color: #74aed4; color: #fff; box-shadow: 1px 1px 3px rgba(0,0,0,0.5);">&nbsp;&nbsp;Conference&nbsp;&nbsp; </mark> <br />
