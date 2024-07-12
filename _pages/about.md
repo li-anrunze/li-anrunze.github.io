@@ -282,7 +282,8 @@ The findings indicate that some linguistic characteristics, such as sadness, pos
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge" style="color: white; background-color: #743481;">Forum</div><img src='images/news/AnnualMeeting2023.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-<mark style="background-color: #d3e2b7; color: #fff"; box-shadow: 1px 1px 3px rgba(0,0,0,0.5);>&nbsp;&nbsp;Voluntary&nbsp;&nbsp; </mark> <br />
+<mark style="background-color: #d3e2b7; color: #fff; box-shadow: 1px 1px 3px rgba(0,0,0,0.5);">&nbsp;&nbsp;Voluntary&nbsp;&nbsp; </mark> <br />
+
 **2023.10 | Renmin University of China, China** <br />
 *The 20th China Information Resources Management Forum*
 - **Liaised** with experts, **Organized** the agenda and accommodation, **Coordinated** the Digital Humanities sub-forum, and **Wrote** the press release.
@@ -296,6 +297,7 @@ The findings indicate that some linguistic characteristics, such as sadness, pos
 <div class='paper-box-text' markdown="1">
 
 <mark style="background-color: #74aed4; color: #fff; box-shadow: 1px 1px 3px rgba(0,0,0,0.5);">&nbsp;&nbsp;Conference&nbsp;&nbsp; </mark> <br />
+
 **2023.10 | ICA Abu Dhabi Congress 2023, United Arab Emirates** <br />
 *International Council on Archives (ICA) Congress AbuDhabi 2023*
 
