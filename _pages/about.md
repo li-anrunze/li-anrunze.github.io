@@ -91,7 +91,7 @@ Lately, I am particularly interested in <strong>how generative AI can enable dat
 
 <!-- ⑤叙事项目 -->
 
-<li style="margin-left: -0.5em; text-align: justify;"><h2><i class="fa-li fa fa-fw fa-map-pin" aria-hidden="true" style="float: left;"></i>Research on Cultural Heritage Data Narratives Driven by Generative AI&nbsp;&nbsp;&nbsp;<em>2023-Present</em></h2></li>
+<li style="margin-left: -0.5em; text-align: justify;"><h2><i class="fa-li fa fa-fw fa-map-pin" aria-hidden="true" style="float: left;"></i>Research on Digital Narratives of Cultural Heritage Driven by Generative AI&nbsp;&nbsp;&nbsp;<em>2023-Present</em></h2></li>
 <div style="margin-left: -0.5em; font-size: 14px;">
 
 <mark style="background-color: #743481; color: #fff; text-align: center; padding: 0.2em; margin-right: 0.5em; margin-bottom: 5px;box-shadow: 1px 1px 3px rgba(0,0,0,0.5); display: inline-block; width: 30%;">&nbsp;&nbsp;Data Narratives&nbsp;&nbsp; </mark>
