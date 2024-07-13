@@ -63,8 +63,9 @@ Lately, I am particularly interested in <strong>how generative AI can enable dat
 <h1> <i class="fa fa-fw fa-lightbulb" aria-hidden="true"></i> Interests </h1>
 <ul>
 <li>Digital Humanities</li>
-<li>Data Narratives</li>
-<li>Cultural Heritage</li>
+<li>Digital Narratives</li>
+<li>Digital Cultural Heritage</li>
+<li>GLAMs Studies</li>
 <li>Knowledge Organization and Service</li>
 </ul>
 </div>
