@@ -254,7 +254,7 @@ The findings indicate that some linguistic characteristics, such as sadness, pos
 
 <!-- 2024.08 会议 -->
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge" style="color: white; background-color: #743481;">DH 2024</div><img src='images/news/DH20241.png' alt="sym" width="100%" height="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge" style="color: white; background-color: #743481;">DH 2024</div><img src='images/news/DH2024.png' alt="sym" width="100%" height="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 <mark style="background-color: #74aed4; color: #fff; box-shadow: 1px 1px 3px rgba(0,0,0,0.5);">&nbsp;&nbsp;Conference&nbsp;&nbsp; </mark> <br />
