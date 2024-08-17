@@ -250,9 +250,32 @@ The findings indicate that some linguistic characteristics, such as sadness, pos
 <h1><i class="fa fa-fw fa-bell" aria-hidden="true"></i>  Activities</h1>
 </section>
 
-<h3>DH2024, IDEC2024 Continuing……</h3>
-
 <div>
+
+<!-- 2024.08 会议 -->
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge" style="color: white; background-color: #743481;">DH 2024</div><img src='images/news/DH2024.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+<mark style="background-color: #74aed4; color: #fff; box-shadow: 1px 1px 3px rgba(0,0,0,0.5);">&nbsp;&nbsp;Conference&nbsp;&nbsp; </mark> <br />
+**2024.08 | George Mason University, USA** <br />
+*DH 2024*
+- Had a <strong>Poster</strong> presentation titled "Research on the Multidimensional Feature Analysis Model of Local Gazetteers from the Perspective of Cultural Computing".
+- Had a <strong>Poster</strong> presentation titled "Traceability, Reliability, Interpretability: a Data Storytelling Model for Archives Documentary Heritage Based on Evidence-Based Thinking".
+</div>
+</div>
+
+<!-- 2024.07 会议 -->
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge" style="color: white; background-color: #743481;">IDEC 2024</div><img src='images/news/IDEC202401.png' alt="sym" width="100%"><div><img src='images/news/IDEC202402.png' alt="sym" width="100%" style="margin-top: 10px;"></div></div></div>
+<div class='paper-box-text' markdown="1">
+
+<mark style="background-color: #74aed4; color: #fff; box-shadow: 1px 1px 3px rgba(0,0,0,0.5);">&nbsp;&nbsp;Conference&nbsp;&nbsp; </mark> <br />
+**2024.07 | Jilin University, Korea** <br />
+*IDEC 2024*
+- Had a **Long Paper** presentation titled "Narrative Modeling of Local Gazetteer Data under Artificial Intelligence Driven Paradigm (AI4S)".
+</div>
+</div>
 
 <!-- 2024.04 会议 -->
 
