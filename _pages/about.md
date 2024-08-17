@@ -271,7 +271,7 @@ The findings indicate that some linguistic characteristics, such as sadness, pos
 <div class='paper-box-text' markdown="1">
 
 <mark style="background-color: #74aed4; color: #fff; box-shadow: 1px 1px 3px rgba(0,0,0,0.5);">&nbsp;&nbsp;Conference&nbsp;&nbsp; </mark> <br />
-**2024.07 | Jilin University, Korea** <br />
+**2024.07 | Institute for the Translation of Korean Classics, Korea** <br />
 *IDEC 2024*
 - Had a **Long Paper** presentation titled "Narrative Modeling of Local Gazetteer Data under Artificial Intelligence Driven Paradigm (AI4S)".
 </div>
