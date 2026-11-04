@@ -1,8 +1,5 @@
 # main links links
 main:
-  - title: "Persona"
-    url: "/#persona"
-
   - title: "Bio"
     url: "/#bio"
 
