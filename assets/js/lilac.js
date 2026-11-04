@@ -84,6 +84,15 @@
     });
   });
 
+  /* per-year paper counts next to each year heading */
+  $$('.year-mark').forEach(function (y) {
+    var n = $$('.pub[data-year="' + y.getAttribute('data-year') + '"]').length;
+    var tag = document.createElement('span');
+    tag.className = 'year-mark__n';
+    tag.textContent = n + (n > 1 ? ' papers' : ' paper');
+    y.appendChild(tag);
+  });
+
   /* publications: filter + search */
   var pubs = $$('.pub'), years = $$('.year-mark'), empty = $('.pubs-empty'), state = { f: 'all', q: '' };
   function applyPubs() {

@@ -150,11 +150,12 @@ section.block { padding: clamp(56px, 9vw, 104px) 0 0; }
   border: 1px solid #EAE1DA;
   box-shadow: 0 2px 4px rgba(60, 50, 75, .05), 0 30px 60px -28px rgba(80, 64, 110, .38);
 }
-.meet__title { margin: 0 0 14px; text-align: center; font: 900 30px/1.1 var(--serif-d); color: var(--ink); position: relative; }
-.meet__title b { display: block; font-size: 38px; font-weight: 900; }
-.tick { position: absolute; top: 18px; width: 30px; height: 30px; }
+.meet__title { margin: 4px 0 16px; text-align: center; position: relative; display: flex; justify-content: center; align-items: center; gap: 10px; }
+.meet__brush { font: 400 30px/1.1 "Ma Shan Zheng", var(--zh); color: var(--ink); letter-spacing: .08em; }
+.meet__dot { color: var(--rose); font-size: 22px; }
+.tick { position: absolute; top: 2px; width: 30px; height: 30px; }
 .tick::before, .tick::after { content: ""; position: absolute; height: 2.5px; width: 18px; border-radius: 2px; background: var(--rose); }
-.tick--l { left: 14%; } .tick--r { right: 14%; }
+.tick--l { left: 2%; } .tick--r { right: 2%; }
 .tick--l::before { top: 4px; left: 0; transform: rotate(25deg); }
 .tick--l::after { top: 18px; left: 2px; transform: rotate(-10deg); }
 .tick--r::before { top: 4px; right: 0; transform: rotate(-25deg); }
@@ -296,7 +297,12 @@ section.block { padding: clamp(56px, 9vw, 104px) 0 0; }
   padding: 16px 18px; border-radius: 12px; border: 1px solid transparent;
   transition: background .25s, border-color .25s, transform .25s, box-shadow .25s;
 }
-.pub:hover { background: var(--paper); border-color: var(--line); box-shadow: var(--shadow); transform: translateX(4px); }
+.pub::before { content: ""; position: absolute; left: 0; top: 14px; bottom: 14px; width: 2px; border-radius: 2px; background: var(--lilac); opacity: 0; transition: opacity .25s; }
+.pub:hover { background: var(--paper); border-color: var(--line); box-shadow: var(--shadow); }
+.pub:hover::before { opacity: 1; }
+.pub[data-tags~="first"] { background: rgba(239, 234, 241, .45); }
+.year-mark__n { font: 600 12.5px/1 var(--serif); letter-spacing: .14em; text-transform: uppercase; color: var(--ink-3); order: 2; }
+.year-mark::after { order: 1; }
 .pub__no { font: 400 15px/1.9 var(--serif); color: var(--ink-3); }
 .pub__text { font: 400 16.5px/1.85 var(--zh); color: var(--ink-2); text-align: left; }
 .pub__text a { word-break: break-all; }
@@ -355,21 +361,42 @@ section.block { padding: clamp(56px, 9vw, 104px) 0 0; }
 .t-contest { --c: var(--rose); }
 
 /* ---------- honors ---------- */
-.honors { display: grid; grid-template-columns: repeat(auto-fill, minmax(300px, 1fr)); gap: 18px; }
-.honor-year, .honor-year + .honor-year { padding: 22px 24px; margin-top: 0; }
-.honor-year h3 { font: 700 28px/1 var(--serif-d); color: var(--lilac); margin: 0 0 12px; justify-content: space-between; }
-.honor-year h3 span { font: 400 13px/1 var(--serif); font-style: normal; color: var(--ink-3); letter-spacing: .1em; }
-.honor-year ul { list-style: none; margin: 0; padding: 0; }
-.honor-year li { padding: 8px 0; border-top: 1px dashed var(--line); font-size: 16px; line-height: 1.45; color: var(--ink-2); display: grid; grid-template-columns: 18px 1fr; gap: 8px; }
-.honor-year li:first-child { border-top: 0; }
-.honor-year li i { color: var(--ochre); font-size: 12px; margin-top: 6px; }
-.honor-year li small { display: block; color: var(--ink-3); font-size: 14px; }
+.honors { display: grid; gap: 14px; }
+.honor-year, .honor-year + .honor-year {
+  margin-top: 0; padding: 18px 22px; display: grid; grid-template-columns: 120px 1fr; gap: 18px; align-items: start;
+  position: relative; transition: border-color .3s, box-shadow .3s;
+}
+.honor-year::before { content: ""; position: absolute; left: 0; top: 18px; bottom: 18px; width: 3px; border-radius: 0 3px 3px 0; background: linear-gradient(var(--lilac), var(--rose)); opacity: .55; }
+.honor-year:hover { border-color: var(--lilac-soft); }
+.honor-year h3 { display: block; margin: 4px 0 0; font: 900 34px/1 var(--serif-d); color: var(--lilac-deep); }
+.honor-year h3 span { display: block; margin-top: 8px; font: 600 12.5px/1 var(--serif); color: var(--ink-3); letter-spacing: .14em; text-transform: uppercase; }
+.honor-year ul { list-style: none; margin: 0; padding: 0; display: grid; grid-template-columns: repeat(auto-fill, minmax(230px, 1fr)); gap: 10px; }
+.honor-year li {
+  display: grid; grid-template-columns: 16px 1fr; gap: 8px; padding: 10px 12px; border-radius: 10px;
+  background: rgba(239, 234, 241, .55); border: 1px solid transparent; font-size: 15.5px; line-height: 1.4; color: var(--ink-2);
+  transition: background .25s, border-color .25s;
+}
+.honor-year li:hover { background: #fff; border-color: var(--line); }
+.honor-year li i { color: var(--ochre); font-size: 11px; margin-top: 5px; }
+.honor-year li small { display: block; margin-top: 2px; color: var(--ink-3); font-size: 13.5px; }
 
 /* ---------- footer, to-top, lightbox ---------- */
-.footer { margin-top: 110px; padding: 40px 16px 50px; text-align: center; color: var(--ink-3); font-size: 15px; border-top: 1px solid var(--line); }
-.footer p { margin: 4px 0; }
-.footer__flower { width: 40px; height: 46px; object-fit: contain; margin: 0 auto 6px; display: block; }
-.footer__quote { font-family: var(--zh); letter-spacing: .5em; color: var(--lilac); }
+.footer { margin-top: 120px; padding: 56px 0 28px; color: var(--ink-3); font-size: 15px; border-top: 1px solid var(--line); overflow: hidden;
+  background: linear-gradient(180deg, transparent, rgba(239, 234, 241, .6)); }
+.footer__wash { position: absolute; right: -40px; bottom: -60px; width: 300px; opacity: .25; pointer-events: none; }
+.footer__grid { position: relative; width: min(1080px, 100% - 32px); margin: 0 auto; display: grid; grid-template-columns: 1.4fr 1fr 1.2fr; gap: 32px; }
+.footer p { margin: 0; }
+.footer__name { display: flex; align-items: center; gap: 10px; font: 900 24px/1 var(--serif-d); color: var(--ink); }
+.footer__name span { font-size: 16px; font-weight: 700; color: var(--ink-3); }
+.footer__flower { width: 28px; height: 34px; object-fit: contain; }
+.footer__quote { margin-top: 16px !important; font: 400 26px/1.2 "Ma Shan Zheng", var(--zh); color: var(--lilac-deep); letter-spacing: .08em; }
+.footer__en { margin-top: 4px !important; font: 600 19px/1.2 "Caveat", cursive; color: var(--rose); }
+.footer__label { margin-bottom: 12px !important; font: 600 12.5px/1 var(--serif); letter-spacing: .2em; text-transform: uppercase; color: var(--lilac-deep); }
+.footer__nav, .footer__contact { display: flex; flex-direction: column; gap: 8px; align-items: flex-start; }
+.footer__nav a, .footer__contact a { color: var(--ink-2); font-size: 15px; transition: color .2s, transform .2s; }
+.footer__nav a:hover, .footer__contact a:hover { color: var(--lilac-deep); transform: translateX(3px); }
+.footer__contact i { width: 18px; color: var(--lilac); }
+.footer__copy { position: relative; width: min(1080px, 100% - 32px); margin: 40px auto 0 !important; padding-top: 18px; border-top: 1px dashed var(--line); font-size: 13.5px; letter-spacing: .06em; }
 
 .to-top {
   position: fixed; right: 22px; bottom: 22px; z-index: 40; width: 44px; height: 44px; border-radius: 50%;
@@ -408,6 +435,10 @@ section.block { padding: clamp(56px, 9vw, 104px) 0 0; }
   .timeline__col--l .act::before { left: -30px; right: auto; }
 }
 @media (max-width: 760px) {
+  .honor-year, .honor-year + .honor-year { grid-template-columns: 1fr; gap: 10px; }
+  .honor-year h3 span { display: inline; margin-left: 10px; }
+  .footer__grid { grid-template-columns: 1fr; gap: 26px; }
+  .meet__brush { font-size: 24px; }
   body { font-size: 17px; }
   .meet__stage { grid-template-columns: 1fr 1fr; gap: 12px 16px; min-height: 0; }
   .meet__photo { grid-column: 1 / -1; grid-row: 1; width: 62%; justify-self: center; }

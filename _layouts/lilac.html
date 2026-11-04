@@ -12,7 +12,7 @@
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
   <link rel="stylesheet" media="print" onload="this.media='all'" href="https://fonts.googleapis.com/css2?family=Caveat:wght@600;700&family=Ma+Shan+Zheng&family=Noto+Serif+SC:wght@400;500;600;700;900&family=Source+Serif+4:ital,opsz,wght@0,8..60,400;0,8..60,600;0,8..60,700;1,8..60,400&display=swap">
   <link rel="stylesheet" media="print" onload="this.media='all'" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.2/css/all.min.css">
-  <link rel="stylesheet" href="{{ '/assets/css/lilac.css' | relative_url }}?v=20261104f">
+  <link rel="stylesheet" href="{{ '/assets/css/lilac.css' | relative_url }}?v=20261104g">
 </head>
 <body>
 
@@ -36,9 +36,27 @@
   </main>
 
   <footer class="footer">
-    <img class="footer__flower" src="{{ '/images/magnolia-mini.png' | relative_url }}" alt="" aria-hidden="true">
-    <p>© {{ site.time | date: '%Y' }} Anrunze Li · 黎安润泽</p>
-    <p class="footer__quote">读万卷书，行万里路</p>
+    <img class="footer__wash" src="{{ '/images/magnolia.png' | relative_url }}" alt="" aria-hidden="true">
+    <div class="footer__grid">
+      <div class="footer__brand">
+        <p class="footer__name"><img class="footer__flower" src="{{ '/images/magnolia-mini.png' | relative_url }}" alt="" aria-hidden="true">Anrunze Li <span>黎安润泽</span></p>
+        <p class="footer__quote">在无花果树里寻花</p>
+        <p class="footer__en">seek the blossoms others cannot see</p>
+      </div>
+      <nav class="footer__nav" aria-label="Footer">
+        <p class="footer__label">Explore</p>
+        {% for link in site.data.navigation.main %}<a href="{{ link.url | remove: '/' }}">{{ link.title }}</a>
+        {% endfor %}
+      </nav>
+      <div class="footer__contact">
+        <p class="footer__label">Contact</p>
+        <a href="mailto:{{ site.author.email }}"><i class="fa-solid fa-envelope"></i> {{ site.author.email }}</a>
+        <a href="{{ site.author.researchgate }}" target="_blank" rel="noopener"><i class="fa-brands fa-researchgate"></i> ResearchGate</a>
+        <a href="https://github.com/{{ site.author.github }}" target="_blank" rel="noopener"><i class="fa-brands fa-github"></i> GitHub</a>
+        <a href="{{ '/images/AnrunzeLI-CV.pdf' | relative_url }}" download="AnrunzeLI-CV.pdf"><i class="fa-solid fa-paperclip"></i> Download CV</a>
+      </div>
+    </div>
+    <p class="footer__copy">© {{ site.time | date: '%Y' }} Anrunze Li · {{ site.author.location }}</p>
   </footer>
 
   <button class="to-top" aria-label="Back to top"><i class="fa-solid fa-arrow-up"></i></button>
@@ -49,7 +67,7 @@
     <p class="lightbox__cap"></p>
   </dialog>
 
-  <script src="{{ '/assets/js/lilac.js' | relative_url }}?v=20261104f" defer></script>
+  <script src="{{ '/assets/js/lilac.js' | relative_url }}?v=20261104g" defer></script>
   {% include analytics.html %}
 </body>
 </html>
