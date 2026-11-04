@@ -58,6 +58,23 @@
     })();
   }
 
+  /* at-a-glance numbers, counted from the page itself */
+  $$('[data-count]').forEach(function (b) {
+    var target = $$(b.getAttribute('data-count')).length;
+    if (reduced || !('IntersectionObserver' in window)) { b.textContent = target; return; }
+    var io = new IntersectionObserver(function (es) {
+      if (!es[0].isIntersecting) return;
+      io.disconnect();
+      var t0 = performance.now();
+      (function step(t) {
+        var k = Math.min(1, (t - t0) / 1200);
+        b.textContent = Math.round(target * (1 - Math.pow(1 - k, 3)));
+        if (k < 1) requestAnimationFrame(step);
+      })(t0);
+    });
+    io.observe(b);
+  });
+
   /* projects accordion */
   $$('.project').forEach(function (p) {
     var head = $('.project__head', p);
