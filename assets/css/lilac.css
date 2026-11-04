@@ -150,16 +150,15 @@ section.block { padding: clamp(56px, 9vw, 104px) 0 0; }
   border: 1px solid #EAE1DA;
   box-shadow: 0 2px 4px rgba(60, 50, 75, .05), 0 30px 60px -28px rgba(80, 64, 110, .38);
 }
-.meet__title { margin: 4px 0 16px; text-align: center; position: relative; display: flex; justify-content: center; align-items: center; gap: 10px; }
-.meet__brush { font: 400 30px/1.1 "Ma Shan Zheng", var(--zh); color: var(--ink); letter-spacing: .08em; }
-.meet__dot { color: var(--rose); font-size: 22px; }
-.tick { position: absolute; top: 2px; width: 30px; height: 30px; }
-.tick::before, .tick::after { content: ""; position: absolute; height: 2.5px; width: 18px; border-radius: 2px; background: var(--rose); }
-.tick--l { left: 2%; } .tick--r { right: 2%; }
-.tick--l::before { top: 4px; left: 0; transform: rotate(25deg); }
-.tick--l::after { top: 18px; left: 2px; transform: rotate(-10deg); }
-.tick--r::before { top: 4px; right: 0; transform: rotate(-25deg); }
-.tick--r::after { top: 18px; right: 2px; transform: rotate(10deg); }
+.meet__tags { list-style: none; margin: 0 0 16px; padding: 0 0 0 64px; display: flex; flex-wrap: wrap; justify-content: center; gap: 8px 8px; }
+.mt {
+  --c: var(--lilac); padding: 3px 11px 4px; border-radius: 999px; font: 700 16px/1.15 "Caveat", cursive; color: var(--ink-2);
+  background: color-mix(in srgb, var(--c) 18%, #fff); border: 1px solid color-mix(in srgb, var(--c) 45%, transparent);
+  transform: rotate(var(--r, 0deg)); transition: transform .3s, background .3s;
+}
+.mt:hover { transform: rotate(0) translateY(-2px); background: color-mix(in srgb, var(--c) 30%, #fff); }
+.mt--lilac { --c: var(--lilac); --r: -3deg; } .mt--rose { --c: var(--rose); --r: 2deg; } .mt--sage { --c: var(--sage); --r: -1.5deg; }
+.mt--ochre { --c: var(--ochre); --r: 2.5deg; } .mt--slate { --c: var(--slate); --r: -2deg; }
 
 .meet__stage { position: relative; display: grid; grid-template-columns: 1fr 46% 1fr; align-items: center; min-height: 310px; }
 .meet__photo {
@@ -438,12 +437,12 @@ section.block { padding: clamp(56px, 9vw, 104px) 0 0; }
   .honor-year, .honor-year + .honor-year { grid-template-columns: 1fr; gap: 10px; }
   .honor-year h3 span { display: inline; margin-left: 10px; }
   .footer__grid { grid-template-columns: 1fr; gap: 26px; }
-  .meet__brush { font-size: 24px; }
+  .meet__tags { padding-left: 0; margin-top: 14px; }
   body { font-size: 17px; }
   .meet__stage { grid-template-columns: 1fr 1fr; gap: 12px 16px; min-height: 0; }
   .meet__photo { grid-column: 1 / -1; grid-row: 1; width: 62%; justify-self: center; }
   .note { position: static; max-width: none !important; text-align: left !important; font-size: 16px; padding-left: 14px; border-left: 2px solid var(--lilac-soft); }
-  .arrow, .spark, .tick { display: none; }
+  .arrow, .spark { display: none; }
   .meet__sticker { left: -6px; }
   .links__icons { margin-left: 0; }
   .nav-toggle {
