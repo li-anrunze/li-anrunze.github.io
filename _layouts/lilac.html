@@ -1,0 +1,82 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  {% include seo.html %}
+  <link rel="apple-touch-icon" sizes="180x180" href="{{ '/images/apple-touch-icon.png' | relative_url }}">
+  <link rel="icon" type="image/png" sizes="32x32" href="{{ '/images/favicon-32x32.png' | relative_url }}">
+  <link rel="icon" type="image/png" sizes="16x16" href="{{ '/images/favicon-16x16.png' | relative_url }}">
+  <meta name="theme-color" content="#F6F3EE">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Cormorant+Garamond:ital,wght@0,400;0,500;0,600;1,400;1,500&family=EB+Garamond:ital,wght@0,400;0,500;0,600;1,400&family=Noto+Serif+SC:wght@400;500;600&display=swap">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.2/css/all.min.css">
+  <link rel="stylesheet" href="{{ '/assets/css/lilac.css' | relative_url }}">
+</head>
+<body>
+
+  <!-- 玉兰花 symbol, reused across the page -->
+  <svg width="0" height="0" style="position:absolute" aria-hidden="true">
+    <defs>
+      <linearGradient id="petal-g" x1="0" y1="1" x2="0" y2="0">
+        <stop offset="0" stop-color="#E9DFEE"/>
+        <stop offset=".55" stop-color="#FBF9F6"/>
+        <stop offset="1" stop-color="#FFFFFF"/>
+      </linearGradient>
+      <symbol id="magnolia" viewBox="-120 -150 240 200">
+        <path d="M2 40C0 20-1 10 0 2" stroke="#A39A8E" stroke-width="2.4" fill="none" stroke-linecap="round"/>
+        <path d="M1 30C-30 26-52 34-66 50C-40 52-16 44 1 30Z" fill="#E4E1D6" stroke="#B8B2A2" stroke-width="1"/>
+        <g stroke="#B9AAC9" stroke-width="1.1" fill="url(#petal-g)">
+          <path transform="rotate(-38)" d="M0 0C-30-18-36-70-14-100C-6-108 6-108 14-100C36-70 30-18 0 0Z"/>
+          <path transform="rotate(36)"  d="M0 0C-30-18-36-70-14-100C-6-108 6-108 14-100C36-70 30-18 0 0Z"/>
+          <path transform="rotate(-16)" d="M0 0C-32-20-38-78-15-110C-6-119 6-119 15-110C38-78 32-20 0 0Z"/>
+          <path transform="rotate(15)"  d="M0 0C-32-20-38-78-15-110C-6-119 6-119 15-110C38-78 32-20 0 0Z"/>
+          <path d="M0 0C-30-22-34-86-12-118C-5-126 5-126 12-118C34-86 30-22 0 0Z"/>
+        </g>
+        <path d="M0 -6C-2 -40 -1 -80 0 -104M0 -6C-14 -36 -18 -64 -14 -86M0 -6C14 -36 18 -64 14 -86" stroke="#DCD2E4" stroke-width=".8" fill="none"/>
+        <path d="M-10 2C-6 -7 6 -7 10 2C6 8-6 8-10 2Z" stroke="#A39A8E" stroke-width="1.2" fill="#CFC5B8"/>
+      </symbol>
+      <symbol id="petal" viewBox="-12 -30 24 32">
+        <path d="M0 0C-10-9-8-22 0-29 8-22 10-9 0 0Z" fill="url(#petal-g)" stroke="#C9BCD6" stroke-width=".8"/>
+      </symbol>
+    </defs>
+  </svg>
+
+  <div class="progress" aria-hidden="true"><span></span></div>
+
+  <header class="topbar" id="top">
+    <a class="brand" href="#hero">
+      <svg class="brand__flower" aria-hidden="true"><use href="#magnolia"/></svg>
+      <span>Anrunze Li</span>
+    </a>
+    <button class="nav-toggle" aria-label="Open menu" aria-expanded="false"><span></span><span></span></button>
+    <nav class="nav" aria-label="Sections">
+      {% for link in site.data.navigation.main %}
+      <a href="{{ link.url | remove: '/' }}">{{ link.title }}</a>
+      {% endfor %}
+    </nav>
+  </header>
+
+  <main>
+    {{ content }}
+  </main>
+
+  <footer class="footer">
+    <svg class="footer__flower" aria-hidden="true"><use href="#magnolia"/></svg>
+    <p>© {{ site.time | date: '%Y' }} Anrunze Li · 黎安润泽</p>
+    <p class="footer__quote">读万卷书，行万里路</p>
+  </footer>
+
+  <button class="to-top" aria-label="Back to top"><i class="fa-solid fa-arrow-up"></i></button>
+
+  <dialog class="lightbox" aria-label="Image preview">
+    <button class="lightbox__close" aria-label="Close"><i class="fa-solid fa-xmark"></i></button>
+    <img alt="">
+    <p class="lightbox__cap"></p>
+  </dialog>
+
+  <script src="{{ '/assets/js/lilac.js' | relative_url }}" defer></script>
+  {% include analytics.html %}
+</body>
+</html>
