@@ -10,20 +10,17 @@
   <meta name="theme-color" content="#F6F3EE">
   <link rel="preconnect" href="https://fonts.googleapis.com">
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-  <link rel="stylesheet" media="print" onload="this.media='all'" href="https://fonts.googleapis.com/css2?family=Noto+Serif+SC:wght@400;500;600;700;900&family=Source+Serif+4:ital,opsz,wght@0,8..60,400;0,8..60,600;0,8..60,700;1,8..60,400&display=swap">
+  <link rel="stylesheet" media="print" onload="this.media='all'" href="https://fonts.googleapis.com/css2?family=Caveat:wght@600;700&family=Ma+Shan+Zheng&family=Noto+Serif+SC:wght@400;500;600;700;900&family=Source+Serif+4:ital,opsz,wght@0,8..60,400;0,8..60,600;0,8..60,700;1,8..60,400&display=swap">
   <link rel="stylesheet" media="print" onload="this.media='all'" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.2/css/all.min.css">
-  <link rel="stylesheet" href="{{ '/assets/css/lilac.css' | relative_url }}?v=20261104">
+  <link rel="stylesheet" href="{{ '/assets/css/lilac.css' | relative_url }}?v=20261104c">
 </head>
 <body>
-
-  <!-- 玉兰花 symbols (white magnolia, drawn after a watercolour reference) -->
-  {% include magnolia-symbols.html %}
 
   <div class="progress" aria-hidden="true"><span></span></div>
 
   <header class="topbar" id="top">
     <a class="brand" href="#hero">
-      <svg class="brand__flower" aria-hidden="true"><use href="#magnolia"/></svg>
+      <img class="brand__flower" src="{{ '/images/magnolia-mini.png' | relative_url }}" alt="" aria-hidden="true">
       <span>Anrunze Li</span>
     </a>
     <button class="nav-toggle" aria-label="Open menu" aria-expanded="false"><span></span><span></span></button>
@@ -39,7 +36,7 @@
   </main>
 
   <footer class="footer">
-    <svg class="footer__flower" aria-hidden="true"><use href="#magnolia"/></svg>
+    <img class="footer__flower" src="{{ '/images/magnolia-mini.png' | relative_url }}" alt="" aria-hidden="true">
     <p>© {{ site.time | date: '%Y' }} Anrunze Li · 黎安润泽</p>
     <p class="footer__quote">读万卷书，行万里路</p>
   </footer>
@@ -52,7 +49,7 @@
     <p class="lightbox__cap"></p>
   </dialog>
 
-  <script src="{{ '/assets/js/lilac.js' | relative_url }}?v=20261104" defer></script>
+  <script src="{{ '/assets/js/lilac.js' | relative_url }}?v=20261104c" defer></script>
   {% include analytics.html %}
 </body>
 </html>

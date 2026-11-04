@@ -8,42 +8,77 @@ redirect_from:
   - /about.html
 ---
 
-<!-- ================= HERO ================= -->
+<!-- ================= HERO (cover) ================= -->
 <section class="hero" id="hero">
-  <div class="hero__bg" aria-hidden="true">
-    <svg class="m1"><use href="#magnolia-branch"/></svg>
-  </div>
-  <div class="petals" aria-hidden="true"></div>
+  <img class="hero__wash" src="{{ '/images/magnolia.png' | relative_url }}" alt="" aria-hidden="true">
 
   <div class="wrap hero__grid">
-    <div class="rise">
-      <div class="hero__id">
-        <img class="avatar" src="{{ '/images/Avatar.png' | relative_url }}" alt="Portrait of Anrunze Li">
-        <p class="eyebrow">Ph.D. Student<br>Renmin University of China</p>
-      </div>
-      <h1>Anrunze Li</h1>
-      <p class="hero__zh">黎安润泽 <span>· Leanne</span></p>
-      <p class="hero__lead">
-        Information Resources Management, exploring
-        <span class="typed" data-words='["Digital Humanities","Digital Narratives","Digital Cultural Heritage","GLAMs Studies","Knowledge Organization and Service"]'>Digital Humanities</span>
+    <div class="hero__text rise">
+      <p class="eyebrow"><i class="fa-solid fa-turn-up fa-rotate-90"></i> Hi, I'm Anrunze · 黎安润泽</p>
+      <h1>
+        <span>Digital Humanist.</span>
+        <span class="accent">Data</span>
+        <span>Storyteller.</span>
+      </h1>
+      <p class="hero__script">
+        <i class="fa-solid fa-arrow-right-long"></i>
+        <span><span class="brush">读万卷书，行万里路</span><span class="hand">reading books &amp; travelling miles</span></span>
       </p>
+      <p class="hero__lead">
+        Ph.D. student in Information Resources Management at Renmin University of China, now a joint-training
+        researcher with the China Biographical Database (CBDB) at Harvard. I study how generative AI can let
+        cultural-heritage data tell its own stories — always happy to talk about it.
+      </p>
+      <ul class="chips">
+        <li class="chip">Digital Humanities</li>
+        <li class="chip">Digital Narratives</li>
+        <li class="chip">Cultural Heritage</li>
+        <li class="chip">GLAMs</li>
+        <li class="chip">Knowledge Organization ✦</li>
+      </ul>
       <div class="links">
-        <a class="btn btn--solid" href="mailto:{{ site.author.email }}"><i class="fa-solid fa-envelope"></i> Email</a>
-        <a class="btn" href="{{ site.author.researchgate }}" target="_blank" rel="noopener"><i class="fa-brands fa-researchgate"></i> ResearchGate</a>
-        <a class="btn" href="https://github.com/{{ site.author.github }}" target="_blank" rel="noopener"><i class="fa-brands fa-github"></i> GitHub</a>
-        <a class="btn" href="{{ '/images/AnrunzeLI-CV.pdf' | relative_url }}" download="AnrunzeLI-CV.pdf"><i class="fa-solid fa-paperclip"></i> Download CV</a>
-      </div>
-      <div class="hero__meta">
-        <span><i class="fa-solid fa-location-dot"></i>{{ site.author.location }}</span>
-        <span><i class="fa-solid fa-building-columns"></i>School of Information Resource Management, RUC</span>
+        <a class="btn btn--solid" href="#projects">See my research <i class="fa-solid fa-arrow-right"></i></a>
+        <a class="btn" href="{{ '/images/AnrunzeLI-CV.pdf' | relative_url }}" download="AnrunzeLI-CV.pdf">Download CV <i class="fa-solid fa-paperclip"></i></a>
+        <span class="links__icons">
+          <a class="icon" href="mailto:{{ site.author.email }}" aria-label="Email"><i class="fa-solid fa-envelope"></i></a>
+          <a class="icon" href="{{ site.author.researchgate }}" target="_blank" rel="noopener" aria-label="ResearchGate"><i class="fa-brands fa-researchgate"></i></a>
+          <a class="icon" href="https://github.com/{{ site.author.github }}" target="_blank" rel="noopener" aria-label="GitHub"><i class="fa-brands fa-github"></i></a>
+        </span>
       </div>
     </div>
 
-    <div class="branch rise rise--late" aria-hidden="true">
-      <svg><use href="#magnolia-branch"/></svg>
-    </div>
+    <figure class="meet rise rise--late">
+      <span class="meet__sticker"><i class="fa-solid fa-check"></i> that's me!</span>
+      <span class="meet__pill"><i></i>Visiting @ Harvard CBDB</span>
+      <img class="meet__flower" src="{{ '/images/magnolia.png' | relative_url }}" alt="" aria-hidden="true">
+
+      <div class="meet__paper">
+        <h2 class="meet__title"><span class="tick tick--l" aria-hidden="true"></span>Meet <b>Anrunze</b><span class="tick tick--r" aria-hidden="true"></span></h2>
+
+        <div class="meet__stage">
+          <div class="meet__photo" data-zoom data-caption="Reading in the library">
+            <img src="{{ '/images/portrait-library.jpg' | relative_url }}" alt="Anrunze Li reading in a library armchair">
+          </div>
+
+          <p class="note note--tl">PhD student @ RUC,<br>Information Resources Mgmt<svg class="arrow" viewBox="0 0 44 30"><path d="M3 6C14 4 28 8 38 22"/><path d="M31 21l7 2 1-7"/></svg></p>
+          <p class="note note--tr">joint training @<br>Harvard CBDB<svg class="arrow" viewBox="0 0 44 30"><path d="M41 6C30 4 16 8 6 22"/><path d="M13 21l-7 2-1-7"/></svg></p>
+          <p class="note note--ml">ideas from classic books<br>&amp; everything around<svg class="arrow" viewBox="0 0 44 30"><path d="M3 14C16 10 28 12 39 17"/><path d="M33 12l6 5-6 5"/></svg></p>
+          <p class="note note--mr">travels for<br>conferences ✈<svg class="arrow" viewBox="0 0 44 30"><path d="M41 14C28 10 16 12 5 17"/><path d="M11 12l-6 5 6 5"/></svg></p>
+          <p class="note note--bl">builds websites<br>&amp; mini-programs<svg class="arrow" viewBox="0 0 44 30"><path d="M3 24C14 26 28 22 38 8"/><path d="M31 9l7-2 1 7"/></svg></p>
+          <p class="note note--br">electives in CS, film,<br>psychology &amp; more<svg class="arrow" viewBox="0 0 44 30"><path d="M41 24C30 26 16 22 6 8"/><path d="M13 9L6 7 5 14"/></svg></p>
+
+          <span class="spark s1" aria-hidden="true">✦</span>
+          <span class="spark s2" aria-hidden="true">✦</span>
+          <span class="spark s3" aria-hidden="true">+</span>
+          <span class="spark s4" aria-hidden="true">✦</span>
+        </div>
+
+        <p class="meet__motto">a sincere &amp; curious heart<br>towards the world</p>
+      </div>
+
+      <blockquote class="meet__quote">“Let data tell its own stories.” <span>✦</span></blockquote>
+    </figure>
   </div>
-  <div class="scroll-hint" aria-hidden="true">Scroll</div>
 </section>
 
 <!-- ================= BIO ================= -->
@@ -52,36 +87,20 @@ redirect_from:
     <div class="heading reveal"><span class="heading__num">壹</span><h2>Bio<small>个人简介</small></h2></div>
 
     <div class="bio">
-      <div class="bio__text reveal">
-        <p>Hello, I am Anrunze Li! 🥰 Currently, I am a second-year PhD student in <strong>Information Resources Management</strong> at School of Information Resource Management, Renmin University of China <span class="zh">(中国人民大学信息资源管理学院)</span>.</p>
-        <p>I am adept at thinking and solving problems, which come from classic books and everything around me. As an old Chinese proverb goes,</p>
-        <blockquote class="quote">“Traveling a thousand miles is better than reading a thousand books.”</blockquote>
-        <p>I actively participate in overseas exchange programs and international academic conferences, and have joined various competitions with my peers, connecting with like-minded academic friends.</p>
-        <p>I consistently uphold <strong>a sincere and curious heart towards the world</strong>, enjoying the exploration of diverse subjects. This is why I chose Digital Humanities as my core research direction. Beyond my major courses, I have taken electives in Computer Science, Sociology, Psychology, Education, and Film Arts. And I have experimented with developing websites and mini-programs to enrich my knowledge base and daily life.</p>
-        <p>Lately, I am particularly interested in <strong>how generative AI can enable data to tell its own stories</strong>. Welcome discussions on this topic! ❤️</p>
+      <div class="card reveal">
+        <h3><i class="fa-solid fa-graduation-cap"></i> Education</h3>
+        <ul class="edu">
+          <li><b>2025.11 – 2026.11</b>Joint Ph.D. Training, China Biographical Database Project (CBDB), Harvard University</li>
+          <li><b>2023.09 – now</b>Ph.D. Student in Information Resource Management, Integrated Master’s-PhD Program, School of Information Resource Management, Renmin University of China</li>
+          <li><b>2021.09 – 2023.06</b>M.S. in Information Science, School of Information Resource Management, Renmin University of China</li>
+          <li><b>2017.09 – 2021.06</b>B.S. in Information Management and Information System, School of Government, Beijing Normal University</li>
+        </ul>
       </div>
-
-      <aside>
-        <div class="card reveal">
-          <h3><i class="fa-solid fa-feather"></i> Interests</h3>
-          <ul class="chips">
-            <li class="chip">Digital Humanities</li>
-            <li class="chip">Digital Narratives</li>
-            <li class="chip">Digital Cultural Heritage</li>
-            <li class="chip">GLAMs Studies</li>
-            <li class="chip">Knowledge Organization and Service</li>
-          </ul>
-        </div>
-        <div class="card reveal">
-          <h3><i class="fa-solid fa-graduation-cap"></i> Education</h3>
-          <ul class="edu">
-            <li><b>2025.11 – 2026.11</b>Joint Ph.D. Training, China Biographical Database Project (CBDB), Harvard University</li>
-            <li><b>2023.09 – now</b>Ph.D. Student in Information Resource Management, Integrated Master’s-PhD Program, School of Information Resource Management, Renmin University of China</li>
-            <li><b>2021.09 – 2023.06</b>M.S. in Information Science, School of Information Resource Management, Renmin University of China</li>
-            <li><b>2017.09 – 2021.06</b>B.S. in Information Management and Information System, School of Government, Beijing Normal University</li>
-          </ul>
-        </div>
-      </aside>
+      <div class="card reveal">
+        <h3><i class="fa-solid fa-feather"></i> Beyond Research</h3>
+        <p class="bio__short">Digital Humanities is where my curiosity lives. Beyond my major I have taken electives in Computer Science, Sociology, Psychology, Education and Film Arts, and I like building websites and mini-programs. I join international conferences, exchanges and competitions to meet like-minded friends.</p>
+        <p class="bio__short">Lately I am most interested in <strong>how generative AI can enable data to tell its own stories</strong> — welcome to discuss! ❤️</p>
+      </div>
     </div>
   </div>
 </section>

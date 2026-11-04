@@ -58,23 +58,6 @@
     })();
   }
 
-  /* magnolia petals in hero */
-  var petals = $('.petals');
-  if (petals && !reduced) {
-    for (var i = 0; i < 12; i++) {
-      var s = document.createElementNS('http://www.w3.org/2000/svg', 'svg');
-      s.innerHTML = '<use href="#petal"/>';
-      var size = 12 + Math.random() * 12;
-      s.style.left = Math.random() * 100 + '%';
-      s.style.width = size + 'px'; s.style.height = size * 1.3 + 'px';
-      s.style.animationDuration = 11 + Math.random() * 10 + 's';
-      s.style.animationDelay = -Math.random() * 20 + 's';
-      s.style.setProperty('--dx', (Math.random() * 200 - 60) + 'px');
-      s.style.setProperty('--rot', (Math.random() * 540 - 180) + 'deg');
-      petals.appendChild(s);
-    }
-  }
-
   /* projects accordion */
   $$('.project').forEach(function (p) {
     var head = $('.project__head', p);
