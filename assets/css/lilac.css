@@ -160,9 +160,9 @@ section.block { padding: clamp(56px, 9vw, 104px) 0 0; }
 .mt--lilac { --c: var(--lilac); --r: -3deg; } .mt--rose { --c: var(--rose); --r: 2deg; } .mt--sage { --c: var(--sage); --r: -1.5deg; }
 .mt--ochre { --c: var(--ochre); --r: 2.5deg; } .mt--slate { --c: var(--slate); --r: -2deg; }
 
-.meet__stage { position: relative; display: grid; grid-template-columns: 1fr 46% 1fr; align-items: center; min-height: 310px; }
+.meet__stage { position: relative; display: grid; grid-template-columns: 1fr 64%; align-items: end; min-height: 420px; }
 .meet__photo {
-  grid-column: 2; grid-row: 1; aspect-ratio: 4 / 5; border-radius: 999px 999px 14px 14px; overflow: hidden;
+  grid-column: 2; grid-row: 1; margin: 54px -6px 0 0; aspect-ratio: 4 / 5; border-radius: 999px 999px 14px 14px; overflow: hidden;
   border: 5px solid #fff; box-shadow: 0 14px 28px -14px rgba(60, 50, 75, .45); cursor: zoom-in;
   transform: rotate(-1.5deg); transition: transform .5s cubic-bezier(.2,.7,.2,1);
 }
@@ -174,17 +174,14 @@ section.block { padding: clamp(56px, 9vw, 104px) 0 0; }
 }
 .note:hover { color: var(--lilac-deep); transform: translateY(-2px); }
 .arrow { position: absolute; width: 38px; height: 26px; fill: none; stroke: var(--rose); stroke-width: 1.8; stroke-linecap: round; stroke-linejoin: round; }
-.note--tl { left: 0; top: 4%; } .note--tl .arrow { left: 62%; top: 100%; }
-.note--tr { right: 0; top: 6%; text-align: right; } .note--tr .arrow { right: 62%; top: 100%; }
-.note--ml { left: 0; top: 44%; } .note--ml .arrow { left: 72%; top: 105%; }
-.note--mr { right: 0; top: 46%; text-align: right; } .note--mr .arrow { right: 60%; top: 105%; }
-.note--bl { left: 0; bottom: 6%; } .note--bl .arrow { left: 60%; bottom: 100%; }
-.note--br { right: 0; bottom: 4%; text-align: right; } .note--br .arrow { right: 60%; bottom: 100%; }
-.note--ml, .note--bl { max-width: 27%; }
-.note--mr, .note--br, .note--tl, .note--tr { max-width: 29%; }
+.note--l1, .note--l2, .note--l3, .note--l4, .note--l5 { left: 0; max-width: 34%; }
+.note--l1 { top: 2%; } .note--l2 { top: 24%; } .note--l3 { top: 46%; } .note--l4 { top: 64%; } .note--l5 { top: 83%; }
+.note--l1 .arrow, .note--l2 .arrow, .note--l3 .arrow, .note--l4 .arrow, .note--l5 .arrow { left: calc(100% - 22px); top: 92%; }
+.note--top { right: 0; top: -6px; max-width: 40%; text-align: right; }
+.note--top .arrow { right: calc(100% + 2px); top: 30%; }
 
 .spark { position: absolute; color: var(--rose); font-size: 14px; opacity: .8; animation: twinkle 3.6s ease-in-out infinite; }
-.s1 { left: 24%; top: 30%; } .s2 { right: 22%; top: 34%; animation-delay: 1.2s; } .s3 { left: 22%; bottom: 26%; font-size: 18px; animation-delay: .6s; } .s4 { right: 24%; bottom: 30%; font-size: 11px; animation-delay: 2s; }
+.s1 { left: 32%; top: 4%; } .s2 { right: 44%; top: 2%; animation-delay: 1.2s; } .s3 { left: 30%; bottom: 2%; font-size: 18px; animation-delay: .6s; } .s4 { right: -4px; bottom: 34%; font-size: 11px; animation-delay: 2s; }
 @keyframes twinkle { 0%, 100% { opacity: .25; transform: scale(.85); } 50% { opacity: .9; transform: scale(1.1); } }
 
 .meet__motto { margin: 14px 0 0; text-align: center; font: 700 19px/1.15 "Caveat", cursive; color: var(--ink); }
@@ -440,7 +437,7 @@ section.block { padding: clamp(56px, 9vw, 104px) 0 0; }
   .meet__tags { padding-left: 0; margin-top: 14px; }
   body { font-size: 17px; }
   .meet__stage { grid-template-columns: 1fr 1fr; gap: 12px 16px; min-height: 0; }
-  .meet__photo { grid-column: 1 / -1; grid-row: 1; width: 62%; justify-self: center; }
+  .meet__photo { grid-column: 1 / -1; grid-row: 1; width: 68%; justify-self: end; margin: 0 4% 0 0; }
   .note { position: static; max-width: none !important; text-align: left !important; font-size: 16px; padding-left: 14px; border-left: 2px solid var(--lilac-soft); }
   .arrow, .spark { display: none; }
   .meet__sticker { left: -6px; }
